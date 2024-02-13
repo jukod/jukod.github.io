@@ -3,12 +3,13 @@ description: Competitive programming study group at JTH / JU
 source: /
 markdown: GFM
 
-theme: jekyll-theme-hacker
+theme: jekyll-theme-leap-day
 # other nice-looking themes:
-#   theme: jekyll-theme-cayman
-#   theme: jekyll-theme-hacker
-#   theme: jekyll-theme-midnight
-#   theme: jekyll-theme-slate
+#   theme: jekyll-theme-cayman   # greenish
+#   theme: jekyll-theme-hacker   # dark monospaced green
+#   theme: jekyll-theme-midnight # dark background
+#   theme: jekyll-theme-slate    # grey / gray
+#   theme: jekyll-theme-leap-day # blue-and-yellow
 # full list: https://pages.github.com/themes/
 
 github:
