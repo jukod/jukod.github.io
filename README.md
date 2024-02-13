@@ -85,12 +85,12 @@ Just create an account on [Kattis](https://open.kattis.com/) and start practicin
 
 ## NCPC Rules
 
-| Stage | Acronym | Name                                         | a.k.a.       | Date                 | Rules         |
-| ----- | ------- | -------------------------------------------- | ------------ | -------------------- | ------------- |
-| 1.    | [NCPC]  | Nordic Collegiate Programming Contest        | sub-regional |       7 October 2023 | [NCPC rules]  |
-| 2.    | [NWERC] | Northwestern Europe Regional Contest         | regional     | 24--26 November 2023 | [NWERC rules] |
-| 3.    | [EUC]   | ICPC European Championship                   | regional     | 22--24 March 2024    | [EUC rules]   |
-| 4.    | [ICPC]  | International Collegiate Programming Contest | World Finals |      Around May 2024 | [ICPC rules]  |
+| Stage | Acronym | Name                                         | a.k.a.       | Date              | Rules         |
+| ----- | ------- | -------------------------------------------- | ------------ | ----------------- | ------------- |
+| 1.    | [NCPC]  | Nordic Collegiate Programming Contest        | sub-regional |      October 2024 | [NCPC rules]  |
+| 2.    | [NWERC] | Northwestern Europe Regional Contest         | regional     |     November 2024 | [NWERC rules] |
+| 3.    | [EUC]   | ICPC European Championship                   | regional     | 22--24 March 2024 | [EUC rules]   |
+| 4.    | [ICPC]  | International Collegiate Programming Contest | World Finals |   Around May 2024 | [ICPC rules]  |
 
 * no internet access
 * some printed material allowed
