@@ -1,0 +1,15 @@
+title: JU Kod
+description: JU Kod desc
+source: /
+markdown: GFM
+
+theme: jekyll-theme-hacker
+# other nice-looking themes:
+#   theme: jekyll-theme-cayman
+#   theme: jekyll-theme-hacker
+#   theme: jekyll-theme-midnight
+#   theme: jekyll-theme-slate
+# full list: https://pages.github.com/themes/
+
+github:
+  is_project_page: false # disables the "view on GitHub" button
