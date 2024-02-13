@@ -23,6 +23,7 @@ solving [≈ 10 programming problems] in 5 hours
 using either [C, Python, Java, C++ or Kotlin].
 At the end,
 the team with [most solved problems] wins.
+It's quite fun!  :-)
 
 
 ### [Competition format]
@@ -47,19 +48,20 @@ the team with [most solved problems] wins.
 The best problems for practicing leading up to the competition
 are the
 [problems from NCPC 2022](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202022?order=difficulty_data)
-(last year).
-Here are the easiest 5 in order of difficulty:
+and
+[NCPC 2023](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202023?order=difficulty_data).
+(last years).
+Here are the easiest 6 in order of difficulty:
 
 - [C -     Coffee Cup Combo](https://open.kattis.com/problems/coffeecupcombo)
 - [D -        Disc District](https://open.kattis.com/problems/discdistrict)
 - [H -         Highest Hill](https://open.kattis.com/problems/highesthill)
 - [A -          Ace Arbiter](https://open.kattis.com/problems/acearbiter)
 - [G - Graduation Guarantee](https://open.kattis.com/problems/graduationguarantee)
+- [C -    Converting Romans](https://open.kattis.com/problems/convertingromans)
 
 They are [available for practice at open.kattis.com](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202022?order=difficulty_data).
-You may need to edit the URL to be `open.kattis.com/problems/<PROBLEMCODE>`.
-
-Here are the problem sets from past years:
+The problem sets from past years are hosted there:
 [NCPC 2023](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202023?order=difficulty_data);
 [NCPC 2022](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202022?order=difficulty_data);
 [NCPC 2021](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202021?order=difficulty_data);
