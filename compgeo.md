@@ -4,6 +4,8 @@
 
 (translated from my original lecture notes of 2019 in Portuguese)
 
+For the literate Haskell source, see [compgeo.lhs](compgeo.lhs).
+
 ## Geometry
 
 One should be familiar with the following:
@@ -21,7 +23,8 @@ One should be familiar with the following:
 Haskell is a pure functional language with static typing and non-strict
 (lazy) evaluation.
 
-This intro uses Haskell and is presented as a literate Haskell file.
+This intro uses Haskell and is presented as
+[a literate Haskell file](compgeo.lhs).
 
 Some (basic) features of Haskell were not used to protect the innocent!
 (Notably parametric polymorphism, points are monomorphic here.)
