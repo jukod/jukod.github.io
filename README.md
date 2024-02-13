@@ -103,6 +103,13 @@ Just create an account on [Kattis](https://open.kattis.com/) and start practicin
            point-of-contact between competitors and the contest organization
 
 
+## Further information
+
+* [Practicing for the NWERC](nwerc.md)
+* [Other competitive programming study groups / societies in Sweden](other-groups.md)
+* [Other interesting study material](material.md)
+
+
 ## Gallery
 
 [![ICPC logo](https://upload.wikimedia.org/wikipedia/en/1/1d/ICPC_International_Collegiate_Programming_Contest_logo%2C_Aug_2018.png)](https://icpc.global)
