@@ -3,7 +3,7 @@ description: Competitive programming study group at JTH / JU
 source: /
 markdown: GFM
 
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-slate
 # other nice-looking themes:
 #   theme: jekyll-theme-cayman   # greenish
 #   theme: jekyll-theme-hacker   # dark monospaced green
