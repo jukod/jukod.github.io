@@ -6,7 +6,7 @@ that participate in the NCPC (NWERC & ICPC)
 with links to their official websites.
 
 
-## [Jönköping University (JU)](https://github.com/jth-computing/ncpc)
+## [Jönköping University (JU)](https://jukod.github.io/)
 
 Participated for the first time in 2023.
 
