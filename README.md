@@ -89,7 +89,8 @@ Just create an account on [Kattis](https://open.kattis.com/) and start practicin
 | ----- | ------- | -------------------------------------------- | ------------ | -------------------- | ------------- |
 | 1.    | [NCPC]  | Nordic Collegiate Programming Contest        | sub-regional |       7 October 2023 | [NCPC rules]  |
 | 2.    | [NWERC] | Northwestern Europe Regional Contest         | regional     | 24--26 November 2023 | [NWERC rules] |
-| 3.    | [ICPC]  | International Collegiate Programming Contest | World Finals |      Around May 2024 | [ICPC rules]  |
+| 3.    | [EUC]   | ICPC European Championship                   | regional     | 22--24 March 2024    | [EUC rules]   |
+| 4.    | [ICPC]  | International Collegiate Programming Contest | World Finals |      Around May 2024 | [ICPC rules]  |
 
 * no internet access
 * some printed material allowed
@@ -110,8 +111,8 @@ Just create an account on [Kattis](https://open.kattis.com/) and start practicin
 [NCPC]: https://nordic.icpc.io/
 [Nordic Collegiate Programming Contest (NCPC)]: https://nordic.icpc.io/
 [NWERC]: https://nwerc.eu/
+[EUC]: https://euc.icpc.global/
 [ICPC]: https://icpc.global/
-[JTH]: https://ju.se/om-oss/tekniska-hogskolan.html
 
 [≈ 10 programming problems]: https://github.com/icpc/ncpc-web/releases/download/ncpc2022-data/ncpc2022problems.pdf
 [most solved problems]: https://ncpc22.kattis.com/contests/ncpc22/standings
@@ -121,6 +122,7 @@ Just create an account on [Kattis](https://open.kattis.com/) and start practicin
 [regional rules]: https://icpc.global/regionals/rules
 [NCPC rules]:     https://nordic.icpc.io/ncpc2023/compete#rules
 [NWERC rules]:    https://nwerc.eu/rules/
+[EUC rules]:      https://euc.icpc.global/home-2024/rules/
 [ICPC rules]:     https://icpc.global/worldfinals/rules
 [coach]:          https://icpc.global/regionals/rules
 
@@ -128,7 +130,9 @@ Just create an account on [Kattis](https://open.kattis.com/) and start practicin
 
 [Competition format]: https://live.staticflickr.com/1526/26113291873_9208648a69_b.jpg
 
+[JU]:                                https://ju.se/
 [Jönköping University (JU)]:         https://ju.se/
 [Jönköping Tekniska Högskola (JTH)]: https://ju.se/om-oss/tekniska-hogskolan.html
+[JTH]:                               https://ju.se/om-oss/tekniska-hogskolan.html
 [contact us]:                mailto:g-join-jukod@groups.ju.se
 [g-join-jukod@groups.ju.se]: mailto:g-join-jukod@groups.ju.se
