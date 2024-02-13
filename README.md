@@ -14,8 +14,8 @@ Please [contact us] to join in the studies or enter a team in the NCPC
 ([g-join-jukod@groups.ju.se]).
 
 
-Preparing for NCPC
-==================
+Preparing for the NCPC
+======================
 
 The [Nordic Collegiate Programming Contest (NCPC)] is held every year.
 Teams of [3 university students] compete
@@ -26,14 +26,14 @@ the team with [most solved problems] wins.
 It's quite fun!  :-)
 
 
-#### Date and nearest location (NCPC)
+#### Date and nearest location
 
 * October 2024
 * 11:00 -- 16:00 CEST (UTC+2)
 * @ Linköpings Universitet
 
 
-## Problems for Practicing to the NCPC
+## Problems for Practicing
 
 The best problems for practicing leading up to the competition
 are the
@@ -79,6 +79,14 @@ Just create an account on [Kattis](https://open.kattis.com/) and start practicin
 * [Practicing for the NWERC](nwerc.md)
 * [Other competitive programming study groups / societies in Sweden](other-groups.md)
 * [Other interesting study material](material.md)
+
+
+## Upcoming competitions
+
+| Name                                                    | Date              |
+| ------------------------------------------------------- | ----------------- |
+| [EUC] -- ICPC European Championship (Spectator Contest) | 22--24 March 2024 |
+| [NCPC] -- Nordic Collegiate Programming Contest         |      October 2024 |
 
 
 [NCPC]: https://nordic.icpc.io/
