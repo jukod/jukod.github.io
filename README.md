@@ -13,6 +13,7 @@ All JTH students are welcome to participate in the group.
 Please [contact us] to join in the studies or enter a team in the NCPC
 ([g-join-jukod@groups.ju.se]).
 
+
 Preparing for NCPC
 ==================
 
@@ -41,7 +42,7 @@ the team with [most solved problems] wins.
 * @ Linköpings Universitet
 
 
-## Problems for Practicing
+## Problems for Practicing to the NCPC
 
 The best problems for practicing leading up to the competition
 are the
@@ -66,6 +67,18 @@ Here are the problem sets from past years:
 [NCPC 2019](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202019?order=difficulty_data);
 [NCPC 2018](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202018?order=difficulty_data);
 [NCPC 2017](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202017?order=difficulty_data).
+
+If you are new to programming contests,
+you can start with
+[easier problems on Open Kattis](https://open.kattis.com/problems?order=difficulty_data),
+such as:
+
+* [hello](https://open.kattis.com/problems/hello)
+* [addtwonumbers](https://open.kattis.com/problems/addtwonumbers)
+* [dicecup](https://open.kattis.com/problems/dicecup)
+* [fizzbuzz](https://open.kattis.com/problems/fizzbuzz)
+
+Just create an account on [Kattis](https://open.kattis.com/) and start practicing!  :-)
 
 
 ## NCPC Rules
