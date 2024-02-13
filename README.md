@@ -111,6 +111,8 @@ Here are the problem sets from past years:
 
 [NCPC 2023 results]: https://ncpc23.kattis.com/contests/ncpc23/standings?filter=5254
 
+[Competition format]: https://live.staticflickr.com/1526/26113291873_9208648a69_b.jpg
+
 [Jönköping University (JU)]:         https://ju.se/
 [Jönköping Tekniska Högskola (JTH)]: https://ju.se/om-oss/tekniska-hogskolan.html
 [contact us]:                mailto:g-join-jukod@groups.ju.se
