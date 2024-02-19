@@ -25,12 +25,9 @@ At the end,
 the team with [most solved problems] wins.
 It's quite fun!  :-)
 
-
-#### Date and nearest location
-
-* October 2024
-* 11:00 -- 16:00 CEST (UTC+2)
-* @ Linköpings Universitet
+Date and nearest location:
+October 2024
+@ Linköpings Universitet. (TBC)
 
 
 ## Problems for Practicing
