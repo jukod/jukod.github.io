@@ -6,7 +6,7 @@ JU Kod
 [Jönköping University (JU)].
 
 We organize teams for participation in the yearly
-NCPC (Nordic Collegiate Programming Contest)
+[NCPC (Nordic Collegiate Programming Contest)](#preparing-for-the-ncpc)
 and related computer programming contests and competitions.
 
 All JTH students are welcome to participate in the group.
@@ -14,8 +14,12 @@ Please [contact us] to join in the studies or enter a team in the NCPC
 ([g-join-jukod@groups.ju.se]).
 
 
-Preparing for the NCPC
-======================
+## Upcoming meetups
+
+TBA
+
+
+## Preparing for the NCPC
 
 The [Nordic Collegiate Programming Contest (NCPC)] is held every year.
 Teams of [3 university students] compete
@@ -30,7 +34,7 @@ October 2024
 @ Linköpings Universitet. (TBC)
 
 
-## Problems for Practicing
+### Problems for Practicing
 
 The best problems for practicing leading up to the competition
 are the
@@ -70,7 +74,7 @@ such as:
 Just create an account on [Kattis](https://open.kattis.com/) and start practicing!  :-)
 
 
-## Further information
+### Further information
 
 * [Further info on the NCPC](ncpc.md)
 * [Practicing for the NWERC](nwerc.md)
