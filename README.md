@@ -5,7 +5,7 @@ JU Kod
 [Jönköping Tekniska Högskola (JTH)] /
 [Jönköping University (JU)].
 
-![Picture of JTH](https://ju.se/images/18.1ad0f9d6177c3b563dd27f22/1614754729027/x960p/JTH-180507-1040.jpg)
+![Picture of JTH](https://github.com/jukod/jukod.github.io/assets/3999598/0e345cd6-03f9-48c9-b2a2-8ef0c7ca36cf)
 
 We organize teams for participation in the yearly
 [NCPC (Nordic Collegiate Programming Contest)](#preparing-for-the-ncpc)
