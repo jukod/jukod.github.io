@@ -1,7 +1,7 @@
 JU Kod
 ======
 
-JonKod is a competitive programming study group at
+[JU Kod] is a competitive programming study group at
 [Jönköping Tekniska Högskola (JTH)] /
 [Jönköping University (JU)].
 
