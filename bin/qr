@@ -1,0 +1,3 @@
+#!/bin/bash
+qr_encode='zint -bqr --quietzones --scale 6 -d'
+exec $qr_encode https://jukod.github.io/ -o qr.svg
