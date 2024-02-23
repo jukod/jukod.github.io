@@ -13,12 +13,19 @@ and related computer programming contests and competitions.
 
 All JTH students are welcome to participate in the group.
 Please [contact us] to join in the studies or enter a team in the NCPC
-([g-join-jukod@groups.ju.se]).
+([g-join-jukod@groups.ju.se])
+or come to one of our upcoming meetups.
 
 
 ## Upcoming meetups
 
-TBA
+For the first half of 2024's spring term,
+we meet every other Friday at 15:15.
+
+| Upcoming meetups      | Date                  | Time  | Location     |
+| --------------------- | --------------------- | ----- | ------------ |
+| -                     | Friday,  8 March 2024 | 15:15 | E1017, Eldon |
+| -                     | Friday, 22 March 2024 | 15:15 | E1017, Eldon |
 
 
 ## Preparing for the NCPC
