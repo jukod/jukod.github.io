@@ -19,13 +19,13 @@ or come to one of our upcoming meetups.
 
 ## Upcoming meetups
 
-For the first half of 2024's spring term,
+For the first half of 2024's spring term, study period 3,
 we meet every other Friday at 15:15.
 
-| Upcoming meetups      | Date                  | Time  | Location     |
-| --------------------- | --------------------- | ----- | ------------ |
-| -                     | Friday,  8 March 2024 | 15:15 | E1017, Eldon |
-| -                     | Friday, 22 March 2024 | 15:15 | E1017, Eldon |
+| Meetup Date           | Time  | Location     | Note |
+| --------------------- | ----- | ------------ | ---- |
+| Friday,  8 March 2024 | 15:15 | E1017, Eldon |      |
+| Friday, 22 March 2024 | 15:15 | E1017, Eldon | Decide meetup times for next term |
 
 
 ## Preparing for the NCPC
