@@ -107,7 +107,7 @@ Just create an account on [Kattis](https://open.kattis.com/) and start practicin
 [ICPC]: https://icpc.global/
 
 [≈ 10 programming problems]: https://github.com/icpc/ncpc-web/releases/download/ncpc2022-data/ncpc2022problems.pdf
-[most solved problems]: https://ncpc22.kattis.com/contests/ncpc22/standings
+[most solved problems]: https://ncpc23.kattis.com/contests/ncpc23/standings
 [C, Python, Java, C++ or Kotlin]: https://docs.icpc.global/worldfinals-programming-environment/
 [3 university students]: https://live.staticflickr.com/7884/32596056617_5dc85ee500_b.jpg
 
