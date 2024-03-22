@@ -93,6 +93,8 @@ Just create an account on [Kattis](https://open.kattis.com/) and start practicin
 * [Other interesting study material](material.md)
 * [Computational Geometry tutorial notes](compgeo.md)
 * [Competitive Programmer's Handbook (Antti Laaksonen)](https://cses.fi/book/book.pdf)
+* [Meetup schedule on TimeEdit (student)](https://cloud.timeedit.net/ju/web/student/riq86d9Qn03Z86Qt6m709t0Q67ZZn4441kAm50kQ71o00oAn22FlEA12Z90Q2E556BvZ5YY97847BQEC75Y8Q050DBXD16Qy94qZow6.html)
+* [Meetup schedule on TimeEdit (staff)](https://cloud.timeedit.net/ju/web/staff/riq86d9Qn03Z86Qt6m709t0Q67ZZn4441kAm50kQ71o00oAn22FlEA12Z90Q2E556BvZ5YY97847BQEC75Y8Q050DBXD16Qy94qZow6.html)
 
 ## Upcoming competitions
 
