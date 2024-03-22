@@ -24,7 +24,8 @@ we meet every other Friday at 15:15.
 
 | Meetup Date           | Time  | Location     | Note |
 | --------------------- | ----- | ------------ | ---- |
-| Friday, 5th April 2024 | 13:15 | E1028, Husqvarna | First official meeting |
+| Friday, 5 April 2024  | 13:15 | E1028, Husqvarna | First official meeting |
+| Friday, 19 April 2024 | 13:15 | E1418 | |
 
 
 ## Preparing for the NCPC
