@@ -20,7 +20,8 @@ or come to one of our upcoming meetups.
 ## Upcoming meetups
 
 For the first half of 2024's spring term, study period 3,
-we meet every other Friday at 15:15.
+we meet every other Friday afternoon.
+See the schedule below for the upcoming meetings.
 
 | Meetup Date           | Time  | Location     | Note |
 | --------------------- | ----- | ------------ | ---- |
