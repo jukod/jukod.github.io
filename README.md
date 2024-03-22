@@ -24,8 +24,6 @@ we meet every other Friday at 15:15.
 
 | Meetup Date           | Time  | Location     | Note |
 | --------------------- | ----- | ------------ | ---- |
-| ~~Friday,  8 March 2024~~ | ~~15:15~~ | ~~E1017, Eldon~~ | Postponed |
-| Friday, 22 March 2024 | 15:15 | E1017, Eldon | Decide meetup times for next term |
 | Friday, 5th April 2024 | 13:15 | E1028, Husqvarna | First official meeting |
 
 
