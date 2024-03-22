@@ -19,14 +19,15 @@ or come to one of our upcoming meetups.
 
 ## Upcoming meetups
 
-For the first half of 2024's spring term, study period 3,
+For the second half of 2024's spring term, study period 4,
 we meet every other Friday afternoon.
-See the schedule below for the upcoming meetings.
+See the schedule below for the upcoming meetups.
 
-| Meetup Date           | Time  | Location     | Note |
-| --------------------- | ----- | ------------ | ---- |
-| Friday, 5 April 2024  | 13:15 | E1028, Husqvarna | First official meeting |
-| Friday, 19 April 2024 | 13:15 | E1418 | |
+| Meetup Date           | Time  | Location         | Note |
+| --------------------- | ----- | ---------------- | ---- |
+| Friday, 5 April 2024  | 13:15 | E1028, Husqvarna | First open meetup |
+| Friday, 19 April 2024 | 13:15 | E1418            | |
+| Friday, 5 May 2024    | 15:15 | E1017, Eldon     | |
 
 
 ## Preparing for the NCPC
