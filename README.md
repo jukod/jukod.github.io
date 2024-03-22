@@ -41,8 +41,8 @@ the team with [most solved problems] wins.
 It's quite fun!  :-)
 
 Date and nearest location:
-October 2024
-@ Linköpings Universitet. (TBC)
+Saturday 5 __October__ 2024
+@ Linköpings Universitet.
 
 
 ### Problems for Practicing
