@@ -91,7 +91,7 @@ Just create an account on [Kattis](https://open.kattis.com/) and start practicin
 * [Other competitive programming study groups / societies in Sweden](other-groups.md)
 * [Other interesting study material](material.md)
 * [Computational Geometry tutorial notes](compgeo.md)
-* [Competitive Programmer's Handbook (Antti Laaksonen)] (https://cses.fi/book/book.pdf)
+* [Competitive Programmer's Handbook (Antti Laaksonen)](https://cses.fi/book/book.pdf)
 
 ## Upcoming competitions
 
