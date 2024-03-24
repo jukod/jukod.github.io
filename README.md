@@ -27,7 +27,11 @@ See the schedule below for the upcoming meetups.
 | --------------------- | ----- | ---------------- | ---- |
 | Friday, 5 April 2024  | 13:15 | E1028, Husqvarna | First open meetup |
 | Friday, 19 April 2024 | 13:15 | E1418            | |
-| Friday, 5 May 2024    | 15:15 | E1017, Eldon     | |
+| Friday, 3 May 2024    | 15:15 | E1017, Eldon     | |
+| Friday, 17 May 2024   | 15:15 | E1017, Eldon     | |
+| Friday, 31 May 2024   | 13:15 | E1219            | |
+
+There is no need to sign up, you can just show-up.
 
 
 ## Preparing for the NCPC
