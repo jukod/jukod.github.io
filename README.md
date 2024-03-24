@@ -104,8 +104,7 @@ Just create an account on [Kattis](https://open.kattis.com/) and start practicin
 
 | Name                                                    | Date              |
 | ------------------------------------------------------- | ----------------- |
-| [EUC] -- ICPC European Championship (Spectator Contest) | 22--24 March 2024 |
-| [NCPC] -- Nordic Collegiate Programming Contest         |      October 2024 |
+| [NCPC] -- Nordic Collegiate Programming Contest         |    5 October 2024 |
 
 
 [NCPC]: https://nordic.icpc.io/
