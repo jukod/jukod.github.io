@@ -27,7 +27,11 @@ See the schedule below for the upcoming meetups.
 | --------------------- | ----- | ---------------- | ---- |
 | Friday, 5 April 2024  | 13:15 | E1028, Husqvarna | First open meetup |
 | Friday, 19 April 2024 | 13:15 | E1418            | |
-| Friday, 5 May 2024    | 15:15 | E1017, Eldon     | |
+| Friday, 3 May 2024    | 15:15 | E1017, Eldon     | |
+| Friday, 17 May 2024   | 15:15 | E1017, Eldon     | |
+| Friday, 31 May 2024   | 13:15 | E1219            | |
+
+There is no need to sign up, you can just show-up.
 
 
 ## Preparing for the NCPC
@@ -95,13 +99,13 @@ Just create an account on [Kattis](https://open.kattis.com/) and start practicin
 * [Competitive Programmer's Handbook (Antti Laaksonen)](https://cses.fi/book/book.pdf)
 * [Meetup schedule on TimeEdit (student)](https://cloud.timeedit.net/ju/web/student/riq86d9Qn03Z86Qt6m709t0Q67ZZn4441kAm50kQ71o00oAn22FlEA12Z90Q2E556BvZ5YY97847BQEC75Y8Q050DBXD16Qy94qZow6.html)
 * [Meetup schedule on TimeEdit (staff)](https://cloud.timeedit.net/ju/web/staff/riq86d9Qn03Z86Qt6m709t0Q67ZZn4441kAm50kQ71o00oAn22FlEA12Z90Q2E556BvZ5YY97847BQEC75Y8Q050DBXD16Qy94qZow6.html)
+* [QR code to this page](qr.md)
 
 ## Upcoming competitions
 
 | Name                                                    | Date              |
 | ------------------------------------------------------- | ----------------- |
-| [EUC] -- ICPC European Championship (Spectator Contest) | 22--24 March 2024 |
-| [NCPC] -- Nordic Collegiate Programming Contest         |      October 2024 |
+| [NCPC] -- Nordic Collegiate Programming Contest         |    5 October 2024 |
 
 
 [NCPC]: https://nordic.icpc.io/
