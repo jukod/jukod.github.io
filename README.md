@@ -87,7 +87,6 @@ such as:
 
 * [hello](https://open.kattis.com/problems/hello)
 * [addtwonumbers](https://open.kattis.com/problems/addtwonumbers)
-* [dicecup](https://open.kattis.com/problems/dicecup)
 * [fizzbuzz](https://open.kattis.com/problems/fizzbuzz)
 
 Just create an account on [Kattis](https://open.kattis.com/) and start practicing!  :-)
