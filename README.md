@@ -3,7 +3,9 @@ JU Kod
 
 [JU Kod] is a competitive programming study group at
 [Jönköping Tekniska Högskola (JTH)] /
-[Jönköping University (JU)].
+[Jönköping University (JU)]
+supported by
+the [Department of Computing].
 
 [![Picture of JTH](https://github.com/jukod/jukod.github.io/assets/3999598/bd8f619e-9e5e-44ee-a67c-b6ce6373e1b8)][JU Kod]
 
@@ -11,7 +13,9 @@ We organize teams for participation in the yearly
 [NCPC (Nordic Collegiate Programming Contest)](#preparing-for-the-ncpc)
 and related computer programming contests and competitions.
 
-All JTH students are welcome to participate in the group.
+All students from the
+[Computer Science Engineering] programme
+are welcome to participate in the group.
 Please [contact us] to join in the studies or enter a team in the NCPC
 ([g-join-jukod@groups.ju.se])
 or come to one of our upcoming meetups.
@@ -101,6 +105,9 @@ Just create an account on [Kattis](https://open.kattis.com/) and start practicin
 * [Meetup schedule on TimeEdit (staff)](https://cloud.timeedit.net/ju/web/staff/riq86d9Qn03Z86Qt6m709t0Q67ZZn4441kAm50kQ71o00oAn22FlEA12Z90Q2E556BvZ5YY97847BQEC75Y8Q050DBXD16Qy94qZow6.html)
 * [QR code to this page](qr.md)
 
+This study group is supported by the [Department of Computing].
+
+
 ## Upcoming competitions
 
 | Name                                                    | Date              |
@@ -136,5 +143,10 @@ Just create an account on [Kattis](https://open.kattis.com/) and start practicin
 [JTH]:                               https://ju.se/om-oss/tekniska-hogskolan.html
 [contact us]:                mailto:g-join-jukod@groups.ju.se
 [g-join-jukod@groups.ju.se]: mailto:g-join-jukod@groups.ju.se
+
+[Computer Science Engineering]: https://ju.se/studera/valj-utbildning/program/program-pa-grundniva/civilingenjor-datateknik.html
+[Civilingenjör Datateknik]:     https://ju.se/studera/valj-utbildning/program/program-pa-grundniva/civilingenjor-datateknik.html
+[Datavetenskap]:           https://ju.se/om-oss/tekniska-hogskolan/organisation/datavetenskap.html
+[Department of Computing]: https://ju.se/en/about-us/school-of-engineering/organisation/computing.html
 
 [JU Kod]: https://jukod.github.io/
