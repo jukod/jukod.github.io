@@ -66,7 +66,7 @@ Here are the easiest 6 in order of difficulty:
 - [C -     Coffee Cup Combo](https://open.kattis.com/problems/coffeecupcombo)
 - [D -        Disc District](https://open.kattis.com/problems/discdistrict)
 - [H -         Highest Hill](https://open.kattis.com/problems/highesthill)
-- [A -          Ace Arbiter](https://open.kattis.com/problems/acearbiter)
+- [J -             Jamboree](https://open.kattis.com/problems/jamboree)
 - [G - Graduation Guarantee](https://open.kattis.com/problems/graduationguarantee)
 - [C -    Converting Romans](https://open.kattis.com/problems/convertingromans)
 
