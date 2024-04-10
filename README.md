@@ -27,13 +27,13 @@ For the second half of 2024's spring term, study period 4,
 we meet every other Friday afternoon.
 See the schedule below for the upcoming meetups.
 
-| Meetup Date           | Time  | Location         | Note |
-| --------------------- | ----- | ---------------- | ---- |
-| Friday, 5 April 2024  | 13:15 | E1028, Husqvarna | First open meetup |
-| Friday, 19 April 2024 | 13:15 | E1418            | |
-| Friday, 3 May 2024    | 15:15 | E1017, Eldon     | |
-| Friday, 17 May 2024   | 15:15 | E1017, Eldon     | |
-| Friday, 31 May 2024   | 13:15 | E1219            | |
+| Meetup Date               | Time      | Location             | Note |
+| ------------------------- | --------- | -------------------- | ---- |
+| ~~Friday, 5 April 2024~~  | ~~13:15~~ | ~~E1028, Husqvarna~~ | First open meetup, 11 students attended |
+|   Friday, 19 April 2024   |   13:15   |   E1418              |      |
+|   Friday, 3 May 2024      |   15:15   |   E1017, Eldon       |      |
+|   Friday, 17 May 2024     |   15:15   |   E1017, Eldon       |      |
+|   Friday, 31 May 2024     |   13:15   |   E1219              |      |
 
 There is no need to sign up, you can just show-up.
 
