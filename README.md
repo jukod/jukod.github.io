@@ -57,21 +57,24 @@ Saturday 5 __October__ 2024
 
 The best problems for practicing leading up to the competition
 are the
-[problems from NCPC 2022](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202022?order=difficulty_data)
-and
-[NCPC 2023](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202023?order=difficulty_data).
+[problems from NCPC 2023](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202023?order=difficulty_data),
+[NCPC 2022](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202022?order=difficulty_data) and
+[NCPC 2021](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202021?order=difficulty_data)
 (last years).
-Here are the easiest 6 in order of difficulty:
+Here are the easiest 7 in order of difficulty:
 
 - [C -     Coffee Cup Combo](https://open.kattis.com/problems/coffeecupcombo)
-- [D -        Disc District](https://open.kattis.com/problems/discdistrict)
+- [K -       Knot Knowledge](https://open.kattis.com/problems/knotknowledge)
+- [L -         Locust Locus](https://open.kattis.com/problems/locustlocus)
 - [H -         Highest Hill](https://open.kattis.com/problems/highesthill)
 - [J -             Jamboree](https://open.kattis.com/problems/jamboree)
-- [G - Graduation Guarantee](https://open.kattis.com/problems/graduationguarantee)
 - [C -    Converting Romans](https://open.kattis.com/problems/convertingromans)
+- [G - Graduation Guarantee](https://open.kattis.com/problems/graduationguarantee)
 
 They are [available for practice at open.kattis.com](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202022?order=difficulty_data).
-The problem sets from past years are hosted there:
+You can submit your solutions online there, so you can check if they are really correct.
+
+After completing the easiest problems above, you can start solving harder problems from the past few years:
 [NCPC 2023](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202023?order=difficulty_data);
 [NCPC 2022](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202022?order=difficulty_data);
 [NCPC 2021](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202021?order=difficulty_data);
