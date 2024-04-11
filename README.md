@@ -63,13 +63,13 @@ are the
 (last years).
 Here are the easiest 7 in order of difficulty:
 
-- [C -     Coffee Cup Combo](https://open.kattis.com/problems/coffeecupcombo)
-- [K -       Knot Knowledge](https://open.kattis.com/problems/knotknowledge)
-- [L -         Locust Locus](https://open.kattis.com/problems/locustlocus)
-- [H -         Highest Hill](https://open.kattis.com/problems/highesthill)
-- [J -             Jamboree](https://open.kattis.com/problems/jamboree)
-- [C -    Converting Romans](https://open.kattis.com/problems/convertingromans)
-- [G - Graduation Guarantee](https://open.kattis.com/problems/graduationguarantee)
+- [C -     Coffee Cup Combo ☕](https://open.kattis.com/problems/coffeecupcombo)
+- [K -       Knot Knowledge 🪢](https://open.kattis.com/problems/knotknowledge)
+- [L -         Locust Locus 🦗](https://open.kattis.com/problems/locustlocus)
+- [H -         Highest Hill ⛰️](https://open.kattis.com/problems/highesthill)
+- [J -             Jamboree ⛺](https://open.kattis.com/problems/jamboree)
+- [C -    Converting Romans 🏛️](https://open.kattis.com/problems/convertingromans)
+- [G - Graduation Guarantee 🎓](https://open.kattis.com/problems/graduationguarantee)
 
 They are [available for practice at open.kattis.com](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202022?order=difficulty_data).
 You can submit your solutions online there, so you can check if they are really correct.
