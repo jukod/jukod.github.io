@@ -38,7 +38,7 @@ See the schedule below for the upcoming meetups.
 There is no need to sign up, you can just show-up.
 
 During the meetup,
-we focus on solving and discussing programming problems
+we generally focus on solving and discussing programming problems
 in the style of the NCPC competition (see below).
 
 
