@@ -10,7 +10,9 @@ For teams from Universities in Sweden,
 Nevertheless, practicing solving problems from related sub-regionals
 can be useful as well: [GCPC], [UKIEPC], [BAPC], etc.
 
-* [NCPC], Nordic Collegiate Programming Contest (sub-regional):
+* [NCPC], 🇸🇪 🇳🇴 🇩🇰 🇫🇮,
+  Nordic Collegiate Programming Contest
+  (sub-regional):
 	[NCPC 2023];
 	[NCPC 2022];
 	[NCPC 2021];
@@ -42,7 +44,7 @@ can be useful as well: [GCPC], [UKIEPC], [BAPC], etc.
 	[NWERC 2015];
 	[NWERC 2014];
 
-* [EUC], ICPC European Championship (macro-regional):
+* [EUC], 🇪🇺, ICPC European Championship (macro-regional):
 	[EUC 2024];
 
 * [ICPC], International Collegiate Programming Contest, the World Finals:
