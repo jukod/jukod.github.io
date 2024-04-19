@@ -219,3 +219,4 @@ A regional.
 [BAPC]: https://bapc.eu/
 [UKIEPC]: http://ukiepc.info/
 [GCPC]: https://gcpc.nwerc.eu/
+[SWERC]: https://swerc.eu/
