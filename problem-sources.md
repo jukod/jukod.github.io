@@ -264,3 +264,5 @@ A sub-regional.
 [UKIEPC]: http://ukiepc.info/
 [GCPC]: https://gcpc.nwerc.eu/
 [SWERC]: https://swerc.eu/
+[CERC]: https://cerc.acm.si/
+[NAQ]: https://na.icpc.global/naq/
