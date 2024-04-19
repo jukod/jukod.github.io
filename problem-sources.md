@@ -10,82 +10,89 @@ For teams from Universities in Sweden,
 Nevertheless, practicing solving problems from related sub-regionals
 can be useful as well: [GCPC], [UKIEPC], [BAPC], etc.
 
-* [NCPC], 🇸🇪 🇳🇴 🇩🇰 🇫🇮,
-  Nordic Collegiate Programming Contest
-  (sub-regional):
-	[NCPC 2023];
-	[NCPC 2022];
-	[NCPC 2021];
-	[NCPC 2020];
-	[NCPC 2019];
-	[NCPC 2018];
-	[NCPC 2017];
-	[NCPC 2016];
-	[NCPC 2015];
-	[NCPC 2014];
-	[NCPC 2013];
-	[NCPC 2012];
-	[NCPC 2011];
-	[NCPC 2010];
-	[NCPC 2009];
-	[NCPC 2008];
-	[NCPC 2007];
-	[NCPC 2006];
-	[NCPC 2005];
+## [NCPC], 🇸🇪 🇳🇴 🇩🇰 🇫🇮, Nordic Collegiate Programming Contest (sub-regional)
 
-* [NWERC], Northwestern Europe Regional Contest (regional):
-	[NWERC 2022];
-	[NWERC 2021];
-	[NWERC 2020];
-	[NWERC 2019];
-	[NWERC 2018];
-	[NWERC 2017];
-	[NWERC 2016];
-	[NWERC 2015];
-	[NWERC 2014];
+[NCPC 2023];
+[NCPC 2022];
+[NCPC 2021];
+[NCPC 2020];
+[NCPC 2019];
+[NCPC 2018];
+[NCPC 2017];
+[NCPC 2016];
+[NCPC 2015];
+[NCPC 2014];
+[NCPC 2013];
+[NCPC 2012];
+[NCPC 2011];
+[NCPC 2010];
+[NCPC 2009];
+[NCPC 2008];
+[NCPC 2007];
+[NCPC 2006];
+[NCPC 2005];
 
-* [EUC], 🇪🇺, ICPC European Championship (macro-regional):
-	[EUC 2024];
+## [NWERC] 🇪🇺, Northwestern Europe Regional Contest (regional)
 
-* [ICPC], International Collegiate Programming Contest, the World Finals:
-	[ICPC World Finals 2021];
-	[ICPC World Finals 2020];
-	[ICPC World Finals 2019];
-	[ICPC World Finals 2018];
-	[ICPC World Finals 2017];
-	[ICPC World Finals 2016];
-	[ICPC World Finals 2015];
-	[ICPC World Finals 2014];
-	[ICPC World Finals 2013];
-	[ICPC World Finals 2012];
+[NWERC 2022];
+[NWERC 2021];
+[NWERC 2020];
+[NWERC 2019];
+[NWERC 2018];
+[NWERC 2017];
+[NWERC 2016];
+[NWERC 2015];
+[NWERC 2014];
 
-* [GCPC], German Collegiate Programming Contest (sub-regional):
-	[GCPC 2020];
-	[GCPC 2013];
-	[GCPC 2012];
+## [EUC], 🇪🇺, ICPC European Championship (macro-regional)
 
-* [UKIEPC], United Kingdom and Ireland Programming Contest (sub-regional):
-	[UKIEPC 2020];
-	[UKIEPC 2016];
-	[UKIEPC 2015];
+[EUC 2024];
 
-* [BAPC], Benelux Algorithm Programming Contest (sub-regional):
-	[BAPC 2021];
-	[BAPC 2020];
-	[BAPC 2019];
-	[BAPC 2018];
-	[BAPC 2017];
-	[BAPC 2016];
-	[BAPC 2015];
-	[BAPC 2014];
-	[BAPC 2013];
-	[BAPC 2012].
+## [ICPC], 🌎 🌏 🌍 International Collegiate Programming Contest, the World Finals
 
-* [BAPC] Preliminaries (sub-sub-regional):
-	[BAPC Preliminaries 2019];
-	[BAPC Preliminaries 2018];
-	[BAPC Preliminaries 2017];
-	[BAPC Preliminaries 2016].
+[ICPC World Finals 2021];
+[ICPC World Finals 2020];
+[ICPC World Finals 2019];
+[ICPC World Finals 2018];
+[ICPC World Finals 2017];
+[ICPC World Finals 2016];
+[ICPC World Finals 2015];
+[ICPC World Finals 2014];
+[ICPC World Finals 2013];
+[ICPC World Finals 2012];
+
+## [GCPC], German Collegiate Programming Contest (sub-regional)
+
+[GCPC 2020];
+[GCPC 2013];
+[GCPC 2012];
+
+## [UKIEPC], United Kingdom and Ireland Programming Contest (sub-regional):
+
+[UKIEPC 2020];
+[UKIEPC 2016];
+[UKIEPC 2015];
+
+## [BAPC], Benelux Algorithm Programming Contest (sub-regional):
+
+[BAPC 2021];
+[BAPC 2020];
+[BAPC 2019];
+[BAPC 2018];
+[BAPC 2017];
+[BAPC 2016];
+[BAPC 2015];
+[BAPC 2014];
+[BAPC 2013];
+[BAPC 2012].
+
+## [BAPC] Preliminaries (sub-sub-regional):
+
+[BAPC Preliminaries 2019];
+[BAPC Preliminaries 2018];
+[BAPC Preliminaries 2017];
+[BAPC Preliminaries 2016].
+
 
 [problem sources]: https://open.kattis.com/problem-sources/
 
