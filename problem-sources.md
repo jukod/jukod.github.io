@@ -129,7 +129,7 @@ A regional.
 [SWERC 2012];
 [SWERC 2011];
 [SWERC 2010];
-[SWERC 2009];
+[SWERC 2009].
 
 
 #### [CERC] 🇪🇺 Central Europe Regional Contest
@@ -142,7 +142,21 @@ A regional.
 [CERC 2013];
 [CERC 2012];
 [CERC 2011];
-[CERC 2010];
+[CERC 2010].
+
+
+#### [NAQ] ICPC North American Qualifier
+
+A sub-regional.
+
+[NAQ 2021];
+[NAQ 2020];
+[NAQ 2019];
+[NAQ 2018];
+[NAQ 2017];
+[NAQ 2016];
+[NAQ 2015];
+[NAQ 2013].
 
 
 [problem sources]: https://open.kattis.com/problem-sources/
@@ -231,6 +245,15 @@ A regional.
 [CERC 2012]: https://open.kattis.com/problem-sources/Central%20Europe%20Regional%20Contest%20%28CERC%29%202012?order=difficulty_data
 [CERC 2011]: https://open.kattis.com/problem-sources/Central%20Europe%20Regional%20Contest%20%28CERC%29%202011?order=difficulty_data
 [CERC 2010]: https://open.kattis.com/problem-sources/Central%20Europe%20Regional%20Contest%20%28CERC%29%202010?order=difficulty_data
+
+[NAQ 2021]: https://open.kattis.com/problem-sources/2021%20ICPC%20North%20American%20Qualifier%20Contest%20%28Jan%202022%29?order=difficulty_data
+[NAQ 2020]: https://open.kattis.com/problem-sources/2020%20ICPC%20North%20American%20Qualifier%20Contest?order=difficulty_data
+[NAQ 2019]: https://open.kattis.com/problem-sources/2019%20ICPC%20North%20American%20Qualifier%20Contest?order=difficulty_data
+[NAQ 2018]: https://open.kattis.com/problem-sources/2018%20ICPC%20North%20American%20Qualifier%20Contest?order=difficulty_data
+[NAQ 2017]: https://open.kattis.com/problem-sources/2017%20ICPC%20North%20American%20Qualifier%20Contest?order=difficulty_data
+[NAQ 2016]: https://open.kattis.com/problem-sources/2016%20ICPC%20North%20American%20Qualifier%20Contest?order=difficulty_data
+[NAQ 2015]: https://open.kattis.com/problem-sources/2015%20ICPC%20North%20American%20Qualifier%20Contest?order=difficulty_data
+[NAQ 2013]: https://open.kattis.com/problem-sources/2013%20ACM-ICPC%20North%20American%20Qualifier?order=difficulty_data
 
 [NCPC]: https://nordic.icpc.io/
 [Nordic Collegiate Programming Contest (NCPC)]: https://nordic.icpc.io/
