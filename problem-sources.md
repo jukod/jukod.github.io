@@ -6,7 +6,9 @@ These include other related sub-regionals, regionals and the world finals.
 
 For teams from Universities in Sweden,
 [the progression](ncpc.md) is: 
-[NCPC], [NWERC], [EUC], [ICPC].
+[NCPC], [NWERC], [EUC] then [ICPC].
+Nevertheless, practicing solving problems from related sub-regionals
+can be useful as well: [GCPC], [UKIEPC], [BAPC], etc.
 
 * [NCPC], Nordic Collegiate Programming Contest (sub-regional):
 	[NCPC 2023];
