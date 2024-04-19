@@ -51,7 +51,7 @@ A regional.
 [NWERC 2014];
 
 
-#### [EUC] 🇪🇺 ICPC European Championship (macro-regional)
+#### [EUC] 🇪🇺 ICPC European Championship
 
 A macro-regional.
 
@@ -92,7 +92,7 @@ A sub-regional.
 [UKIEPC 2015];
 
 
-### [BAPC] 🇧🇪 🇳🇱 🇱🇺 Benelux Algorithm Programming Contest
+#### [BAPC] 🇧🇪 🇳🇱 🇱🇺 Benelux Algorithm Programming Contest
 
 A sub-regional.
 
@@ -107,7 +107,7 @@ A sub-regional.
 [BAPC 2013];
 [BAPC 2012].
 
-### [BAPC] 🇧🇪 🇳🇱 🇱🇺 Preliminaries
+#### [BAPC] 🇧🇪 🇳🇱 🇱🇺 Preliminaries
 
 Preliminaries for a sub-regional.
 
