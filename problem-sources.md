@@ -44,9 +44,16 @@ For teams from Universities in Sweden,
 	[EUC 2024];
 
 * [ICPC] World Finals:
-	[ICPC World Finals 
 	[ICPC World Finals 2021];
 	[ICPC World Finals 2020];
+	[ICPC World Finals 2019];
+	[ICPC World Finals 2018];
+	[ICPC World Finals 2017];
+	[ICPC World Finals 2016];
+	[ICPC World Finals 2015];
+	[ICPC World Finals 2014];
+	[ICPC World Finals 2013];
+	[ICPC World Finals 2012];
 
 [NCPC 2023]: https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202023?order=difficulty_data
 [NCPC 2022]: https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202022?order=difficulty_data
