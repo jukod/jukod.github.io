@@ -120,13 +120,13 @@ For teams from Universities in Sweden,
 [ICPC World Finals 2013]: https://open.kattis.com/problem-sources/International%20Collegiate%20Programming%20Contest%20%28ACM-ICPC%29%20World%20Finals%202013?order=difficulty_data
 [ICPC World Finals 2012]: https://open.kattis.com/problem-sources/International%20Collegiate%20Programming%20Contest%20%28ACM-ICPC%29%20World%20Finals%202012?order=difficulty_data
 
-[GCPC 2012]: https://open.kattis.com/problem-sources/German%20Collegiate%20Programming%20Contest%20%28GCPC%29%202012?order=difficulty_data
+[GCPC 2020]: https://open.kattis.com/problem-sources/German%20Collegiate%20Programming%20Contest%20%28GCPC%29%202020?order=difficulty_data
 [GCPC 2013]: https://open.kattis.com/problem-sources/German%20Collegiate%20Programming%20Contest%20%28GCPC%29%202013?order=difficulty_data
-[GCPC 2020]: https://open.kattis.com/problem-sources/German%20Collegiate%20Programming%20Contest%20%28GCPC%29%202013?order=difficulty_data
+[GCPC 2012]: https://open.kattis.com/problem-sources/German%20Collegiate%20Programming%20Contest%20%28GCPC%29%202012?order=difficulty_data
 
 [UKIEPC 2020]: https://open.kattis.com/problem-sources/United%20Kingdom%20and%20Ireland%20Programming%20Contest%20%28UKIEPC%29%202020?order=difficulty_data
-[UKIEPC 2016]: https://open.kattis.com/problem-sources/United%20Kingdom%20and%20Ireland%20Programming%20Contest%20%28UKIEPC%29%202020?order=difficulty_data
-[UKIEPC 2015]: https://open.kattis.com/problem-sources/United%20Kingdom%20and%20Ireland%20Programming%20Contest%20%28UKIEPC%29%202020?order=difficulty_data
+[UKIEPC 2016]: https://open.kattis.com/problem-sources/United%20Kingdom%20and%20Ireland%20Programming%20Contest%20%28UKIEPC%29%202016?order=difficulty_data
+[UKIEPC 2015]: https://open.kattis.com/problem-sources/United%20Kingdom%20and%20Ireland%20Programming%20Contest%20%28UKIEPC%29%202015?order=difficulty_data
 
 [BAPC 2021]: https://open.kattis.com/problem-sources/Benelux%20Algorithm%20Programming%20Contest%20%28BAPC%29%202021?order=difficulty_data
 [BAPC 2020]: https://open.kattis.com/problem-sources/Benelux%20Algorithm%20Programming%20Contest%20%28BAPC%29%202020?order=difficulty_data
