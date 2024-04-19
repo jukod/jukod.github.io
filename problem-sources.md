@@ -117,6 +117,21 @@ Preliminaries for a sub-regional.
 [BAPC Preliminaries 2016].
 
 
+#### [SWERC] 🇪🇺 Southwestern Europe Regional Contest
+
+A regional.
+
+[SWERC 2017];
+[SWERC 2016];
+[SWERC 2015];
+[SWERC 2014];
+[SWERC 2013];
+[SWERC 2012];
+[SWERC 2011];
+[SWERC 2010];
+[SWERC 2009];
+
+
 [problem sources]: https://open.kattis.com/problem-sources/
 
 [NCPC 2023]: https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202023?order=difficulty_data
@@ -185,6 +200,16 @@ Preliminaries for a sub-regional.
 [BAPC preliminaries 2018]: https://open.kattis.com/problem-sources/Benelux%20Algorithm%20Programming%20Contest%20%28BAPC%29%20preliminaries%202018?order=difficulty_data
 [BAPC preliminaries 2017]: https://open.kattis.com/problem-sources/Benelux%20Algorithm%20Programming%20Contest%20%28BAPC%29%20preliminaries%202017?order=difficulty_data
 [BAPC preliminaries 2016]: https://open.kattis.com/problem-sources/Benelux%20Algorithm%20Programming%20Contest%20%28BAPC%29%20preliminaries%202016?order=difficulty_data
+
+[SWERC 2017]: https://open.kattis.com/problem-sources/Southwestern%20Europe%20Regional%20Contest%20%28SWERC%29%202017?order=difficulty_data
+[SWERC 2016]: https://open.kattis.com/problem-sources/Southwestern%20Europe%20Regional%20Contest%20%28SWERC%29%202016?order=difficulty_data
+[SWERC 2015]: https://open.kattis.com/problem-sources/Southwestern%20Europe%20Regional%20Contest%20%28SWERC%29%202015?order=difficulty_data
+[SWERC 2014]: https://open.kattis.com/problem-sources/Southwestern%20Europe%20Regional%20Contest%20%28SWERC%29%202014?order=difficulty_data
+[SWERC 2013]: https://open.kattis.com/problem-sources/Southwestern%20Europe%20Regional%20Contest%20%28SWERC%29%202013?order=difficulty_data
+[SWERC 2012]: https://open.kattis.com/problem-sources/Southwestern%20Europe%20Regional%20Contest%20%28SWERC%29%202012?order=difficulty_data
+[SWERC 2011]: https://open.kattis.com/problem-sources/Southwestern%20Europe%20Regional%20Contest%20%28SWERC%29%202011?order=difficulty_data
+[SWERC 2010]: https://open.kattis.com/problem-sources/Southwestern%20Europe%20Regional%20Contest%20%28SWERC%29%202010?order=difficulty_data
+[SWERC 2009]: https://open.kattis.com/problem-sources/Southwestern%20Europe%20Regional%20Contest%20%28SWERC%29%202009?order=difficulty_data
 
 [NCPC]: https://nordic.icpc.io/
 [Nordic Collegiate Programming Contest (NCPC)]: https://nordic.icpc.io/
