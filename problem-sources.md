@@ -16,6 +16,18 @@ For teams from Universities in Sweden,
 	[NCPC 2019],
 	[NCPC 2018],
 	[NCPC 2017];
+	[NCPC 2016];
+	[NCPC 2015];
+	[NCPC 2014];
+	[NCPC 2013];
+	[NCPC 2012];
+	[NCPC 2011];
+	[NCPC 2010];
+	[NCPC 2009];
+	[NCPC 2008];
+	[NCPC 2007];
+	[NCPC 2006];
+	[NCPC 2005];
 
 * [NWERC], Northwestern Europe Regional Contest (regional):
 	[NWERC 2022],
@@ -23,7 +35,14 @@ For teams from Universities in Sweden,
 	[NWERC 2020],
 	[NWERC 2019],
 	[NWERC 2018],
-	[NWERC 2017];
+	[NWERC 2017],
+	[NWERC 2016],
+	[NWERC 2015],
+	[NWERC 2014],
+	[NWERC 2013],
+	[NWERC 2012],
+	[NWERC 2011],
+	[NWERC 2010];
 
 * [EUC], ICPC European Championship (macro-regional):
 	[EUC 2024];
@@ -40,6 +59,18 @@ For teams from Universities in Sweden,
 [NCPC 2019]: https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202019?order=difficulty_data
 [NCPC 2018]: https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202018?order=difficulty_data
 [NCPC 2017]: https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202017?order=difficulty_data
+[NCPC 2016]: https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202016?order=difficulty_data
+[NCPC 2015]: https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202015?order=difficulty_data
+[NCPC 2014]: https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202014?order=difficulty_data
+[NCPC 2013]: https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202013?order=difficulty_data
+[NCPC 2012]: https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202012?order=difficulty_data
+[NCPC 2011]: https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202011?order=difficulty_data
+[NCPC 2010]: https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202010?order=difficulty_data
+[NCPC 2009]: https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202009?order=difficulty_data
+[NCPC 2008]: https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202008?order=difficulty_data
+[NCPC 2007]: https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202007?order=difficulty_data
+[NCPC 2006]: https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202006?order=difficulty_data
+[NCPC 2005]: https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202005?order=difficulty_data
 
 [NWERC 2022]: https://open.kattis.com/problem-sources/Northwestern%20Europe%20Regional%20Contest%20(NWERC)%202022?order=difficulty_data
 [NWERC 2021]: https://open.kattis.com/problem-sources/Northwestern%20Europe%20Regional%20Contest%20(NWERC)%202021?order=difficulty_data
@@ -47,6 +78,13 @@ For teams from Universities in Sweden,
 [NWERC 2019]: https://open.kattis.com/problem-sources/Northwestern%20Europe%20Regional%20Contest%20(NWERC)%202019?order=difficulty_data
 [NWERC 2018]: https://open.kattis.com/problem-sources/Northwestern%20Europe%20Regional%20Contest%20(NWERC)%202018?order=difficulty_data
 [NWERC 2017]: https://open.kattis.com/problem-sources/Northwestern%20Europe%20Regional%20Contest%20(NWERC)%202017?order=difficulty_data
+[NWERC 2016]: https://open.kattis.com/problem-sources/Northwestern%20Europe%20Regional%20Contest%20(NWERC)%202016?order=difficulty_data
+[NWERC 2015]: https://open.kattis.com/problem-sources/Northwestern%20Europe%20Regional%20Contest%20(NWERC)%202015?order=difficulty_data
+[NWERC 2014]: https://open.kattis.com/problem-sources/Northwestern%20Europe%20Regional%20Contest%20(NWERC)%202014?order=difficulty_data
+[NWERC 2013]: https://open.kattis.com/problem-sources/Northwestern%20Europe%20Regional%20Contest%20(NWERC)%202013?order=difficulty_data
+[NWERC 2012]: https://open.kattis.com/problem-sources/Northwestern%20Europe%20Regional%20Contest%20(NWERC)%202012?order=difficulty_data
+[NWERC 2011]: https://open.kattis.com/problem-sources/Northwestern%20Europe%20Regional%20Contest%20(NWERC)%202011?order=difficulty_data
+[NWERC 2010]: https://open.kattis.com/problem-sources/Northwestern%20Europe%20Regional%20Contest%20(NWERC)%202010?order=difficulty_data
 
 [EUC 2024]: https://euc.icpc.global/wp-content/uploads/2024/03/EUC2024_ProblemSet.pdf
 
