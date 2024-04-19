@@ -140,9 +140,7 @@ A regional.
 [CERC 2015];
 [CERC 2014];
 [CERC 2013];
-[CERC 2012];
-[CERC 2011];
-[CERC 2010].
+[CERC 2012].
 
 
 #### [NAQ] ICPC North American Qualifier
@@ -243,8 +241,6 @@ A sub-regional.
 [CERC 2014]: https://open.kattis.com/problem-sources/Central%20Europe%20Regional%20Contest%20%28CERC%29%202014?order=difficulty_data
 [CERC 2013]: https://open.kattis.com/problem-sources/Central%20Europe%20Regional%20Contest%20%28CERC%29%202013?order=difficulty_data
 [CERC 2012]: https://open.kattis.com/problem-sources/Central%20Europe%20Regional%20Contest%20%28CERC%29%202012?order=difficulty_data
-[CERC 2011]: https://open.kattis.com/problem-sources/Central%20Europe%20Regional%20Contest%20%28CERC%29%202011?order=difficulty_data
-[CERC 2010]: https://open.kattis.com/problem-sources/Central%20Europe%20Regional%20Contest%20%28CERC%29%202010?order=difficulty_data
 
 [NAQ 2021]: https://open.kattis.com/problem-sources/2021%20ICPC%20North%20American%20Qualifier%20Contest%20%28Jan%202022%29?order=difficulty_data
 [NAQ 2020]: https://open.kattis.com/problem-sources/2020%20ICPC%20North%20American%20Qualifier%20Contest?order=difficulty_data
