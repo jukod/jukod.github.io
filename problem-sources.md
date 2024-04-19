@@ -10,7 +10,7 @@ For teams from Universities in Sweden,
 Nevertheless, practicing solving problems from related sub-regionals
 can be useful as well: [GCPC], [UKIEPC], [BAPC], etc.
 
-### [NCPC], 🇸🇪 🇳🇴 🇩🇰 🇫🇮, Nordic Collegiate Programming Contest (sub-regional)
+### [NCPC] 🇸🇪 🇳🇴 🇩🇰 🇫🇮 Nordic Collegiate Programming Contest (sub-regional)
 
 [NCPC 2023];
 [NCPC 2022];
@@ -32,7 +32,7 @@ can be useful as well: [GCPC], [UKIEPC], [BAPC], etc.
 [NCPC 2006];
 [NCPC 2005];
 
-### [NWERC] 🇪🇺, Northwestern Europe Regional Contest (regional)
+### [NWERC] 🇪🇺 Northwestern Europe Regional Contest (regional)
 
 [NWERC 2022];
 [NWERC 2021];
@@ -44,11 +44,11 @@ can be useful as well: [GCPC], [UKIEPC], [BAPC], etc.
 [NWERC 2015];
 [NWERC 2014];
 
-### [EUC], 🇪🇺, ICPC European Championship (macro-regional)
+### [EUC] 🇪🇺 ICPC European Championship (macro-regional)
 
 [EUC 2024];
 
-### [ICPC], 🌎 🌏 🌍 International Collegiate Programming Contest, the World Finals
+### [ICPC] 🌎 🌏 🌍 International Collegiate Programming Contest, the World Finals
 
 [ICPC World Finals 2021];
 [ICPC World Finals 2020];
@@ -61,19 +61,19 @@ can be useful as well: [GCPC], [UKIEPC], [BAPC], etc.
 [ICPC World Finals 2013];
 [ICPC World Finals 2012];
 
-### [GCPC], German Collegiate Programming Contest (sub-regional)
+### [GCPC] 🇩🇪 German Collegiate Programming Contest (sub-regional)
 
 [GCPC 2020];
 [GCPC 2013];
 [GCPC 2012];
 
-### [UKIEPC], United Kingdom and Ireland Programming Contest (sub-regional):
+#### [UKIEPC] 🇬🇧 🇮🇪 United Kingdom and Ireland Programming Contest (sub-regional)
 
 [UKIEPC 2020];
 [UKIEPC 2016];
 [UKIEPC 2015];
 
-### [BAPC], Benelux Algorithm Programming Contest (sub-regional):
+### [BAPC] 🇧🇪 🇳🇱 🇱🇺 Benelux Algorithm Programming Contest (sub-regional)
 
 [BAPC 2021];
 [BAPC 2020];
@@ -86,7 +86,7 @@ can be useful as well: [GCPC], [UKIEPC], [BAPC], etc.
 [BAPC 2013];
 [BAPC 2012].
 
-### [BAPC] Preliminaries (sub-sub-regional):
+### [BAPC] 🇧🇪 🇳🇱 🇱🇺 Preliminaries (sub-sub-regional):
 
 [BAPC Preliminaries 2019];
 [BAPC Preliminaries 2018];
