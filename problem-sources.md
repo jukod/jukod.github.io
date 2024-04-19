@@ -43,7 +43,7 @@ For teams from Universities in Sweden,
 * [EUC], ICPC European Championship (macro-regional):
 	[EUC 2024];
 
-* [ICPC] World Finals:
+* [ICPC], International Collegiate Programming Contest, the World Finals:
 	[ICPC World Finals 2021];
 	[ICPC World Finals 2020];
 	[ICPC World Finals 2019];
@@ -54,6 +54,11 @@ For teams from Universities in Sweden,
 	[ICPC World Finals 2014];
 	[ICPC World Finals 2013];
 	[ICPC World Finals 2012];
+
+* [UKIEPC], United Kingdom and Ireland Programming Contest (sub-regional):
+	[UKIEPC 2020];
+	[UKIEPC 2016];
+	[UKIEPC 2015];
 
 [NCPC 2023]: https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202023?order=difficulty_data
 [NCPC 2022]: https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202022?order=difficulty_data
@@ -97,6 +102,10 @@ For teams from Universities in Sweden,
 [ICPC World Finals 2014]: https://open.kattis.com/problem-sources/International%20Collegiate%20Programming%20Contest%20%28ACM-ICPC%29%20World%20Finals%202014?order=difficulty_data
 [ICPC World Finals 2013]: https://open.kattis.com/problem-sources/International%20Collegiate%20Programming%20Contest%20%28ACM-ICPC%29%20World%20Finals%202013?order=difficulty_data
 [ICPC World Finals 2012]: https://open.kattis.com/problem-sources/International%20Collegiate%20Programming%20Contest%20%28ACM-ICPC%29%20World%20Finals%202012?order=difficulty_data
+
+[UKIEPC 2020]: https://open.kattis.com/problem-sources/United%20Kingdom%20and%20Ireland%20Programming%20Contest%20%28UKIEPC%29%202020&order=difficulty_data
+[UKIEPC 2016]: https://open.kattis.com/problem-sources/United%20Kingdom%20and%20Ireland%20Programming%20Contest%20%28UKIEPC%29%202020&order=difficulty_data
+[UKIEPC 2015]: https://open.kattis.com/problem-sources/United%20Kingdom%20and%20Ireland%20Programming%20Contest%20%28UKIEPC%29%202020&order=difficulty_data
 
 [NCPC]: https://nordic.icpc.io/
 [Nordic Collegiate Programming Contest (NCPC)]: https://nordic.icpc.io/
