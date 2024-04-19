@@ -1,7 +1,7 @@
 Problems sources for practicing to NCPC, NWERC and ICPC
 =======================================================
 
-Here are some interesting problem sources to practice.
+Here are some interesting [problem sources] to practice.
 These include other related sub-regionals, regionals and the world finals.
 
 For teams from Universities in Sweden,
@@ -77,6 +77,14 @@ For teams from Universities in Sweden,
 	[BAPC 2013];
 	[BAPC 2012].
 
+* [BAPC] Preliminaries (sub-sub-regional):
+	[BAPC Preliminaries 2019];
+	[BAPC Preliminaries 2018];
+	[BAPC Preliminaries 2017];
+	[BAPC Preliminaries 2016].
+
+[problem sources]: https://open.kattis.com/problem-sources/
+
 [NCPC 2023]: https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202023?order=difficulty_data
 [NCPC 2022]: https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202022?order=difficulty_data
 [NCPC 2021]: https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202021?order=difficulty_data
@@ -139,8 +147,16 @@ For teams from Universities in Sweden,
 [BAPC 2013]: https://open.kattis.com/problem-sources/Benelux%20Algorithm%20Programming%20Contest%20%28BAPC%29%202013?order=difficulty_data
 [BAPC 2012]: https://open.kattis.com/problem-sources/Benelux%20Algorithm%20Programming%20Contest%20%28BAPC%29%202012?order=difficulty_data
 
+[BAPC preliminaries 2019]: https://open.kattis.com/problem-sources/Benelux%20Algorithm%20Programming%20Contest%20%28BAPC%29%20preliminaries%202019?order=difficulty_data
+[BAPC preliminaries 2018]: https://open.kattis.com/problem-sources/Benelux%20Algorithm%20Programming%20Contest%20%28BAPC%29%20preliminaries%202018?order=difficulty_data
+[BAPC preliminaries 2017]: https://open.kattis.com/problem-sources/Benelux%20Algorithm%20Programming%20Contest%20%28BAPC%29%20preliminaries%202017?order=difficulty_data
+[BAPC preliminaries 2016]: https://open.kattis.com/problem-sources/Benelux%20Algorithm%20Programming%20Contest%20%28BAPC%29%20preliminaries%202016?order=difficulty_data
+
 [NCPC]: https://nordic.icpc.io/
 [Nordic Collegiate Programming Contest (NCPC)]: https://nordic.icpc.io/
 [NWERC]: https://nwerc.eu/
 [EUC]: https://euc.icpc.global/
 [ICPC]: https://icpc.global/
+[BAPC]: https://bapc.eu/
+[UKIEPC]: http://ukiepc.info/
+[GCPC]: https://gcpc.nwerc.eu/
