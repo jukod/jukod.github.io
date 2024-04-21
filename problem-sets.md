@@ -3,7 +3,7 @@ Problems sets for practicing to NCPC, NWERC and ICPC
 
 Here are some interesting [problem sets] to practice.
 These include problem sets from other related
-sub-regionals, regionals and the world finals.
+[sub-regionals], [regionals] and the [world finals].
 
 For teams from Universities in Sweden,
 [the progression](ncpc.md) is: 
@@ -64,7 +64,7 @@ A macro-regional.
 
 #### [ICPC] 🌎 🌏 🌍 International Collegiate Programming Contest
 
-The world finals.
+The [world finals].
 
 [ICPC World Finals 2021];
 [ICPC World Finals 2020];
@@ -342,3 +342,6 @@ A regional.
 [NCNARC]: https://na.icpc.global/ncna/
 [ECNARC]: https://na.icpc.global/ecna/
 [regionals in North(ern) America]: https://na.icpc.global/regionals/
+[regionals]:     https://icpc.global/regionals/finder
+[sub-regionals]: https://icpc.global/regionals/finder
+[world finals]:  https://worldfinals.icpc.global
