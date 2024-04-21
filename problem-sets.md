@@ -145,7 +145,7 @@ A regional.
 [CERC 2012].
 
 
-#### [SEERC] 🇹🇷 🇺🇦 🇷🇴 ... 🇪🇺 Southeastern European Regional Contest
+#### [SEERC] 🇹🇷 🇺🇦 🇷🇴 ... 🇪🇺 Southeastern Europe Regional Contest
 
 A regional.
 
