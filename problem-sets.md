@@ -40,7 +40,7 @@ A sub-regional.
 [NCPC 2005];
 
 
-#### [NWERC] 🇪🇺 Northwestern Europe Regional Contest
+#### [NWERC] 🇪🇺... 🇸🇪 🇩🇪 🇬🇧 🇳🇱 Northwestern Europe Regional Contest
 
 A regional.
 
