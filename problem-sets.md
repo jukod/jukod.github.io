@@ -159,7 +159,7 @@ A sub-regional.
 [NAQ 2013].
 
 
-[problem sources]: https://open.kattis.com/problem-sources/
+[problem sets]: https://open.kattis.com/problem-sources/
 
 [NCPC 2023]: https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202023?order=difficulty_data
 [NCPC 2022]: https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202022?order=difficulty_data
