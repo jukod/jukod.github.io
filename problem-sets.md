@@ -145,6 +145,14 @@ A regional.
 [CERC 2012].
 
 
+#### [SEERC] 🇹🇷 🇺🇦 🇷🇴 ... 🇪🇺 Southeastern European Regional Contest
+
+A regional.
+
+[SEERC 2021];
+[SEERC 2020].
+
+
 #### [NAQ] 🇺🇸 🇨🇦 ICPC North(ern) American Qualifier
 
 Equivalent to a sub-regional in Europe.
@@ -283,6 +291,9 @@ A regional.
 [CERC 2013]: https://open.kattis.com/problem-sources/Central%20Europe%20Regional%20Contest%20%28CERC%29%202013?order=difficulty_data
 [CERC 2012]: https://open.kattis.com/problem-sources/Central%20Europe%20Regional%20Contest%20%28CERC%29%202012?order=difficulty_data
 
+[SEERC 2021]: http://acm.ro/2021/prob/problems-2021-2022.pdf
+[SEERC 2020]: http://acm.ro/2020/prob/problems2020-2021.pdf
+
 [NAQ 2021]: https://open.kattis.com/problem-sources/2021%20ICPC%20North%20American%20Qualifier%20Contest%20%28Jan%202022%29?order=difficulty_data
 [NAQ 2020]: https://open.kattis.com/problem-sources/2020%20ICPC%20North%20American%20Qualifier%20Contest?order=difficulty_data
 [NAQ 2019]: https://open.kattis.com/problem-sources/2019%20ICPC%20North%20American%20Qualifier%20Contest?order=difficulty_data
@@ -325,6 +336,7 @@ A regional.
 [GCPC]: https://gcpc.nwerc.eu/
 [SWERC]: https://swerc.eu/
 [CERC]: https://cerc.acm.si/
+[SEERC]: http://acm.ro/
 [NAQ]: https://na.icpc.global/naq/
 [RMRC]: https://rocky.icpc.io/
 [NCNARC]: https://na.icpc.global/ncna/
