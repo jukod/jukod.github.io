@@ -145,7 +145,7 @@ A regional.
 [CERC 2012].
 
 
-#### [NAQ] 🇺🇸 🇨🇦 ICPC North American Qualifier
+#### [NAQ] 🇺🇸 🇨🇦 ICPC North(ern) American Qualifier
 
 A sub-regional.
 
@@ -157,6 +157,45 @@ A sub-regional.
 [NAQ 2016];
 [NAQ 2015];
 [NAQ 2013].
+
+
+#### [RMRC] 🇺🇸 🇨🇦 Rocky Mountain Regional Programming Contest
+
+A regional.
+
+[RMRC 2023];
+[RMRC 2022];
+[RMRC 2021];
+[RMRC 2020];
+[RMRC 2019];
+[RMRC 2018];
+[RMRC 2017];
+[RMRC 2016];
+[RMRC 2015];
+[RMRC 2014];
+[RMRC 2013].
+
+
+#### [NCNARC] 🇺🇸 🇨🇦 North Central North America Regional Programming Contest
+
+A regional.
+
+[NCNA&SCICPCRC 2020-2021];
+[NCNARC 2018];
+[NCNAPC 2017].
+
+
+#### [ECNARC] 🇺🇸 🇨🇦 East-Central North America Regional Contest
+
+A regional.
+
+[ECNARC 2021];
+[ECNARC 2020];
+[ECNARC 2019];
+[ECNARC 2018];
+[ECNARC 2017];
+[ECNARC 2016];
+[ECNARC 2015].
 
 
 [problem sets]: https://open.kattis.com/problem-sources/
@@ -253,6 +292,30 @@ A sub-regional.
 [NAQ 2015]: https://open.kattis.com/problem-sources/2015%20ICPC%20North%20American%20Qualifier%20Contest?order=difficulty_data
 [NAQ 2013]: https://open.kattis.com/problem-sources/2013%20ACM-ICPC%20North%20American%20Qualifier?order=difficulty_data
 
+[RMRC 2023]: https://open.kattis.com/problem-sources/Rocky%20Mountain%20Regional%20Programming%20Contest%202023?order=difficulty_data
+[RMRC 2022]: https://open.kattis.com/problem-sources/Rocky%20Mountain%20Regional%20Programming%20Contest%202022?order=difficulty_data
+[RMRC 2021]: https://open.kattis.com/problem-sources/Rocky%20Mountain%20Regional%20Programming%20Contest%202021?order=difficulty_data
+[RMRC 2020]: https://open.kattis.com/problem-sources/Rocky%20Mountain%20Regional%20Programming%20Contest%202020?order=difficulty_data
+[RMRC 2019]: https://open.kattis.com/problem-sources/Rocky%20Mountain%20Regional%20Programming%20Contest%202019?order=difficulty_data
+[RMRC 2018]: https://open.kattis.com/problem-sources/Rocky%20Mountain%20Regional%20Programming%20Contest%202018?order=difficulty_data
+[RMRC 2017]: https://open.kattis.com/problem-sources/Rocky%20Mountain%20Regional%20Contest%20%28RMRC%29%202017?order=difficulty_data
+[RMRC 2016]: https://open.kattis.com/problem-sources/Rocky%20Mountain%20Regional%20Contest%20%28RMRC%29%202016?order=difficulty_data
+[RMRC 2015]: https://open.kattis.com/problem-sources/Rocky%20Mountain%20Regional%20Contest%20%28RMRC%29%202015?order=difficulty_data
+[RMRC 2014]: https://open.kattis.com/problem-sources/Rocky%20Mountain%20Regional%20Contest%20%28RMRC%29%202014?order=difficulty_data
+[RMRC 2013]: https://open.kattis.com/problem-sources/Rocky%20Mountain%20Regional%20Contest%20%28RMRC%29%202013?order=difficulty_data
+
+[NCNA&SCICPCRC 2020-2021]: https://open.kattis.com/problem-sources/2020-2021%20North%20Central%20North%20America%20and%20Southern%20California%20ICPC%20Regional%20Contest?order=difficulty_data
+[NCNARC 2018]: https://open.kattis.com/problem-sources/2018%20ACM-ICPC%20North%20Central%20North%20America%20Regional%20Contest?order=difficulty_data
+[NCNAPC 2017]: https://open.kattis.com/problem-sources/2017%20ACM%20ICPC%20North%20Central%20North%20America%20Regional%20Contest?order=difficulty_data
+
+[ECNARC 2021]: https://open.kattis.com/problem-sources/2021%20ICPC%20East-Central%20NA%20Regional%20Contest?order=difficulty_data
+[ECNARC 2020]: https://open.kattis.com/problem-sources/2020%20ICPC%20East-Central%20NA%20Regional%20Contest?order=difficulty_data
+[ECNARC 2019]: https://open.kattis.com/problem-sources/2019%20ICPC%20East-Central%20NA%20Regional%20Contest?order=difficulty_data
+[ECNARC 2018]: https://open.kattis.com/problem-sources/2018%20ICPC%20East-Central%20NA%20Regional%20Contest?order=difficulty_data
+[ECNARC 2017]: https://open.kattis.com/problem-sources/2017%20ICPC%20East-Central%20NA%20Regional%20Contest?order=difficulty_data
+[ECNARC 2016]: https://open.kattis.com/problem-sources/2016%20ICPC%20East-Central%20NA%20Regional%20Contest?order=difficulty_data
+[ECNARC 2015]: https://open.kattis.com/problem-sources/2015%20ICPC%20East-Central%20NA%20Regional%20Contest?order=difficulty_data
+
 [NCPC]: https://nordic.icpc.io/
 [Nordic Collegiate Programming Contest (NCPC)]: https://nordic.icpc.io/
 [NWERC]: https://nwerc.eu/
@@ -264,3 +327,6 @@ A sub-regional.
 [SWERC]: https://swerc.eu/
 [CERC]: https://cerc.acm.si/
 [NAQ]: https://na.icpc.global/naq/
+[RMRC]: https://rocky.icpc.io/
+[NCNARC]: https://na.icpc.global/ncna/
+[ECNARC]: https://na.icpc.global/ecna/
