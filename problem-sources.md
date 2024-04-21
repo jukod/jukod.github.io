@@ -11,7 +11,7 @@ Nevertheless, practicing solving problems from related sub-regionals
 can be useful as well: [GCPC], [UKIEPC], [BAPC], etc.
 
 
-#### [NCPC] 🇸🇪 🇳🇴 🇩🇰 🇫🇮 Nordic Collegiate Programming Contest
+#### [NCPC] 🇸🇪 🇳🇴 🇩🇰 🇫🇮 🇪🇪 🇱🇹 Nordic Collegiate Programming Contest
 
 A sub-regional.
 
