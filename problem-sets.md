@@ -165,7 +165,6 @@ This qualifies to one of the [regionals in North(ern) America].
 A regional.
 
 [RMRC 2023];
-[RMRC 2022];
 [RMRC 2021];
 [RMRC 2020];
 [RMRC 2019];
@@ -294,7 +293,6 @@ A regional.
 [NAQ 2013]: https://open.kattis.com/problem-sources/2013%20ACM-ICPC%20North%20American%20Qualifier?order=difficulty_data
 
 [RMRC 2023]: https://open.kattis.com/problem-sources/Rocky%20Mountain%20Regional%20Programming%20Contest%202023?order=difficulty_data
-[RMRC 2022]: https://open.kattis.com/problem-sources/Rocky%20Mountain%20Regional%20Programming%20Contest%202022?order=difficulty_data
 [RMRC 2021]: https://open.kattis.com/problem-sources/Rocky%20Mountain%20Regional%20Programming%20Contest%202021?order=difficulty_data
 [RMRC 2020]: https://open.kattis.com/problem-sources/Rocky%20Mountain%20Regional%20Programming%20Contest%202020?order=difficulty_data
 [RMRC 2019]: https://open.kattis.com/problem-sources/Rocky%20Mountain%20Regional%20Programming%20Contest%202019?order=difficulty_data
