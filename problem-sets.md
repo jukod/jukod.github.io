@@ -15,7 +15,7 @@ This list includes problem sets on Kattis that are complete, i.e.,
 contain all problems from the actual contest held in the past.
 
 
-#### [NCPC] 🇸🇪 🇳🇴 🇩🇰 🇫🇮 🇪🇪 🇱🇹 Nordic Collegiate Programming Contest
+#### [NCPC] 🇸🇪 🇳🇴 🇩🇰 🇮🇸 🇫🇮 🇪🇪 🇱🇹 Nordic Collegiate Programming Contest
 
 A sub-regional.
 
