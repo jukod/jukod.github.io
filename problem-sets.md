@@ -147,7 +147,8 @@ A regional.
 
 #### [NAQ] 🇺🇸 🇨🇦 ICPC North(ern) American Qualifier
 
-A sub-regional.
+Equivalent to a sub-regional in Europe.
+This qualifies to one of the [regionals in North(ern) America].
 
 [NAQ 2021];
 [NAQ 2020];
@@ -330,3 +331,4 @@ A regional.
 [RMRC]: https://rocky.icpc.io/
 [NCNARC]: https://na.icpc.global/ncna/
 [ECNARC]: https://na.icpc.global/ecna/
+[regionals in North(ern) America]: https://na.icpc.global/regionals/
