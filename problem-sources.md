@@ -143,7 +143,7 @@ A regional.
 [CERC 2012].
 
 
-#### [NAQ] ICPC North American Qualifier
+#### [NAQ] 🇺🇸 🇨🇦 ICPC North American Qualifier
 
 A sub-regional.
 
