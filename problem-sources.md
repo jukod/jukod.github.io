@@ -136,8 +136,6 @@ A regional.
 
 A regional.
 
-[CERC 2016];
-[CERC 2015];
 [CERC 2014];
 [CERC 2013];
 [CERC 2012].
