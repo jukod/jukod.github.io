@@ -177,7 +177,7 @@ A regional.
 [RMRC 2013].
 
 
-#### [NCNARC] 🇺🇸 🇨🇦 North Central North America Regional Programming Contest
+#### [NCNARC] 🇺🇸 🇨🇦 North Central North America Regional Contest
 
 A regional.
 
