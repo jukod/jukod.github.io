@@ -1,14 +1,18 @@
-Problems sources for practicing to NCPC, NWERC and ICPC
-=======================================================
+Problems sets for practicing to NCPC, NWERC and ICPC
+====================================================
 
-Here are some interesting [problem sources] to practice.
-These include other related sub-regionals, regionals and the world finals.
+Here are some interesting [problem sets] to practice.
+These include problem sets from other related
+sub-regionals, regionals and the world finals.
 
 For teams from Universities in Sweden,
 [the progression](ncpc.md) is: 
 [NCPC], [NWERC], [EUC] then [ICPC].
 Nevertheless, practicing solving problems from related sub-regionals
 can be useful as well: [GCPC], [UKIEPC], [BAPC], etc.
+
+This list includes problem sets on Kattis that are complete, i.e.,
+contain all problems from the actual contest held in the past.
 
 
 #### [NCPC] 🇸🇪 🇳🇴 🇩🇰 🇫🇮 🇪🇪 🇱🇹 Nordic Collegiate Programming Contest
