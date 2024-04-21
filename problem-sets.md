@@ -121,7 +121,7 @@ Preliminaries for a sub-regional.
 [BAPC Preliminaries 2016].
 
 
-#### [SWERC] 🇪🇺 Southwestern Europe Regional Contest
+#### [SWERC] 🇫🇷 🇮🇹 🇪🇸 ... 🇪🇺 Southwestern Europe Regional Contest
 
 A regional.
 
@@ -136,7 +136,7 @@ A regional.
 [SWERC 2009].
 
 
-#### [CERC] 🇪🇺 Central Europe Regional Contest
+#### [CERC] 🇵🇱 🇨🇿 🇭🇺 ... 🇪🇺 Central Europe Regional Contest
 
 A regional.
 
