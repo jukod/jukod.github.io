@@ -103,7 +103,7 @@ Just create an account on [Kattis](https://open.kattis.com/) and start practicin
 
 * [Further info on the NCPC](ncpc.md)
 * [Practicing for the NWERC](nwerc.md)
-* [Some interesting problem sources](problem-sources.md)
+* [Problem sets from related (past) contests](problem-sets.md)
 * [Other competitive programming study groups / societies in Sweden](other-groups.md)
 * [Other interesting study material](material.md)
 * [Computational Geometry tutorial notes](compgeo.md)
