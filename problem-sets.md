@@ -206,6 +206,11 @@ A regional.
 [ECNARC 2015].
 
 
+#### DAG of ICPC stages
+
+![DAG of ICPC stages](icpc.svg)
+
+
 [problem sets]: https://open.kattis.com/problem-sources/
 
 [NCPC 2023]: https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202023?order=difficulty_data
