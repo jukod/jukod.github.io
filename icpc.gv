@@ -1,5 +1,6 @@
 digraph G {
 	rankdir=BT
+	bgcolor=transparent
 
 	node [shape=none]
 
