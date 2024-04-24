@@ -62,7 +62,7 @@ A macro-regional.
 [EUC 2024];
 
 
-#### [ICPC] 🌎 🌏 🌍 International Collegiate Programming Contest
+#### [ICPC] 🌎 🌍 🌏 International Collegiate Programming Contest
 
 The [world finals].
 
