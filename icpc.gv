@@ -16,6 +16,7 @@ digraph G {
 
 	naq -> rmrc
 	naq -> ncnarc
+	naq -> scrc
 	naq -> othernarc
 	naq -> ecnarc
 
@@ -23,6 +24,7 @@ digraph G {
 
 	rmrc      -> narc
 	ncnarc    -> narc
+	scrc      -> narc
 	othernarc -> narc
 	ecnarc    -> narc
 
@@ -45,6 +47,7 @@ digraph G {
 	rmrc   [label = "RMRC\n🇺🇸 🇨🇦"]
 	ncnarc [label = "NCNARC\n🇺🇸 🇨🇦"]
 	ecnarc [label = "ECNARC\n🇺🇸 🇨🇦"]
+	scrc   [label = "SCRC\n🇺🇸"]
 	othernarc [label = "..."]
 	otherworld [label = "..."]
 	otherworldrc [label = "..."]

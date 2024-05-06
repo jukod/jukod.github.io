@@ -206,6 +206,13 @@ A regional.
 [ECNARC 2015].
 
 
+#### [SCRC] 🇺🇸 South Central USA Regional Contest
+
+A regional.
+
+[SCRC 2018].
+
+
 #### Related collections
 
 * [ICPC Archive](https://icpcarchive.github.io/)
@@ -335,6 +342,8 @@ A regional.
 [ECNARC 2017]: https://open.kattis.com/problem-sources/2017%20ICPC%20East-Central%20NA%20Regional%20Contest?order=difficulty_data
 [ECNARC 2016]: https://open.kattis.com/problem-sources/2016%20ICPC%20East-Central%20NA%20Regional%20Contest?order=difficulty_data
 [ECNARC 2015]: https://open.kattis.com/problem-sources/2015%20ICPC%20East-Central%20NA%20Regional%20Contest?order=difficulty_data
+
+[SCRC 2018]: https://open.kattis.com/problem-sources/2018%20ICPC%20South%20Central%20USA%20Regional%20Contest?order=difficulty_data
 
 [NCPC]: https://nordic.icpc.io/
 [Nordic Collegiate Programming Contest (NCPC)]: https://nordic.icpc.io/
