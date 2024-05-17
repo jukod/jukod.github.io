@@ -98,6 +98,8 @@ such as:
 
 Just create an account on [Kattis](https://open.kattis.com/) and start practicing!  :-)
 
+### Discord Server
+We also have a [Discord server](https://discord.gg/fxZvWBCt9G) where you can ask questions about problems or talk about solutions. You can also just hangout and do problems together or get to know everyone in the community.
 
 ### Further information
 
