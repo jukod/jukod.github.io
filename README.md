@@ -23,9 +23,10 @@ or come to one of our upcoming meetups.
 
 ## Upcoming meetups
 
-For the second half of 2024's spring term, study period 4,
-we meet every other Friday afternoon.
-See the schedule below for the upcoming meetups.
+We do not have any upcoming meetups until the end of summer.
+We will meet back again in Autumn, __sometime early eptember__.
+This will be announced here, on the mailing list and on Discord.
+So stay tuned.
 
 | Meetup Date               | Time      | Location             | Note |
 | ------------------------- | --------- | -------------------- | ---- |
