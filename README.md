@@ -19,13 +19,14 @@ are welcome to participate in the group.
 Please [contact us] to join in the studies or enter a team in the NCPC
 ([g-join-jukod@groups.ju.se])
 or come to one of our upcoming meetups.
+Also join [our Discord server].  :-)
 
 
 ## Upcoming meetups
 
 We do not have any upcoming meetups until the end of summer.
 We will meet back again in Autumn, __sometime early eptember__.
-This will be announced here, on the mailing list and on Discord.
+This will be announced here, on the mailing list and on [Discord].
 So stay tuned.
 
 | Meetup Date               | Time      | Location             | Note |
@@ -100,7 +101,8 @@ such as:
 Just create an account on [Kattis](https://open.kattis.com/) and start practicing!  :-)
 
 ### Discord Server
-We also have a [Discord server](https://discord.gg/fxZvWBCt9G) where you can ask questions about problems or talk about solutions. You can also just hangout and do problems together or get to know everyone in the community.
+
+We also have a [Discord server] where you can ask questions about problems or talk about solutions. You can also just hangout and do problems together or get to know everyone in the community.
 
 ### Further information
 
@@ -154,6 +156,9 @@ This study group is supported by the [Department of Computing].
 [JTH]:                               https://ju.se/om-oss/tekniska-hogskolan.html
 [contact us]:                mailto:g-join-jukod@groups.ju.se
 [g-join-jukod@groups.ju.se]: mailto:g-join-jukod@groups.ju.se
+[our Discord server]:        https://discord.gg/fxZvWBCt9G
+[Discord server]:            https://discord.gg/fxZvWBCt9G
+[Discord]:                   https://discord.gg/fxZvWBCt9G
 
 [Computer Science Engineering]: https://ju.se/studera/valj-utbildning/program/program-pa-grundniva/civilingenjor-datateknik.html
 [Civilingenjör Datateknik]:     https://ju.se/studera/valj-utbildning/program/program-pa-grundniva/civilingenjor-datateknik.html
