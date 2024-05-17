@@ -35,7 +35,7 @@ So stay tuned.
 | ~~Friday, 19 April 2024~~ | ~~13:15~~ | ~~E1418~~            | 2nd meetup, 7 attendants  |
 | ~~Friday, 3 May 2024~~    | ~~15:15~~ | ~~E1017, Eldon~~     | 3rd meetup, 4 attendants  |
 | ~~Friday, 17 May 2024~~   | ~~15:15~~ | ~~E1017, Eldon~~     | 4rd meetup, 7 attendants  |
-| __Sometime early September__ |        | __Somewhere in JTH__ | |
+| __Early September__ |        | __JTH__ | |
 
 There is no need to sign up, you can just show-up.
 
