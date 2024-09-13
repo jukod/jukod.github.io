@@ -24,24 +24,18 @@ Also join [our Discord server].  :-)
 
 ## Upcoming meetups
 
-We do not have any upcoming meetups until the end of summer.
-We will meet back again in Autumn, __sometime early eptember__.
-This will be announced here, on the mailing list and on [Discord].
-So stay tuned.
-
-| Meetup Date               | Time      | Location             | Note |
-| ------------------------- | --------- | -------------------- | ---- |
-| ~~Friday, 5 April 2024~~  | ~~13:15~~ | ~~E1028, Husqvarna~~ | 1st meetup, 12 attendants |
-| ~~Friday, 19 April 2024~~ | ~~13:15~~ | ~~E1418~~            | 2nd meetup, 7 attendants  |
-| ~~Friday, 3 May 2024~~    | ~~15:15~~ | ~~E1017, Eldon~~     | 3rd meetup, 4 attendants  |
-| ~~Friday, 17 May 2024~~   | ~~15:15~~ | ~~E1017, Eldon~~     | 4rd meetup, 7 attendants  |
-| __Early September__ |        | __JTH__ | |
+| Meetup Date                | Time         | Location      | Note |
+| -------------------------- | ------------ | ------------- | ---- |
+| Tuesday, 17 September 2024 | 12:15--12:45 | E1017 Eldon   | quick lunch meetup |
+| Tuesday, 24 September 2024 | 12:15--12:45 | E1017 Eldon   | quick lunch meetup |
+| Tuesday, 1 October 2024    | 13:15--17:00 | JTH Towers 11 | meetup and simulated contest |
+| Saturday, 5 October 2024   | ---          | Linköping     | NCPC, the big day |
 
 There is no need to sign up, you can just show-up.
 
 During the meetup,
-we generally focus on solving and discussing programming problems
-in the style of the NCPC competition (see below).
+we will be there to answer any questions that you may have about the competition
+and discuss future plans and problems to study.
 
 
 ## Preparing for the NCPC
