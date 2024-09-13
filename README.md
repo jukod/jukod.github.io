@@ -91,6 +91,7 @@ such as:
 
 * [hello](https://open.kattis.com/problems/hello)
 * [addtwonumbers](https://open.kattis.com/problems/addtwonumbers)
+* [quadrant](https://open.kattis.com/problems/quadrant)
 
 Just create an account on [Kattis](https://open.kattis.com/) and start practicing!  :-)
 
