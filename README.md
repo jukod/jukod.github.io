@@ -63,7 +63,7 @@ are the
 (last years).
 Here are 8 interesting problems in order of difficulty:
 
-* [F -             FizzBuzz &nbsp; 🐝](https://open.kattis.com/problems/fizzbuzz)
+- [F -             FizzBuzz &nbsp; 🐝](https://open.kattis.com/problems/fizzbuzz)
 - [C -     Coffee Cup Combo &nbsp; ☕](https://open.kattis.com/problems/coffeecupcombo)
 - [K -       Knot Knowledge &nbsp; 🪢](https://open.kattis.com/problems/knotknowledge)
 - [L -         Locust Locus &nbsp; 🦗](https://open.kattis.com/problems/locustlocus)
