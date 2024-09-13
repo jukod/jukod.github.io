@@ -61,8 +61,9 @@ are the
 [NCPC 2022](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202022?order=difficulty_data) and
 [NCPC 2021](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202021?order=difficulty_data)
 (last years).
-Here are the easiest 7 in order of difficulty:
+Here are 8 interesting problems in order of difficulty:
 
+* [F -             FizzBuzz &nbsp; 🐝](https://open.kattis.com/problems/fizzbuzz)
 - [C -     Coffee Cup Combo &nbsp; ☕](https://open.kattis.com/problems/coffeecupcombo)
 - [K -       Knot Knowledge &nbsp; 🪢](https://open.kattis.com/problems/knotknowledge)
 - [L -         Locust Locus &nbsp; 🦗](https://open.kattis.com/problems/locustlocus)
@@ -90,7 +91,6 @@ such as:
 
 * [hello](https://open.kattis.com/problems/hello)
 * [addtwonumbers](https://open.kattis.com/problems/addtwonumbers)
-* [fizzbuzz](https://open.kattis.com/problems/fizzbuzz)
 
 Just create an account on [Kattis](https://open.kattis.com/) and start practicing!  :-)
 
