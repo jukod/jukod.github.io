@@ -114,6 +114,7 @@ We also have a [Discord server] where you can ask questions about problems or ta
 * [Computational Geometry tutorial notes](compgeo.md)
 * [Competitive Programmer's Handbook (Antti Laaksonen)](https://cses.fi/book/book.pdf)
 * [A Guide to Kattis Problems (Michel Wermelinger)](https://github.com/mwermelinger/kattis-guide#readme)
+* [Meetup schedule on TimeEdit (open)](https://cloud.timeedit.net/ju/web/open/riq86d9Qn03Z86Qt6m709t0Q67ZZn4441kAm50kQ71o00oAn22FlEA12Z90Q2E556BvZ5YY97847BQEC75Y8Q050DBXD16Qy94qZow6.html)
 * [Meetup schedule on TimeEdit (student)](https://cloud.timeedit.net/ju/web/student/riq86d9Qn03Z86Qt6m709t0Q67ZZn4441kAm50kQ71o00oAn22FlEA12Z90Q2E556BvZ5YY97847BQEC75Y8Q050DBXD16Qy94qZow6.html)
 * [Meetup schedule on TimeEdit (staff)](https://cloud.timeedit.net/ju/web/staff/riq86d9Qn03Z86Qt6m709t0Q67ZZn4441kAm50kQ71o00oAn22FlEA12Z90Q2E556BvZ5YY97847BQEC75Y8Q050DBXD16Qy94qZow6.html)
 * [QR code to this page](qr.md)
