@@ -46,7 +46,7 @@ solving [≈ 10 programming problems] in 5 hours
 using either [C, Python, Java, C++ or Kotlin].
 At the end,
 the team with [most solved problems] wins.
-It's quite fun!  :-)
+It's quite [fun][]!  :-)
 
 Date and nearest location:
 Saturday 5 __October__ 2024
@@ -144,7 +144,7 @@ This study group is supported by the [Department of Computing].
 
 [NCPC 2023 results]: https://ncpc23.kattis.com/contests/ncpc23/standings?filter=5254
 
-[Competition format]: https://live.staticflickr.com/1526/26113291873_9208648a69_b.jpg
+[fun]: https://live.staticflickr.com/1526/26113291873_9208648a69_b.jpg
 
 [JU]:                                https://ju.se/
 [Jönköping University (JU)]:         https://ju.se/
