@@ -16,7 +16,7 @@ and related computer programming contests and competitions.
 All students from the
 [Computer Science Engineering] programme
 are welcome to participate in the group.
-Please [contact us] to join in the studies or enter a team in the NCPC
+Please [contact us][] to join in the studies or enter a team in the NCPC
 ([g-join-jukod@groups.ju.se])
 or come to one of our upcoming meetups.
 Also join [our Discord server].  :-)
@@ -31,7 +31,9 @@ Also join [our Discord server].  :-)
 | Tuesday, 1 October 2024    | 13:15--17:00 | JTH Towers 11 | practice contest   |
 | Saturday, 5 October 2024   | ---          | Linköping     | NCPC, the big day  |
 
-There is no need to sign up, you can just show-up.
+There is no need to sign up for the meetups, you can just show-up.
+You however need to __register for the competition__,
+[contact us][] ASAP if you plan to compete.
 
 During the meetup,
 we will be there to answer any questions that you may have about the competition
