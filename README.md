@@ -28,7 +28,7 @@ Also join [our Discord server].  :-)
 | -------------------------- | ------------ | ------------- | ------------------ |
 | ~~Tuesday, 17 September 2024~~ | ~~12:15--13:00~~ | ~~E1017 Eldon~~ | 10 people present |
 | ~~Tuesday, 24 September 2024~~ | ~~12:15--13:00~~ | ~~E1017 Eldon~~ | 7 people present |
-| Tuesday, 1 October 2024    | 13:15--17:00 | JTH Towers 11 | practice contest   |
+| Tuesday, 1 October 2024    | 13:15--17:00 | [JTH Towers 11][] | practice contest   |
 | Saturday, 5 October 2024   | ---          | Linköping     | NCPC, the big day  |
 
 There is no need to sign up for the meetups, you can just show-up.
@@ -162,5 +162,7 @@ This study group is supported by the [Department of Computing].
 [Civilingenjör Datateknik]:     https://ju.se/studera/valj-utbildning/program/program-pa-grundniva/civilingenjor-datateknik.html
 [Datavetenskap]:           https://ju.se/om-oss/tekniska-hogskolan/organisation/datavetenskap.html
 [Department of Computing]: https://ju.se/en/about-us/school-of-engineering/organisation/computing.html
+
+[JTH Towers 11]: https://ju.se/images/18.7b7bf6ee18aa2211715205ab/1695306277946/366753644_1017335202729718_8802431677613017084_n.jpg
 
 [JU Kod]: https://jukod.github.io/
