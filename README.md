@@ -28,7 +28,7 @@ Also join [our Discord server].  :-)
 | -------------------------- | ------------ | ------------- | ------------------ |
 | ~~Tuesday, 17 September 2024~~ | ~~12:15--13:00~~ | ~~E1017 Eldon~~ | 10 people present |
 | ~~Tuesday, 24 September 2024~~ | ~~12:15--13:00~~ | ~~E1017 Eldon~~ | 7 people present |
-| Tuesday, 1 October 2024    | 13:15--17:00 | [JTH Towers 11][] | practice contest   |
+| ~~Tuesday, 1 October 2024~~    | ~~13:15--17:00~~ | [JTH Towers 11][] | practice contest   |
 | Saturday, 5 October 2024   | ---          | Linköping     | NCPC, the big day  |
 
 There is no need to sign up for the meetups, you can just show-up.
