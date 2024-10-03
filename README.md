@@ -116,9 +116,9 @@ giving us a few minutes to get set
 before the kick-off presentation at 10:00.
 If one of the team members has a car,
 we can go by car.
-The team coach will pay for the gas/electricity
-and will take care of charging the university
-after the contest.
+The team coach will _try to_ get a refund
+from JU
+for the gas/electricity.
 (Use [our mailing list] or [our Discord server]
 to try sharing/finding a car ride.)
 
