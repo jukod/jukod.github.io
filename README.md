@@ -119,6 +119,14 @@ we can go by car.
 The team coach will pay for the gas/electricity
 and will take care of charging the university
 after the contest.
+(Use [our mailing list] or [our Discord server]
+to try sharing/finding a car ride.)
+
+__By train:__
+There's a train that leaves Jönköping Resecentrum at 07:56.
+You'll arrive in Linköpings Resecentrum at 10:08.
+You'll then have to take a bus to LiU arriving there at 10:25.
+Going by car is recommended if you have one.
 
 
 #### [The competition day]
@@ -194,6 +202,7 @@ This study group is supported by the [Department of Computing].
 [our Discord server]:        https://discord.gg/fxZvWBCt9G
 [Discord server]:            https://discord.gg/fxZvWBCt9G
 [Discord]:                   https://discord.gg/fxZvWBCt9G
+[our mailing list]: mailto:g-jukod@groups.ju.se
 
 [Computer Science Engineering]: https://ju.se/studera/valj-utbildning/program/program-pa-grundniva/civilingenjor-datateknik.html
 [Civilingenjör Datateknik]:     https://ju.se/studera/valj-utbildning/program/program-pa-grundniva/civilingenjor-datateknik.html
