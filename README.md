@@ -101,6 +101,43 @@ Just create an account on [Kattis](https://open.kattis.com/) and start practicin
 
 We also have a [Discord server] where you can ask questions about problems or talk about solutions. You can also just hangout and do problems together or get to know everyone in the community.
 
+
+### Traveling
+
+Saturday, 5th of October 2024, 11:00 -- 16:00 CEST (UTC+2) @ Linköpings Universitet
+
+... with an introductory presentation at 10:00.
+
+__By car:__
+It takes 1h 20m to drive from JU to LIU.
+If we leave at 08:30 from JU,
+we should arrive at 09:50
+giving us a few minutes to get set
+before the kick-off presentation at 10:00.
+If one of the team members has a car,
+we can go by car.
+The team coach will pay for the gas/electricity
+and will take care of charging the university
+after the contest.
+
+
+#### [The competition day]
+
+[The competition day]: https://lithekod.se/competitions/ncpc/2024/
+
+| time           | activity                              |
+| -------------- | ------------------------------------- |
+| 09:50 -- 10:00 | arrive & find venue                   |
+| 10:00 -- 10:30 | introductory presentation             |
+| 10:45 -- 11:00 | sit & set up computer and environment |
+| 11:00 -- 16:00 | __NCPC 2024__                         |
+| 13:00          | free lunch                            |
+
+Food is offered during the competition,
+usually pizza, salads, coffee and biscuits.
+Bringing additional snacks is allowed.
+
+
 ### Further information
 
 * [Further info on the NCPC](ncpc.md)
