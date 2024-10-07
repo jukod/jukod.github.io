@@ -19,6 +19,7 @@ contain all problems from the actual contest held in the past.
 
 A sub-regional.
 
+[NCPC 2024];
 [NCPC 2023];
 [NCPC 2022];
 [NCPC 2021];
@@ -66,6 +67,10 @@ A macro-regional.
 
 The [world finals].
 
+[ICPC World Finals 2024];
+[ICPC World Finals 2023];
+[ICPC World Finals 2022 and 2023];
+[ICPC World Finals 2022];
 [ICPC World Finals 2021];
 [ICPC World Finals 2020];
 [ICPC World Finals 2019];
@@ -225,6 +230,7 @@ A regional.
 
 [problem sets]: https://open.kattis.com/problem-sources/
 
+[NCPC 2024]: https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202024?order=difficulty_data
 [NCPC 2023]: https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202023?order=difficulty_data
 [NCPC 2022]: https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202022?order=difficulty_data
 [NCPC 2021]: https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202021?order=difficulty_data
@@ -257,6 +263,10 @@ A regional.
 
 [EUC 2024]: https://euc.icpc.global/wp-content/uploads/2024/03/EUC2024_ProblemSet.pdf
 
+[ICPC World Finals 2024]: https://open.kattis.com/problem-sources/ICPC%20World%20Finals%202024?order=difficulty_data
+[ICPC World Finals 2023]: https://open.kattis.com/problem-sources/ICPC%20World%20Finals%202023?order=difficulty_data
+[ICPC World Finals 2022 and 2023]: https://open.kattis.com/problem-sources/ICPC%20World%20Finals%202022%20and%202023?order=difficulty_data
+[ICPC World Finals 2022]: https://open.kattis.com/problem-sources/ICPC%20World%20Finals%202022?order=difficulty_data
 [ICPC World Finals 2021]: https://open.kattis.com/problem-sources/ICPC%20World%20Finals%202021?order=difficulty_data
 [ICPC World Finals 2020]: https://open.kattis.com/problem-sources/ICPC%20World%20Finals%202020?order=difficulty_data
 [ICPC World Finals 2019]: https://open.kattis.com/problem-sources/ACM-ICPC%20World%20Finals%202019?order=difficulty_data

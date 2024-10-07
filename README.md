@@ -78,6 +78,7 @@ They are [available for practice at open.kattis.com](https://open.kattis.com/pro
 You can submit your solutions online there, so you can check if they are really correct.
 
 After completing the easiest problems above, you can start solving harder problems from the past few years:
+[NCPC 2024](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202024?order=difficulty_data);
 [NCPC 2023](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202023?order=difficulty_data);
 [NCPC 2022](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202022?order=difficulty_data);
 [NCPC 2021](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202021?order=difficulty_data);
