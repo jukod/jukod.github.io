@@ -19,6 +19,10 @@ There is no need to sign up for the meetups, you can just show-up.
 ~~You however need to __register for the competition__,
 [contact us][] ASAP if you plan to compete.~~
 
+During the meetups,
+we will be there to answer any questions that you may have about the competition
+and discuss future plans and problems to study.
+
 
 ### Traveling
 
