@@ -26,10 +26,10 @@ Also join [our Discord server].  :-)
 
 | Meetup Date                | Time         | Location      | Note               |
 | -------------------------- | ------------ | ------------- | ------------------ |
-| ~~Tuesday, 17 September 2024~~ | ~~12:15--13:00~~ | ~~E1017 Eldon~~ | 10 people present |
-| ~~Tuesday, 24 September 2024~~ | ~~12:15--13:00~~ | ~~E1017 Eldon~~ | 7 people present |
 | ~~Tuesday, 1 October 2024~~    | ~~13:15--17:00~~ | ~~[JTH Towers 11][]~~ | practice contest   |
-| Saturday, 5 October 2024   | ---          | Linköping     | NCPC, the big day  |
+| ~~Saturday, 5 October 2024~~   | ---          | ~~Linköping~~     | ~~NCPC, the big day~~  |
+
+There are no upcomign meetups for the time being.
 
 There is no need to sign up for the meetups, you can just show-up.
 You however need to __register for the competition__,
@@ -51,8 +51,9 @@ the team with [most solved problems] wins.
 It's quite [fun][]!  :-)
 
 Date and nearest location:
-Saturday 5 __October__ 2024
-@ Linköpings Universitet.
+~~Saturday 5 __October__ 2024~~
+~~@ Linköpings Universitet~~.
+The competition has passed this year.
 
 
 ### Problems for Practicing
@@ -103,50 +104,6 @@ Just create an account on [Kattis](https://open.kattis.com/) and start practicin
 We also have a [Discord server] where you can ask questions about problems or talk about solutions. You can also just hangout and do problems together or get to know everyone in the community.
 
 
-### Traveling
-
-Saturday, 5th of October 2024, 11:00 -- 16:00 CEST (UTC+2) @ Linköpings Universitet
-
-... with an introductory presentation at 10:00.
-
-__By car:__
-It takes 1h 20m to drive from JU to LIU.
-If we leave at 08:30 from JU,
-we should arrive at 09:50
-giving us a few minutes to get set
-before the kick-off presentation at 10:00.
-If one of the team members has a car,
-we can go by car.
-The team coach will _try to_ get a refund
-from JU
-for the gas/electricity.
-(Use [our mailing list] or [our Discord server]
-to try sharing/finding a car ride.)
-
-__By train:__
-There's a train that leaves Jönköping Resecentrum at 07:56.
-You'll arrive in Linköpings Resecentrum at 10:08.
-You'll then have to take a bus to LiU arriving there at 10:25.
-Going by car is recommended if you have one.
-
-
-#### [The competition day]
-
-[The competition day]: https://lithekod.se/competitions/ncpc/2024/
-
-| time           | activity                              |
-| -------------- | ------------------------------------- |
-| 09:50 -- 10:00 | arrive & find venue                   |
-| 10:00 -- 10:30 | introductory presentation             |
-| 10:45 -- 11:00 | sit & set up computer and environment |
-| 11:00 -- 16:00 | __NCPC 2024__                         |
-| 13:00          | free lunch                            |
-
-Food is offered during the competition,
-usually pizza, salads, coffee and biscuits.
-Bringing additional snacks is allowed.
-
-
 ### Further information
 
 * [Further info on the NCPC](ncpc.md)
@@ -167,9 +124,11 @@ This study group is supported by the [Department of Computing].
 
 ## Upcoming competitions
 
-| Name                                                    | Date              |
-| ------------------------------------------------------- | ----------------- |
-| [NCPC] -- Nordic Collegiate Programming Contest         |    5 October 2024 |
+| Name                                                    | Date                |
+| ------------------------------------------------------- | ------------------- |
+| ~~[NCPC] -- Nordic Collegiate Programming Contest~~     | ~~5 October 2024~~  |
+| [NWERC] __registration deadline__                       |  26 October 2024    |
+| [NWERC] -- Northwestern Europe Regional Contest         | 22-24 November 2024 |
 
 
 [NCPC]: https://nordic.icpc.io/
