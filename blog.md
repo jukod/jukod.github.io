@@ -2,16 +2,23 @@ JU Kod's (b)log
 ---------------
 
 
-## [NWERC 2024 Results]
+## [NWERC 2024][nwerc-2024] [Results][nwerc-2024-results]
 
 24 November 2024.
 
-The [results for NWERC 2024][] are out.
+The [results][nwerc-2024-results] for [NWERC 2024][nwerc-2024] are out.
 
-The JU team, [Rude Goblins][], solved 3 🎈🎈🎈 problems!
+The JU team, Rude Goblins, solved 3 🎈🎈🎈 problems!
 Good job!
 
 ![](https://github.com/user-attachments/assets/b719083b-b6af-4074-85ce-fdf3c9a49633)
+
+The [NWERC][nwerc-2024] competition was held in Delft, NL 🇳🇱.
+Above, a timelapse of the contest hall during the competition.
+Can you spot our team members?  🤔
+
+[nwerc-2024]: https://2024.nwerc.eu/
+[nwerc-2024-results]: https://2024.nwerc.eu/main/scoreboard/
 
 
 ## [NCPC 2024 Results]
