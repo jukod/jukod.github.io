@@ -24,8 +24,6 @@ Also join [our Discord server].  :-)
 
 ## [NWERC 2024][nwerc-2024] [Results][nwerc-2024-results]
 
-24 November 2024.
-
 The [results][nwerc-2024-results] for [NWERC 2024][nwerc-2024] are out.
 
 The JU team, Rude Goblins, solved 3 🎈🎈🎈 problems!
