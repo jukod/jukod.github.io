@@ -2,7 +2,21 @@ JU Kod's (b)log
 ---------------
 
 
+## [NWERC 2024 Results]
+
+24 November 2024.
+
+The [results for NWERC 2024][] are out.
+
+The JU team, [Rude Goblins][], solved 3 🎈🎈🎈 problems!
+Good job!
+
+![](https://github.com/user-attachments/assets/b719083b-b6af-4074-85ce-fdf3c9a49633)
+
+
 ## [NCPC 2024 Results]
+
+5 October 2024.
 
 The [results for NCPC 2024][] are out.
 
@@ -26,10 +40,10 @@ we placed [4th among Swedish universities](https://ncpc24.kattis.com/contests/nc
 
 Congratulations to all our teams! 🎈 👏👏👏 🎉
 
-Note the [standings page][] is clickable:
+Note the [standings page][standings-ncpc24] is clickable:
 you can filter out by different locations and eligibility categories.
 
-[standings page]:        https://ncpc24.kattis.com/contests/ncpc24/standings
+[standings-ncpc24]:      https://ncpc24.kattis.com/contests/ncpc24/standings
 [NCPC 2024 Results]:     https://ncpc24.kattis.com/contests/ncpc24/standings
 [results for NCPC 2024]: https://ncpc24.kattis.com/contests/ncpc24/standings
 [Rude Goblins]:          https://ncpc24.kattis.com/contests/ncpc24/teams/710181
