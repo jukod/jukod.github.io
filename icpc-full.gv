@@ -9,9 +9,9 @@ digraph G {
 	mdp1 -> mdp2 -> lac -> icpc
 	otherslac -> otherlac -> lac
 
-	swerc -> euc
-	seerc -> euc
-	cerc  -> euc
+	oesrc -> swerc -> euc
+	oesrc -> seerc -> euc
+	oesrc -> cerc  -> euc
 
 	gcpc   -> nwerc
 	ukiepc -> nwerc
@@ -60,4 +60,5 @@ digraph G {
 	otherworldsrc [label = "..."]
 	otherlac [label = "..."]
 	otherslac [label = "..."]
+	oesrc [label = "... 🇪🇺 ..."]
 }
