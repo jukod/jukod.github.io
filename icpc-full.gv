@@ -1,0 +1,63 @@
+digraph G {
+	rankdir=BT
+	bgcolor=transparent
+
+	node [shape=none]
+
+	ncpc -> nwerc -> euc -> icpc [penwidth=2]
+
+	mdp1 -> mdp2 -> lac -> icpc
+	otherslac -> otherlac -> lac
+
+	swerc -> euc
+	seerc -> euc
+	cerc  -> euc
+
+	gcpc   -> nwerc
+	ukiepc -> nwerc
+	bapc   -> nwerc
+
+	naq -> rmrc
+	naq -> ncnarc
+	naq -> scrc
+	naq -> othernarc
+	naq -> ecnarc
+
+	narc -> icpc
+
+	rmrc      -> narc
+	ncnarc    -> narc
+	scrc      -> narc
+	othernarc -> narc
+	ecnarc    -> narc
+
+	otherworld -> icpc
+	otherworldrc -> otherworld
+	otherworldsrc -> otherworldrc
+
+	ncpc   [label = "NCPC\n🇸🇪 🇳🇴 🇩🇰 🇮🇸\n🇫🇮 🇪🇪 🇱🇹"]
+	nwerc  [label = "NWERC\n🇪🇺"]
+	euc    [label = "EUC\n🇪🇺"]
+	icpc   [label = "ICPC\nWorld Finals\n🌎 🌍 🌏" fontsize=16]
+	gcpc   [label = "GCPC\n🇩🇪"]
+	ukiepc [label = "UKIEPC\n🇬🇧 🇮🇪"]
+	bapc   [label = "BAPC\n🇧🇪 🇳🇱 🇱🇺"]
+	swerc  [label = "SWERC\n🇪🇺"]
+	seerc  [label = "SEERC\n🇪🇺"]
+	cerc   [label = "CERC\n🇪🇺"]
+	narc   [label = ""] // not an actual contest
+	naq    [label = "NAQ\n🇺🇸 🇨🇦"]
+	rmrc   [label = "RMRC\n🇺🇸 🇨🇦"]
+	ncnarc [label = "NCNARC\n🇺🇸 🇨🇦"]
+	ecnarc [label = "ECNARC\n🇺🇸 🇨🇦"]
+	scrc   [label = "SCRC\n🇺🇸"]
+	mdp1   [label = "MdP1\n🇧🇷"]
+	mdp2   [label = "MdP2\n🇧🇷"]
+	lac    [label = "LAC\n🌎 🇧🇷 🇲🇽 🇨🇴 🇦🇷 🇵🇪..."]
+	othernarc [label = "..."]
+	otherworld [label = "..."]
+	otherworldrc [label = "..."]
+	otherworldsrc [label = "..."]
+	otherlac [label = "..."]
+	otherslac [label = "..."]
+}
