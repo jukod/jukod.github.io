@@ -135,12 +135,11 @@ This study group is supported by the [Department of Computing].
 
 | Name                                                     | Date                    |
 | -------------------------------------------------------- | ----------------------- |
-| ~~[NCPC] 2024 -- Nordic Collegiate Programming Contest~~ | ~~5 October 2024~~      |
-| ~~[NWERC] 2024 -- Northwestern Europe Regional Contest~~ | ~~22-24 November 2024~~ |
-| [NCPC] 2025 -- Nordic Collegiate Programming Contest     | 4 October 2025          |
+| [NCPC] 2025 -- [Nordic Collegiate Programming Contest]   | 4 October 2025          |
 
 
 [NCPC]: https://nordic.icpc.io/
+[Nordic Collegiate Programming Contest]:        https://nordic.icpc.io/
 [Nordic Collegiate Programming Contest (NCPC)]: https://nordic.icpc.io/
 [NWERC]: https://nwerc.eu/
 [EUC]: https://euc.icpc.global/
