@@ -1,0 +1,25 @@
+digraph G {
+	rankdir=BT
+	bgcolor=transparent
+
+	node [shape=none]
+
+	ncpc -> nwerc -> euc -> icpc [penwidth=2]
+
+	ocpc -> nwerc [style=dashed]
+	oerc -> euc [style=dashed]
+	oc -> icpc [style=dashed]
+
+	ncpc   [label = "NCPC\n🇸🇪 🇳🇴 🇩🇰 🇮🇸\n🇫🇮 🇪🇪 🇱🇹"]
+	nwerc  [label = "NWERC\n🇪🇺"]
+	euc    [label = "EUC\n🇪🇺"]
+	icpc   [label = "International Collegiate Programming Contest\nICPC World Finals\n🌎 🌍 🌏" fontsize=16]
+	ocpc   [label = "🇩🇪  🇬🇧  🇮🇪\n🇧🇪  🇳🇱  🇱🇺"]
+	// ordered by population:
+	oerc   [label = "...  🇫🇷  🇮🇹  🇪🇸  🇵🇱  ...\n...  🇷🇴  🇨🇿  🇵🇹  🇬🇷  ..."]
+	// most populous in each continent west-to-east:
+	oc     [label = "...  🇺🇸  🇲🇽  🇧🇷  🇳🇬  ...\n...  🇪🇹  🇮🇳  🇨🇳  🇦🇺  ..."]
+}
+// EUC 2024 and ICPC 2024 scoreboards:
+// https://www.domjudge.org/scoreboard/euc2024/
+// https://scoreboard.icpc.global/2024/scoreboard/

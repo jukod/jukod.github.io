@@ -1,10 +1,9 @@
 # A Makefile for image resources
 
-all: icpc.svg icpc-full.svg
+all: icpc.svg icpc-full.svg ncpc-icpc.svg slides.html
 
-icpc.svg: icpc.gv
-
-icpc-full.svg: icpc-full.gv
+slides.html: slides.md Makefile
+	pandoc --title "JU Kod" -tslidy -s slides.md -o slides.html
 
 %.svg: %.gv
 	dot -Tsvg $< >$@

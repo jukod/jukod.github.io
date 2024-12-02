@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title>JU Kod – slides</title>
+  <style type="text/css">
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <link rel="stylesheet" type="text/css" media="screen, projection, print"
+    href="https://www.w3.org/Talks/Tools/Slidy2/styles/slidy.css" />
+  <script src="https://www.w3.org/Talks/Tools/Slidy2/scripts/slidy.js"
+    charset="utf-8" type="text/javascript"></script>
+</head>
+<body>
+<div id="competitive-programming-jthju" class="slide section level1">
+<h1>Competitive Programming @ JTH/JU</h1>
+<p><img src="https://github.com/user-attachments/assets/b719083b-b6af-4074-85ce-fdf3c9a49633" width=66% /></p>
+<p>2024 Rudy Matela (<a
+href="mailto:rudy.matela@ju.se">rudy.matela@ju.se</a>), JTH</p>
+</div>
+<div class="slide section level1">
+
+<p>Since 2023, JTH/JU <a href="https://jukod.github.io/blog">has been
+participating</a> in programming competitions/contests:</p>
+<p>mainly in the <strong><a href="https://nordic.icpc.io/">Nordic
+Collegiate Programming Contest (NCPC)</a></strong>.</p>
+<p><img src="https://github.com/user-attachments/assets/b719083b-b6af-4074-85ce-fdf3c9a49633" width=66% /></p>
+</div>
+<div class="slide section level1">
+
+<div class="columns">
+<div class="column" style="width:50%;">
+<p>The NCPC format:</p>
+<ul>
+<li>👥 teams of <a
+href="https://live.staticflickr.com/7884/32596056617_5dc85ee500_b.jpg">3
+university students</a></li>
+<li>⏱️ 5 hours</li>
+<li>🚩 <a
+href="https://github.com/icpc/ncpc-web/releases/download/ncpc2022-data/ncpc2022problems.pdf">≈
+10 programming problems</a></li>
+<li>⌨️ solutions in: <a href="https://www.python.org/">Python</a>, <a
+href="https://www.java.com/">Java</a>, <a
+href="https://learn.microsoft.com/en-us/dotnet/csharp/">C#</a>, <a
+href="https://isocpp.org/">C++</a>, <a
+href="https://www.haskell.org/">Haskell</a> or <a
+href="https://open.kattis.com/languages">40 other languages</a>.</li>
+<li>💻 1 computer per team</li>
+<li>🎈 the team with <a
+href="https://ncpc24.kattis.com/contests/ncpc24/standings?filter=6262">most
+solved problems</a> wins</li>
+</ul>
+<p> </p>
+<ul>
+<li>1 problem solved = 1 balloon!</li>
+</ul>
+</div><div class="column" style="width:50%;">
+<p><img src="https://github.com/user-attachments/assets/b719083b-b6af-4074-85ce-fdf3c9a49633" width=100% /></p>
+</div>
+</div>
+</div>
+<div class="slide section level1">
+
+<div class="columns">
+<div class="column" style="width:55%;">
+<p>How are the problems?</p>
+<p>e.g.: <a
+href="https://github.com/icpc/ncpc-web/releases/download/ncpc2022-data/ncpc2022problems.pdf">NCPC
+2022 Problems</a></p>
+<p>There’s usually an easy problem that everyone can solve; then
+problems get progressively harder up to a problem that only a couple
+teams can solve.</p>
+<p>Solutions not only have to produce the correct output, but also be in
+the correct/expected time complexity. It’s often easy to get the correct
+output through brute-force simulation ❌, but quite hard to do it in an
+optimal time complexity ✅.</p>
+<p>You can find all problems for the past decade on <a
+href="https://open.kattis.com">open.kattis.com</a>: <a
+href="https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202024?order=difficulty_data">NCPC
+2024</a>; <a
+href="https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202023?order=difficulty_data">NCPC
+2023</a>; <a
+href="https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202022?order=difficulty_data">NCPC
+2022</a>; <a
+href="https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202021?order=difficulty_data">NCPC
+2021</a>; <a
+href="https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202020?order=difficulty_data">NCPC
+2020</a>; <a
+href="https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202019?order=difficulty_data">NCPC
+2019</a>; <a
+href="https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202018?order=difficulty_data">NCPC
+2018</a>; <a
+href="https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202017?order=difficulty_data">NCPC
+2017</a>.</p>
+<p>You can even submit your solutions there to see if you got it right
+and in the right time complexity.</p>
+</div><div class="column" style="width:45%;">
+<p><img src="https://live.staticflickr.com/1645/26110858644_84ba0f26c4_b.jpg" width=100% /></p>
+</div>
+</div>
+</div>
+<div class="slide section level1">
+
+<div class="columns">
+<div class="column" style="width:50%;">
+<p>The competition stages:</p>
+<ol style="list-style-type: decimal">
+<li>NCPC: Nordics</li>
+<li>NWERC: Northwestern Europe</li>
+<li>EUC: Europe</li>
+<li>ICPC: the World Finals</li>
+</ol>
+<p>Qualifying teams move to the next stage.</p>
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/ICPC_Foundation_logo.svg" width=66% /></p>
+</div><div class="column" style="width:50%;">
+<p><img src="https://jukod.github.io/ncpc-icpc.svg" width=100% /></p>
+</div>
+</div>
+</div>
+<div class="slide section level1">
+
+<p>Registration to the NCPC happens in September 2024.</p>
+<p>It is usually done by a lecturer from your university, who becomes
+the team “coach” in NCPC/ICPC terminology.</p>
+</div>
+<div class="slide section level1">
+
+<h3 id="would-you-like-to-participate">Would you like to
+participate?</h3>
+<ol style="list-style-type: decimal">
+<li>form a team of 3 JU students;</li>
+<li>contact a JU lecturer to be your team coach;</li>
+<li>start practicing.</li>
+</ol>
+<p>… not necessarily in the above order…</p>
+<p>For CSE/AIE students: Rudy Matela (<a
+href="mailto:rudy.matela@ju.se">rudy.matela@ju.se</a>) can be your coach
+if you like.</p>
+</div>
+<div class="slide section level1">
+
+<p>Why participate?</p>
+<p>TODO: write me</p>
+</div>
+<div class="slide section level1">
+
+<p>When and where?</p>
+<p>TODO: write me</p>
+</div>
+<div class="slide section level1">
+
+<h2 id="ju-kod">JU Kod</h2>
+<p>TODO: write me</p>
+<p>TODO: add qr code</p>
+</div>
+<div class="slide section level1">
+
+<p>.</p>
+</div>
+<div class="slide section level1">
+
+<p>TODO: add link to this page and compilation instructions</p>
+</div>
+</body>
+</html>
