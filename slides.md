@@ -127,7 +127,7 @@ a peak if
 $h_i \leq \cdots \leq h_j \geq \cdots \geq h_k$.
 The height of a peak is defined as the smaller of $h_j - h_i$ and $h_j - h_k$.
 
-Given a mountain range, can you find the height of its highest peak?
+__Given a mountain range, can you find the height of its highest peak?__
 
 ------
 
