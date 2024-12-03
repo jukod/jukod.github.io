@@ -132,6 +132,40 @@ Qualifying teams move to the next stage.
 
 ------
 
+::: columns
+
+:::: {.column width=50%}
+
+The calendar:
+
+| contest      | when          |
+| ------------ | ------------- |
+| registration | September     |
+| 1. NCPC      | early October |
+| 2. NWERC     | late November |
+| 3. EUC       | late February |
+| 4. ICPC      | August-September |
+
+(Qualifying teams move to the next stage.)
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/ICPC_Foundation_logo.svg" width=66% />
+
+::::
+
+:::: {.column width=50%}
+<img src="https://jukod.github.io/ncpc-icpc.svg" width=100% />
+::::
+
+:::
+
+------
+
+Web of competitions worldwide...
+
+<img src="https://jukod.github.io/full-icpc.svg" width=100% />
+
+------
+
 Registration to the NCPC happens in September 2024.
 
 It is usually done by a lecturer from your university,
@@ -150,6 +184,9 @@ who becomes the team "coach" in NCPC/ICPC terminology.
 For CSE/AIE students:
 Rudy Matela ([rudy.matela@ju.se](mailto:rudy.matela@ju.se))
 can be your coach if you like.
+
+For others:
+find a coach within your programme.
 
 ------
 
