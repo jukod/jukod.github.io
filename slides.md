@@ -103,6 +103,76 @@ and in the right time complexity.
 
 ------
 
+An example problem:
+
+[Highest Hill from NCPC 2024](https://open.kattis.com/problems/highesthill).  (CC-BY-SA)
+
+------
+
+### Highest Hill (1)
+
+__Some not-so-relevant text/story:__
+
+Sweden may not have a particularly impressive mountain range compared to other NCPC countries such as Norway and Iceland, but at least it beats the flatlands of Denmark. The situation is not so clear when comparing other member countries though. For example, is Estonia more mountainous than Lithuania1? To settle this question, you want to determine which of the two countries has the most impressive mountain peak.
+
+------
+
+### Highest Hill (2)
+
+A mountain range is defined by sampling the heights $h_i$ of $n$ equidistant points.
+Within a mountain range,
+we call a triple of indices
+$1 \leq i < j < k \leq n$
+a peak if
+$h_i \leq \cdots \leq h_j \geq \cdots \geq h_k$.
+The height of a peak is defined as the smaller of $h_j - h_i$ and $h_j - h_k$.
+
+Given a mountain range, can you find the height of its highest peak?
+
+------
+
+### Highest Hill (3)
+
+#### Sample Input 1
+
+```
+11
+0 1 2 3 4 5 4 3 2 1 0
+```
+
+#### Sample Output 1
+
+```
+5
+```
+
+------
+
+### Highest Hill (4)
+
+#### Sample Input 2
+
+```
+10
+29 85 88 12 52 37 19 86 7 44
+```
+
+#### Sample Output 2
+
+```
+67
+```
+
+------
+
+Can you solve this?
+
+* In $O(n^3)$ fairly trivial, but no points... ❌
+* In $O(n^2)$ harder, but no points still... ❌
+* In $O(n)$ not so obvious. ✅
+
+------
+
 ::: columns
 
 :::: {.column width=33%}

@@ -183,6 +183,73 @@ and in the right time complexity.</p>
 </div>
 <div class="slide section level1">
 
+<p>An example problem:</p>
+<p><a href="https://open.kattis.com/problems/highesthill">Highest Hill
+from NCPC 2024</a>. (CC-BY-SA)</p>
+</div>
+<div class="slide section level1">
+
+<h3 id="highest-hill-1">Highest Hill (1)</h3>
+<p><strong>Some not-so-relevant text/story:</strong></p>
+<p>Sweden may not have a particularly impressive mountain range compared
+to other NCPC countries such as Norway and Iceland, but at least it
+beats the flatlands of Denmark. The situation is not so clear when
+comparing other member countries though. For example, is Estonia more
+mountainous than Lithuania1? To settle this question, you want to
+determine which of the two countries has the most impressive mountain
+peak.</p>
+</div>
+<div class="slide section level1">
+
+<h3 id="highest-hill-2">Highest Hill (2)</h3>
+<p>A mountain range is defined by sampling the heights <span
+class="math inline"><em>h</em><sub><em>i</em></sub></span> of <span
+class="math inline"><em>n</em></span> equidistant points. Within a
+mountain range, we call a triple of indices <span
+class="math inline">1 ≤ <em>i</em> &lt; <em>j</em> &lt; <em>k</em> ≤ <em>n</em></span>
+a peak if <span
+class="math inline"><em>h</em><sub><em>i</em></sub> ≤ ⋯ ≤ <em>h</em><sub><em>j</em></sub> ≥ ⋯ ≥ <em>h</em><sub><em>k</em></sub></span>.
+The height of a peak is defined as the smaller of <span
+class="math inline"><em>h</em><sub><em>j</em></sub> − <em>h</em><sub><em>i</em></sub></span>
+and <span
+class="math inline"><em>h</em><sub><em>j</em></sub> − <em>h</em><sub><em>k</em></sub></span>.</p>
+<p>Given a mountain range, can you find the height of its highest
+peak?</p>
+</div>
+<div class="slide section level1">
+
+<h3 id="highest-hill-3">Highest Hill (3)</h3>
+<h4 id="sample-input-1">Sample Input 1</h4>
+<pre><code>11
+0 1 2 3 4 5 4 3 2 1 0</code></pre>
+<h4 id="sample-output-1">Sample Output 1</h4>
+<pre><code>5</code></pre>
+</div>
+<div class="slide section level1">
+
+<h3 id="highest-hill-4">Highest Hill (4)</h3>
+<h4 id="sample-input-2">Sample Input 2</h4>
+<pre><code>10
+29 85 88 12 52 37 19 86 7 44</code></pre>
+<h4 id="sample-output-2">Sample Output 2</h4>
+<pre><code>67</code></pre>
+</div>
+<div class="slide section level1">
+
+<p>Can you solve this?</p>
+<ul>
+<li>In <span
+class="math inline"><em>O</em>(<em>n</em><sup>3</sup>)</span> fairly
+trivial, but no points… ❌</li>
+<li>In <span
+class="math inline"><em>O</em>(<em>n</em><sup>2</sup>)</span> harder,
+but no points still… ❌</li>
+<li>In <span class="math inline"><em>O</em>(<em>n</em>)</span> not so
+obvious. ✅</li>
+</ul>
+</div>
+<div class="slide section level1">
+
 <div class="columns">
 <div class="column" style="width:33%;">
 <p>The competition stages:</p>
@@ -523,8 +590,8 @@ programme/department.</p>
 <div class="slide section level1">
 
 <p>To compile this document from source run:</p>
-<div class="sourceCode" id="cb1"><pre
-class="sourceCode bash"><code class="sourceCode bash"><span id="cb1-1"><a href="#cb1-1" tabindex="-1"></a><span class="ex">pandoc</span> <span class="at">--title</span> <span class="st">&quot;JU Kod&quot;</span> <span class="at">-tslidy</span> <span class="at">-s</span> slides.md <span class="at">-o</span> slides.html</span></code></pre></div>
+<div class="sourceCode" id="cb5"><pre
+class="sourceCode bash"><code class="sourceCode bash"><span id="cb5-1"><a href="#cb5-1" tabindex="-1"></a><span class="ex">pandoc</span> <span class="at">--title</span> <span class="st">&quot;JU Kod&quot;</span> <span class="at">-tslidy</span> <span class="at">-s</span> slides.md <span class="at">-o</span> slides.html</span></code></pre></div>
 <p>You need <code>pandoc</code> installed.</p>
 <p>This slide set can be found on:</p>
 <pre><code>https://jukod.github.io/slides</code></pre>
