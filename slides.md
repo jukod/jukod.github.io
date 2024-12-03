@@ -55,7 +55,7 @@ The NCPC format:
 
 :::: {.column width=50%}
 
-<img src="https://github.com/user-attachments/assets/b719083b-b6af-4074-85ce-fdf3c9a49633" width=100% />
+<img src="https://github.com/user-attachments/assets/f582d523-0bfa-44c1-a87e-76ca7c1f2954" width=100% />
 
 ::::
 
@@ -105,14 +105,18 @@ and in the right time complexity.
 
 ::: columns
 
-:::: {.column width=50%}
+:::: {.column width=33%}
 
 The competition stages:
 
-1. NCPC: Nordics
-2. NWERC: Northwestern Europe
-3. EUC: Europe
-4. ICPC: the World Finals
+1. [NCPC][]: Nordics
+2. [NWERC][]: NW EU
+3. [EUC][]: Europe
+4. [ICPC][]: World Finals
+
+[NWERC]: https://nwerc.eu/
+[EUC]:   https://euc.icpc.global/
+[ICPC]:  https://icpc.global/
 
 Qualifying teams move to the next stage.
 
@@ -120,7 +124,7 @@ Qualifying teams move to the next stage.
 
 ::::
 
-:::: {.column width=50%}
+:::: {.column width=66%}
 <img src="https://jukod.github.io/ncpc-icpc.svg" width=100% />
 ::::
 
