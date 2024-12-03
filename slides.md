@@ -129,6 +129,8 @@ The height of a peak is defined as the smaller of $h_j - h_i$ and $h_j - h_k$.
 
 __Given a mountain range, can you find the height of its highest peak?__
 
+$n$, the number of samples may go up to 200000!
+
 ------
 
 ### Highest Hill (3)
@@ -146,6 +148,8 @@ __Given a mountain range, can you find the height of its highest peak?__
 5
 ```
 
+<img src="fig/highest-hill-1.svg" width=66% />
+
 ------
 
 ### Highest Hill (4)
@@ -162,6 +166,8 @@ __Given a mountain range, can you find the height of its highest peak?__
 ```
 67
 ```
+
+<img src="fig/highest-hill-2.svg" width=66% />
 
 ------
 
