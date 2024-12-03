@@ -167,9 +167,9 @@ Given a mountain range, can you find the height of its highest peak?
 
 Can you solve this?
 
-* In $O(n^3)$ fairly trivial, but no points... ❌
-* In $O(n^2)$ harder, but no points still... ❌
-* In $O(n)$ not so obvious. ✅
+* In $O(n^3)$ "time limit exceeded", no points... ❌
+* In $O(n^2)$ "time limit exceeded", no points still... ❌
+* In $O(n)$ accepted. ✅
 
 ------
 
@@ -236,8 +236,8 @@ There's an intricate web of competitions worldwide...
 
 ------
 
-You, being in Sweden,
-nevertheless start at __[NCPC]__.
+Being in Sweden,
+you nevertheless start at __[NCPC]__.
 
 ------
 
@@ -249,7 +249,7 @@ nevertheless start at __[NCPC]__.
 
 When?
 
-* __Saturday 4 October__ 10:00 -- 16:00.
+* __Saturday 4 October 2025__ 10:00 -- 16:00.
 
 Where?
 
@@ -271,25 +271,6 @@ In the past...
 ::::
 
 :::
-
-------
-
-### Would you like to participate?
-
-1. __form a team__ of 3 JU students;
-2. contact a lecturer to be your __team coach__:
-	* your coach is responsible for registering you;
-3. __start practicing__.
-
-... not necessarily in the above order...
-
-For CSE/AIE students:
-Rudy Matela ([rudy.matela@ju.se](mailto:rudy.matela@ju.se))
-can be your coach if you like.
-(with Masoumeh Taromirad as the co-coach)
-
-For students of other programmes:
-find a coach within your programme/department.
 
 ------
 
