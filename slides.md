@@ -288,7 +288,6 @@ __Why participate?__
 * Potential travel (if you qualify)
 * Nice for your CV.
 * "Meet" companies (sponsors).
-* Settle debates 🤔
 
 ::::
 
