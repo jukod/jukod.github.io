@@ -138,13 +138,13 @@ Qualifying teams move to the next stage.
 
 The calendar:
 
-| contest      | when          |
-| ------------ | ------------- |
-| registration | September     |
-| 1. NCPC      | early October |
-| 2. NWERC     | late November |
-| 3. EUC       | late February |
-| 4. ICPC      | August-September |
+| contest      | when               |
+| ------------ | ------------------ |
+| registration | __September__      |
+| 1. [NCPC][]  | __early&nbsp;October__ |
+| 2. [NWERC][] | late&nbsp;November |
+| 3. [EUC][]   | late&nbsp;February |
+| 4. [ICPC][]  | Aug-Sep            |
 
 (Qualifying teams move to the next stage.)
 
@@ -160,53 +160,326 @@ The calendar:
 
 ------
 
-Web of competitions worldwide...
+There's an intricate web of competitions worldwide...
 
 <img src="https://jukod.github.io/full-icpc.svg" width=100% />
 
 ------
 
-Registration to the NCPC happens in September 2024.
+You, being in Sweden,
+nevertheless start at __[NCPC]__.
 
-It is usually done by a lecturer from your university,
-who becomes the team "coach" in NCPC/ICPC terminology.
+------
+
+### NCPC 2025
+
+::: columns
+
+:::: {.column width=50%}
+
+When?
+
+* __Saturday 4 October__ 10:00 -- 16:00.
+
+Where?
+
+* __¿JTH?__
+
+&nbsp;
+
+In the past...
+
+* Linköping University (2023 & 2024), we drove there
+* For 2025, __maybe/perhaps/perchance__ we will host at __¿JTH?__.
+
+::::
+
+:::: {.column width=50%}
+
+<img src="https://ju.se/images/18.1ad0f9d6177c3b563dd27f22/1614754729027/JTH-180507-1040.jpg" width=100% />
+
+::::
+
+:::
 
 ------
 
 ### Would you like to participate?
 
-1. form a team of 3 JU students;
-2. contact a JU lecturer to be your team coach;
-3. start practicing.
+1. __form a team__ of 3 JU students;
+2. contact a lecturer to be your __team coach__:
+	* your coach is responsible for registering you;
+3. __start practicing__.
 
 ... not necessarily in the above order...
 
 For CSE/AIE students:
 Rudy Matela ([rudy.matela@ju.se](mailto:rudy.matela@ju.se))
 can be your coach if you like.
+(with Masoumeh Taromirad as the co-coach)
 
-For others:
-find a coach within your programme.
-
-------
-
-Why participate?
-
-TODO: write me
+For students of other programmes:
+find a coach within your programme/department.
 
 ------
 
-When and where?
+::: columns
 
-TODO: write me
+:::: {.column width=50%}
+
+__Why participate?__
+
+* Its __fun__!  You get baloons 🎈🎈🎈!
+* A great way to __practice programming__: data structures, algorithms, etc.
+* __Coursework__: gets __easier__.
+* Teamwork.
+* Meet people / networking.
+* Potential travel (if you qualify)
+* Nice for your CV.
+* "Meet" companies (sponsors).
+* Settle debates 🤔
+
+::::
+
+:::: {.column width=50%}
+
+<img src="https://live.staticflickr.com/1526/26113291873_9208648a69_b.jpg" width=100% />
+
+<img src="https://live.staticflickr.com/7884/32596056617_5dc85ee500_b.jpg" width=100% />
+
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*mWjv-mIg4gGw7vhj-uCyRw.jpeg" width=100% />
+
+::::
+
+:::
 
 ------
 
-## JU Kod
+For NWERC, there's even a livestream with live scoreboard, a narrator, a commentator and whatnot:
 
-TODO: write me
+<iframe width="100%" style="aspect-ratio: 16/9" src="https://www.youtube.com/embed/Ho3z9XpJ5AA?si=H6rRPzUnmrFSjzNr&amp;start=1413" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-TODO: add qr code
+------
+
+::: columns
+
+:::: {.column width=60%}
+
+__Would you like to participate?__
+
+1. __form a team__ of 3 JU students;
+2. contact a JU/JTH lecturer to be your __team coach__:
+	* your coach is responsible for registering you;
+3. __start practicing__.
+
+... not necessarily in the above order...
+
+For CSE/AIE students:
+Rudy Matela ([rudy.matela@ju.se](mailto:rudy.matela@ju.se))
+can be your coach if you like.
+(with Masoumeh Taromirad as the co-coach)
+
+For students of other programmes:
+find a coach within your programme/department.
+
+::::
+
+:::: {.column width=40%}
+
+<img src="https://live.staticflickr.com/1645/26110858644_84ba0f26c4_b.jpg" width=100% />
+
+::::
+
+:::
+
+------
+
+## JU Kod Study Group
+
+::: columns
+
+:::: {.column width=60%}
+
+__How to practice?__
+
+__Join the [JU Kod][] study group.__
+
+[JU Kod]: https://jukod.github.io/
+
+We have a mailing list and a [Discord server][jukod-discord-server].
+We have occasional __meetups and practice sessions__.
+You can find more information on our website.
+
+The mailing list is maintained by Rudy Matela.
+Let me know if you want in
+and you'll be informed of when we hold practice sessions, contests or meetups.
+
+The [Discord server][jukod-discord-server] is maintained by students (Rudy is not there).
+
+[jukod-discord-server]: https://discord.gg/fxZvWBCt9G
+
+::::
+
+:::: {.column width=40%}
+
+https://jukod.github.io/
+
+<img src="qr.svg" width=100% />
+
+::::
+
+:::
+
+------
+
+## JU Kod Study Group (2)
+
+::: columns
+
+:::: {.column width=60%}
+
+On the [JU Kod] website,
+you'll find a list of interesting problems to start practicing:
+
+- [F -             FizzBuzz &nbsp; 🐝](https://open.kattis.com/problems/fizzbuzz)
+- [C -     Coffee Cup Combo &nbsp; ☕](https://open.kattis.com/problems/coffeecupcombo)
+- [K -       Knot Knowledge &nbsp; 🪢](https://open.kattis.com/problems/knotknowledge)
+- [L -         Locust Locus &nbsp; 🦗](https://open.kattis.com/problems/locustlocus)
+- [H -         Highest Hill &nbsp; ⛰️](https://open.kattis.com/problems/highesthill)
+- [J -             Jamboree &nbsp; ⛺](https://open.kattis.com/problems/jamboree)
+- [C -    Converting Romans &nbsp; 🏛️](https://open.kattis.com/problems/convertingromans)
+- [G - Graduation Guarantee &nbsp; 🎓](https://open.kattis.com/problems/graduationguarantee)
+
+They're all from past editions of NCPC.
+
+They are hosted on Open Kattis,
+you can submit your solutions to be graded automatically
+as if you were in the competition/contest.
+
+::::
+
+:::: {.column width=40%}
+
+https://jukod.github.io/
+
+<img src="qr.svg" width=100% />
+
+::::
+
+:::
+
+
+------
+
+### JU/JTH @ NCPC: summary
+
+| .                       | #-prob.      | 🇸🇪-rank    | 🇸🇪%   | rank        | %       |
+| ----------------------- | ------------ | ------------ | ------- | ----------- | ------- |
+| [NCPC 2023][ncpc2023sb] | 5 🎈🎈🎈🎈🎈 |    24th / 36 | top 66% |  89th / 160 | top 55% |
+| [NCPC 2024][ncpc2024sb] | 4 🎈🎈🎈🎈   |     9th / 23 | top 40% |  __39th / 139__ | __top 30%__ |
+
+... also: [3 problems solved at NWERC 2024][]!
+
+<img src="https://github.com/user-attachments/assets/b719083b-b6af-4074-85ce-fdf3c9a49633" width=55% />
+<img src="https://github.com/user-attachments/assets/f582d523-0bfa-44c1-a87e-76ca7c1f2954" width=30% />
+
+[ncpc2023sb]: https://ncpc23.kattis.com/contests/ncpc23/standings?filter=5254
+[ncpc2024sb]: https://ncpc24.kattis.com/contests/ncpc24/standings?filter=6262
+[3 problems solved at NWERC 2024]: https://2024.nwerc.eu/main/scoreboard/
+
+------
+
+Think you can do better?
+
+Join next time.
+
+
+------
+
+::: columns
+
+:::: {.column width=60%}
+
+__Would you like to participate?__
+
+1. __form a team__ of 3 JU students;
+2. contact a lecturer to be your __team coach__:
+	* your coach is responsible for registering you;
+3. __start practicing__.
+4. Join [JU Kod] for practice, tips and tricks.
+
+... not necessarily in the above order...
+
+For CSE/AIE students:
+Rudy Matela ([rudy.matela@ju.se](mailto:rudy.matela@ju.se))
+can be your coach if you like.
+(with Masoumeh Taromirad as the co-coach)
+
+For students of other programmes:
+find a coach within your programme/department.
+
+::::
+
+:::: {.column width=40%}
+
+<img src="https://github.com/user-attachments/assets/f582d523-0bfa-44c1-a87e-76ca7c1f2954" width=100% />
+
+[jukod.github.io](https://jukod.github.io/)
+
+<img src="qr.svg" width=50% />
+
+::::
+
+:::
+
+
+------
+
+### Any questions?
+
+::: columns
+
+:::: {.column width=50%}
+
+<img src="https://github.com/user-attachments/assets/b719083b-b6af-4074-85ce-fdf3c9a49633" width=100% />
+
+<img src="https://live.staticflickr.com/1645/26110858644_84ba0f26c4_b.jpg" width=100% />
+
+::::
+
+:::: {.column width=50%}
+
+<img src="https://github.com/user-attachments/assets/f582d523-0bfa-44c1-a87e-76ca7c1f2954" width=100% />
+
+<img src="https://live.staticflickr.com/1526/26113291873_9208648a69_b.jpg" width=100% />
+
+::::
+
+:::
+
+------
+
+### Thank you!
+
+::: columns
+
+:::: {.column width=50%}
+
+<img src="https://github.com/user-attachments/assets/b719083b-b6af-4074-85ce-fdf3c9a49633" width=100% />
+
+<img src="https://live.staticflickr.com/1645/26110858644_84ba0f26c4_b.jpg" width=100% />
+
+::::
+
+:::: {.column width=50%}
+
+<img src="https://github.com/user-attachments/assets/f582d523-0bfa-44c1-a87e-76ca7c1f2954" width=100% />
+
+<img src="https://live.staticflickr.com/1526/26113291873_9208648a69_b.jpg" width=100% />
+
+::::
+
+:::
 
 ------
 
@@ -214,4 +487,20 @@ TODO: add qr code
 
 ------
 
-TODO: add link to this page and compilation instructions
+To compile this document from source run:
+
+```bash
+pandoc --title "JU Kod" -tslidy -s slides.md -o slides.html
+```
+
+You need `pandoc` installed.
+
+This slide set can be found on:
+
+```
+https://jukod.github.io/slides
+```
+
+------
+
+.
