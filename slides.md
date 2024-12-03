@@ -34,7 +34,7 @@ The NCPC format:
 * 🚩 [≈ 10 programming problems][]
 * ⌨️ solutions in: [Python], [Java], [C#], [C++], [Haskell] or [40 other languages].
 * 💻 1 computer per team
-* 🎈 the team with [most solved problems][] wins
+* 🎈 the team with [most problems solved][] wins
 
 &nbsp;
 
@@ -49,7 +49,7 @@ The NCPC format:
 [C++]:     https://isocpp.org/
 [C]:       https://en.wikipedia.org/wiki/C_(programming_language)
 [40 other languages]: https://open.kattis.com/languages
-[most solved problems]: https://ncpc24.kattis.com/contests/ncpc24/standings?filter=6262
+[most problems solved]: https://ncpc24.kattis.com/contests/ncpc24/standings?filter=6262
 
 ::::
 
