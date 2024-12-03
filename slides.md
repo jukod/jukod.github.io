@@ -129,8 +129,6 @@ The height of a peak is defined as the smaller of $h_j - h_i$ and $h_j - h_k$.
 
 __Given a mountain range, can you find the height of its highest peak?__
 
-$n$, the number of samples may go up to 200000!
-
 ------
 
 ### Highest Hill (3)
@@ -148,7 +146,7 @@ $n$, the number of samples may go up to 200000!
 5
 ```
 
-<img src="fig/highest-hill-1.svg" width=66% />
+<img src="fig/highest-hill-1.svg" width=100% />
 
 ------
 
@@ -167,11 +165,15 @@ $n$, the number of samples may go up to 200000!
 67
 ```
 
-<img src="fig/highest-hill-2.svg" width=66% />
+<img src="fig/highest-hill-2.svg" width=100% />
 
 ------
 
 Can you solve this?
+
+$n$, the number of samples may go up to 200000!
+
+------
 
 * In $O(n^3)$ "time limit exceeded", no points... ❌
 * In $O(n^2)$ "time limit exceeded", no points still... ❌
@@ -243,7 +245,7 @@ There's an intricate web of competitions worldwide...
 ------
 
 Being in Sweden,
-you nevertheless start at __[NCPC]__.
+you nevertheless start at the __[NCPC]__.
 
 ------
 
@@ -255,7 +257,7 @@ you nevertheless start at __[NCPC]__.
 
 When?
 
-* __Saturday 4 October 2025__ 10:00 -- 16:00.
+* Saturday 4 __October 2025__ 10:00 -- 16:00.
 
 Where?
 
