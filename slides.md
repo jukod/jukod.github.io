@@ -105,7 +105,7 @@ and in the right time complexity.
 
 An example problem:
 
-[Highest Hill from NCPC 2024](https://open.kattis.com/problems/highesthill).  (CC-BY-SA)
+[Highest Hill from NCPC 2022](https://open.kattis.com/problems/highesthill).  (CC-BY-SA)
 
 ------
 
