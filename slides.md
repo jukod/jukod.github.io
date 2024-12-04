@@ -70,26 +70,9 @@ How are the problems?
 
 e.g.: [NCPC 2022 Problems](https://github.com/icpc/ncpc-web/releases/download/ncpc2022-data/ncpc2022problems.pdf)
 
-There's usually an easy problem that everyone can solve;
-then problems get progressively harder up to a problem that only a couple teams can solve.
-
-Solutions not only have to produce the correct output, but also be in the correct/expected time complexity.
-It's often
-easy to get the correct output through brute-force simulation ❌,
-but quite hard to do it in an optimal time complexity ✅.
-
-You can find all problems for the past decade on [open.kattis.com](https://open.kattis.com):
-[NCPC 2024](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202024?order=difficulty_data);
-[NCPC 2023](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202023?order=difficulty_data);
-[NCPC 2022](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202022?order=difficulty_data);
-[NCPC 2021](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202021?order=difficulty_data);
-[NCPC 2020](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202020?order=difficulty_data);
-[NCPC 2019](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202019?order=difficulty_data);
-[NCPC 2018](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202018?order=difficulty_data);
-[NCPC 2017](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202017?order=difficulty_data).
-
-You can even submit your solutions there to see if you got it right
-and in the right time complexity.
+* There's usually an easy problem that everyone can solve;
+* Then progressively harder;
+* ... up to a problem that only 1 or 2 teams can solve.
 
 
 
@@ -171,13 +154,29 @@ __Given a mountain range, can you find the height of its highest peak?__
 
 Can you solve this?
 
-$n$, the number of samples may go up to 200000!
+&nbsp;
+
+$n$, the number of samples, may go up to 200000!
+
+&nbsp;
+
+<img src="fig/highest-hill-2.svg" width=100% />
 
 ------
 
 * In $O(n^3)$ "time limit exceeded", no points... ❌
 * In $O(n^2)$ "time limit exceeded", no points still... ❌
 * In $O(n)$ accepted. ✅
+
+------
+
+* Solutions not only have to produce the correct output,
+* but also be in the correct/expected time complexity.
+
+&nbsp;
+
+* It's often easy to get the correct output through brute-force simulation ❌,
+* but not so easy to do it in an optimal time complexity ✅.
 
 ------
 
@@ -410,9 +409,21 @@ you'll find a list of interesting problems to start practicing:
 
 They're all from past editions of NCPC.
 
-They are hosted on Open Kattis,
+They are hosted on [open.kattis.com](https://open.kattis.com),
 you can submit your solutions to be graded automatically
 as if you were in the competition/contest.
+
+&nbsp;
+
+You can find all problems for the past decade on [open.kattis.com](https://open.kattis.com):
+[NCPC 2024](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202024?order=difficulty_data);
+[NCPC 2023](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202023?order=difficulty_data);
+[NCPC 2022](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202022?order=difficulty_data);
+[NCPC 2021](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202021?order=difficulty_data);
+[NCPC 2020](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202020?order=difficulty_data);
+[NCPC 2019](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202019?order=difficulty_data);
+[NCPC 2018](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202018?order=difficulty_data);
+[NCPC 2017](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202017?order=difficulty_data).
 
 ::::
 
