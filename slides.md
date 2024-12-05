@@ -172,9 +172,9 @@ $n$, the number of samples, may go up to 200000!
 ------
 
 * Solutions not only have to produce the correct output,
-* but also be in the correct/expected time complexity.
+* but also be in the optimal/expected time complexity.
 
-&nbsp;
+------
 
 * It's often easy to get the correct output through brute-force simulation ❌,
 * but not so easy to do it in an optimal time complexity ✅.
