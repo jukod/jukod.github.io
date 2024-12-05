@@ -70,8 +70,9 @@ How are the problems?
 
 e.g.: [NCPC 2022 Problems](https://github.com/icpc/ncpc-web/releases/download/ncpc2022-data/ncpc2022problems.pdf)
 
+* Programming with emphasis on Algorithms and Data Structures;
 * There's usually an easy problem that everyone can solve;
-* Then progressively harder;
+* Then progressively harder problems;
 * ... up to a problem that only 1 or 2 teams can solve.
 
 
