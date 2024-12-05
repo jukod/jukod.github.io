@@ -442,25 +442,36 @@ https://jukod.github.io/
 
 ### JU/JTH @ NCPC: summary
 
-| .                       | #-prob.      | 🇸🇪-rank    | 🇸🇪%   | rank        | %       |
-| ----------------------- | ------------ | ------------ | ------- | ----------- | ------- |
-| [NCPC 2023][ncpc2023sb] | 5 🎈🎈🎈🎈🎈 |    24th / 36 | top 66% |  89th / 160 | top 55% |
-| [NCPC 2024][ncpc2024sb] | 4 🎈🎈🎈🎈   |     9th / 23 | top 40% |  __39th / 139__ | __top 30%__ |
+| NCPC              | #-solved&nbsp;ps. | 🇸🇪-rank    | 🇸🇪%   | rank            | %           |
+| ----------------- | ----------------- | ------------ | ------- | --------------- | ----------- |
+| [NCPC 2023][23sb] | 5 🎈🎈🎈🎈🎈      |    24th / 36 | top 66% |  89th / 160     | top 55%     |
+| [NCPC 2024][24sb] | 4 🎈🎈🎈🎈        | __9th__ / 23 | top 40% |  __39th / 139__ | __top 30%__ |
 
 ... also: [3 problems solved at NWERC 2024][]!
 
 <img src="https://github.com/user-attachments/assets/b719083b-b6af-4074-85ce-fdf3c9a49633" width=55% />
 <img src="https://github.com/user-attachments/assets/f582d523-0bfa-44c1-a87e-76ca7c1f2954" width=30% />
 
-[ncpc2023sb]: https://ncpc23.kattis.com/contests/ncpc23/standings?filter=5254
-[ncpc2024sb]: https://ncpc24.kattis.com/contests/ncpc24/standings?filter=6262
+[23sb]: https://ncpc23.kattis.com/contests/ncpc23/standings?filter=5254
+[24sb]: https://ncpc24.kattis.com/contests/ncpc24/standings?filter=6262
 [3 problems solved at NWERC 2024]: https://2024.nwerc.eu/main/scoreboard/
 
 ------
 
-Think you can do better?
+Think you can do better?  __Join next time.__
 
-Join next time.
+| NCPC              | #-teams              | #-students                          |
+| ----------------- | -------------------- | ----------------------------------- |
+| [NCPC 2023][23sb] | 👥 (1)               | 🎓🎓🎓 (3)                          |
+| [NCPC 2024][24sb] | 👥👥👥👥 (4)         | 🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓 (11)         |
+| &nbsp;            |                      |                                     |
+| __NCPC 2025__     | 👥👥👥👥👥... (¿≥5?) | 🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓... (¿≥12?) |
+
+&nbsp;
+
+<img src="https://github.com/user-attachments/assets/2050e373-e9d2-4081-9b1c-667df7ae22ba" width=100% />
+
+We want to increase our participation in future contests.
 
 
 ------
@@ -493,7 +504,9 @@ find a coach within your programme/department.
 
 <img src="https://github.com/user-attachments/assets/f582d523-0bfa-44c1-a87e-76ca7c1f2954" width=100% />
 
-[jukod.github.io](https://jukod.github.io/)
+[jukod.github.io]
+
+[jukod.github.io]: https://jukod.github.io/
 
 <img src="qr.svg" width=50% />
 
@@ -504,23 +517,23 @@ find a coach within your programme/department.
 
 ------
 
-### Any questions?
-
 ::: columns
 
 :::: {.column width=50%}
 
-<img src="https://github.com/user-attachments/assets/b719083b-b6af-4074-85ce-fdf3c9a49633" width=100% />
+### Any questions?
 
-<img src="https://live.staticflickr.com/1645/26110858644_84ba0f26c4_b.jpg" width=100% />
+### [rudy.matela@ju.se] 
+
+### [jukod.github.io]
+
+<img src="qr.svg" width=66% />
 
 ::::
 
 :::: {.column width=50%}
 
 <img src="https://github.com/user-attachments/assets/f582d523-0bfa-44c1-a87e-76ca7c1f2954" width=100% />
-
-<img src="https://live.staticflickr.com/1526/26113291873_9208648a69_b.jpg" width=100% />
 
 ::::
 
@@ -528,23 +541,23 @@ find a coach within your programme/department.
 
 ------
 
-### Thank you!
-
 ::: columns
 
 :::: {.column width=50%}
 
-<img src="https://github.com/user-attachments/assets/b719083b-b6af-4074-85ce-fdf3c9a49633" width=100% />
+### Thank you!
 
-<img src="https://live.staticflickr.com/1645/26110858644_84ba0f26c4_b.jpg" width=100% />
+### [rudy.matela@ju.se] 
+
+### [jukod.github.io]
+
+<img src="qr.svg" width=66% />
 
 ::::
 
 :::: {.column width=50%}
 
 <img src="https://github.com/user-attachments/assets/f582d523-0bfa-44c1-a87e-76ca7c1f2954" width=100% />
-
-<img src="https://live.staticflickr.com/1526/26113291873_9208648a69_b.jpg" width=100% />
 
 ::::
 
