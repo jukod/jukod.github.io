@@ -32,7 +32,7 @@ The NCPC format:
 * 👥 teams of [3 university students][]
 * ⏱️ 5 hours
 * 🚩 [≈ 10 programming problems][]
-* ⌨️ solutions in: [Python], [Java], [C#], [C++], [Haskell] or [40 other languages].
+* ⌨️ solutions in: [Python], [C], [Java], [C#], [C++], [Haskell] or [40 other languages].
 * 💻 1 computer per team
 * 🎈 the team with [most problems solved][] wins
 
