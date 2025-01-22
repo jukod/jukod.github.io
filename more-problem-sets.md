@@ -3,7 +3,12 @@ More problems sets for practicing to NCPC, NWERC and ICPC
 
 #### [Programmeringsolympiadens] final
 
-[PO final 2024][].
+[PO final 2024][];
+[PO final 2019][];
+[PO final 2017][];
+[PO final 2016][];
+[PO final 2012][];
+[PO final 2010][].
 
 
 #### [MAPS] 🇺🇸 Mount Allison Programming Showdown
