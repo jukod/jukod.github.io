@@ -12,21 +12,21 @@ Some other info:
   (maybe have the Discord bot do this)
 
 
-## Week 4: no contest then
+### Week 4: no contest then
 
 No contest for week 4.
 Our first contest is in week 5,
 it starts Monday 27 January.
 
 
-## Week 5 (Calle)
+### Week 5 (Calle)
 
 * [wheresmyinternet](https://open.kattis.com/problems/wheresmyinternet)
 * [sumkindofproblem](https://open.kattis.com/problems/sumkindofproblem)
 * [brocard](https://open.kattis.com/problems/brocard)
 
 
-## Week 6 (Rudy)
+### Week 6 (Rudy)
 
 * [twosum](https://open.kattis.com/problems/twosum)
 * [leftbeehind](https://open.kattis.com/problems/leftbeehind)
@@ -34,23 +34,23 @@ it starts Monday 27 January.
 * [progressivescramble](https://open.kattis.com/problems/progressivescramble)
 
 
-## Week 7 (???)
+### Week 7 (???)
 
 TODO
 
 
-## Week 8 (???)
+### Week 8 (???)
 
 TODO
 
 
-## Week 9 (Calle) 
+### Week 9 (Calle) 
 
 * https://open.kattis.com/problems/guess
 * ...
 
 
-## Week 10 (Rudy)
+### Week 10 (Rudy)
 
 * [telja](https://open.kattis.com/problems/telja)
 * [hangman](https://open.kattis.com/problems/hangman)
@@ -58,22 +58,22 @@ TODO
 * [keytocrypto](https://open.kattis.com/problems/keytocrypto)
 
 
-## Week 11 (???)
+### Week 11 (???)
 
 TODO
 
 
-## Week 12 (???)
+### Week 12 (???)
 
 TODO
 
 
-## Week 13 (Calle)
+### Week 13 (Calle)
 
 TODO
 
 
-## Week 14 (Rudy)
+### Week 14 (Rudy)
 
 * [stopwatch](https://open.kattis.com/problems/stopwatch)
 * [eyeofsauron](https://open.kattis.com/problems/eyeofsauron)
@@ -81,33 +81,33 @@ TODO
 * [inverteddeck](https://open.kattis.com/problems/inverteddeck)
 
 
-## Week 15 (???)
+### Week 15 (???)
 
 TODO
 
 
-## Week 16 (???)
+### Week 16 (???)
 
 TODO
 
 
-## Week 17 (???)
+### Week 17 (???)
 
 TODO
 
 
-## Week 18 (Rudy)
+### Week 18 (Rudy)
 
 * [attendance2](https://open.kattis.com/problems/attendance2)
 * [secretchamber](https://open.kattis.com/problems/secretchamber)
 * [firetrucksarered](https://open.kattis.com/problems/firetrucksarered)
 
 
-## Week 19 (???)
+### Week 19 (???)
 
 TODO
 
 
-## Week 20 (???)
+### Week 20 (???)
 
 TODO
