@@ -6,10 +6,11 @@ Remember to always include a trivial problem!
 
 ## Week 4: no contest then
 
-## JU Kod 2025 week 5 practice contest (???)
+## JU Kod 2025 week 5 practice contest (Calle)
 
-* ???
-* ???
+* https://open.kattis.com/problems/wheresmyinternet
+* https://open.kattis.com/problems/sumkindofproblem
+* https://open.kattis.com/problems/brocard
 
 ## JU Kod 2025 week 6 practice contest (Rudy)
 
@@ -21,7 +22,9 @@ Remember to always include a trivial problem!
 
 ## W8
 
-## W9
+## W9 (Calle) 
+* https://open.kattis.com/problems/guess
+* 
 
 ## JU Kod 2025 week 10 practice contest (Rudy)
 
