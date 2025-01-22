@@ -1,11 +1,22 @@
 # Upcoming practice contests
 
-I wouldn't overdo it.  Just 3-4 problems are good each week.
+Adrian and Calle are responsible for having the contests set up on Kattis.
+They'll somehow keep a database of people who are registered in JU Kod
+and add them weekly to the contest.
+Some other info:
 
-Remember to always include a trivial problem!
+* Contests run from Monday 13:00 to Monday 13:00 every week.
+* Lightweight contests: just 3-4 problems are enough for each week.
+* Remember to always include a trivial problem.
+* Announce results and new contest on Discord and on the mailing list.
+  (maybe have the Discord bot do this)
 
 
 ## Week 4: no contest then
+
+No contest for week 4.
+Our first contest is in week 5,
+it starts Monday 27 January.
 
 
 ## Week 5 (Calle)
