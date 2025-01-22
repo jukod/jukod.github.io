@@ -114,6 +114,7 @@ Just create an account on [Kattis](https://open.kattis.com/) and start practicin
 ### Discord Server
 
 We also have a [Discord server] where you can ask questions about problems or talk about solutions. You can also just hangout and do problems together or get to know everyone in the community.
+Yoseph Naoom and Adrian Fyrpil are the moderators responsible for the Discord server.
 
 
 ### Further information
@@ -140,6 +141,23 @@ This study group is supported by the [Department of Computing].
 | Name                                                     | Date                    |
 | -------------------------------------------------------- | ----------------------- |
 | [NCPC] 2025 -- [Nordic Collegiate Programming Contest]   | 4 October 2025          |
+
+
+## JU Kod Steering Committee
+
+* Adrian Fyrpil (student)
+* Calle Ovinder (student)
+* Rudy Matela (lecturer)
+* Yoseph Naoom (student)
+
+### Responsibilities
+
+* Group Leadership (steering committee)
+* (This) Website (Calle, Rudy)
+* [Room Scheduling][] (Rudy)
+* [Mailing list][] (Rudy)
+* [Discord server][] (Yoseph, Adrian)
+* Weekly practice contests (Adrian, Calle)
 
 
 [NCPC]: https://nordic.icpc.io/
@@ -182,6 +200,8 @@ This study group is supported by the [Department of Computing].
 [Discord server]:            https://discord.gg/fxZvWBCt9G
 [Discord]:                   https://discord.gg/fxZvWBCt9G
 [our mailing list]: mailto:g-jukod@groups.ju.se
+[mailing list]: mailto:g-jukod@groups.ju.se
+[Room Scheduling]: https://cloud.timeedit.net/ju/web/open/riq86d9Qn03Z86Qt6m709t0Q67ZZn4441kAm50kQ71o00oAn22FlEA12Z90Q2E556BvZ5YY97847BQEC75Y8Q050DBXD16Qy94qZow6.html
 
 [Computer Science Engineering]: https://ju.se/studera/valj-utbildning/program/program-pa-grundniva/civilingenjor-datateknik.html
 [Civilingenjör Datateknik]:     https://ju.se/studera/valj-utbildning/program/program-pa-grundniva/civilingenjor-datateknik.html
