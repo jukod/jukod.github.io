@@ -29,6 +29,12 @@ Remember to always include a trivial problem!
 
 ## JU Kod 2025 week 10 practice contest (Rudy)
 
-* ???
-* ???
-* ???
+* ... TODO: add easy one...
+* [eligibility](https://open.kattis.com/problems/eligibility)
+* [keytocrypto](https://open.kattis.com/problems/keytocrypto)
+
+
+## JU Kod 2025 week 14 practice contest (Rudy)
+
+* ... TODO: add easier ones...
+* [inverteddeck](https://open.kattis.com/problems/inverteddeck)
