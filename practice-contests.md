@@ -8,9 +8,9 @@ Remember to always include a trivial problem!
 
 ## JU Kod 2025 week 5 practice contest (Calle)
 
-* https://open.kattis.com/problems/wheresmyinternet
-* https://open.kattis.com/problems/sumkindofproblem
-* https://open.kattis.com/problems/brocard
+* [wheresmyinternet](https://open.kattis.com/problems/wheresmyinternet)
+* [sumkindofproblem](https://open.kattis.com/problems/sumkindofproblem)
+* [brocard](https://open.kattis.com/problems/brocard)
 
 ## JU Kod 2025 week 6 practice contest (Rudy)
 
