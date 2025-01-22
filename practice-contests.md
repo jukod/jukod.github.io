@@ -14,9 +14,10 @@ Remember to always include a trivial problem!
 
 ## JU Kod 2025 week 6 practice contest (Rudy)
 
-* https://open.kattis.com/problems/tilhamingju
-* https://open.kattis.com/problems/velkomin
-* https://open.kattis.com/problems/akureyri
+* [twosum](https://open.kattis.com/problems/twosum)
+* [leftbeehind](https://open.kattis.com/problems/leftbeehind)
+* [mia](https://open.kattis.com/problems/mia)
+* [progressivescramble](https://open.kattis.com/problems/progressivescramble)
 
 ## JU Kod 2025 week 7 practice contest (???)
 
