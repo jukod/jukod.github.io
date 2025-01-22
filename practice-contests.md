@@ -5,7 +5,9 @@ They'll somehow keep a database of people who are registered in JU Kod
 and add them weekly to the contest.
 Some other info:
 
-* Contests run from Monday 13:00 to Monday 13:00 every week.
+* Contests run from Monday 13:00 to Monday 13:00 every week:
+  at any moment during study periods,
+  there should always be a JU Kod contest running.
 * Lightweight contests: just 3-4 problems are enough for each week.
 * Remember to always include a trivial problem.
 * Announce results and new contest on Discord and on the mailing list.
