@@ -36,9 +36,12 @@ it starts Monday 27 January.
 * [progressivescramble](https://open.kattis.com/problems/progressivescramble)
 
 
-### Week 7 (???)
+### Week 7 (Adrian)
 
-TODO
+* [twostones](https://open.kattis.com/problems/twostones)
+* [boatparts](https://open.kattis.com/problems/boatparts)
+* [aprizenoonecanwin](https://open.kattis.com/problems/aprizenoonecanwin)
+* [amultiplicationgame](https://open.kattis.com/problems/amultiplicationgame)
 
 
 ### Week 8 (???)
@@ -60,9 +63,12 @@ TODO
 * [keytocrypto](https://open.kattis.com/problems/keytocrypto)
 
 
-### Week 11 (???)
+### Week 11 (Adrian)
 
-TODO
+* [callforproblems](https://open.kattis.com/problems/callforproblems)
+* [skyislands](https://open.kattis.com/problems/skyislands)
+* [virtualfriends](https://open.kattis.com/problems/virtualfriends)
+* [a1paper](https://open.kattis.com/problems/a1paper)
 
 
 ### Week 12 (???)
