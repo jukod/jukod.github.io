@@ -74,10 +74,10 @@ it starts Monday 27 January.
 
 ### Week 12 (Yoseph)
 
-*[kornislav](https://open.kattis.com/problems/kornislav)
-*[reseto](https://open.kattis.com/problems/reseto)
-*[batmanacci](https://open.kattis.com/problems/batmanacci)
-*[digitdivision](https://open.kattis.com/problems/digitdivision)
+* [kornislav](https://open.kattis.com/problems/kornislav)
+* [reseto](https://open.kattis.com/problems/reseto)
+* [batmanacci](https://open.kattis.com/problems/batmanacci)
+* [digitdivision](https://open.kattis.com/problems/digitdivision)
 
 ### Week 13 (Calle)
 
