@@ -44,11 +44,12 @@ it starts Monday 27 January.
 * [amultiplicationgame](https://open.kattis.com/problems/amultiplicationgame)
 
 
-### Week 8 (???)
+### Week 8 (Yoseph)
 
-TODO
-
-
+* [stuckinatimeLoop](https://open.kattis.com/problems/timeloop)
+* [daylightsavingtime](https://open.kattis.com/problems/dst)
+* [sierpińskicircumference](https://open.kattis.com/problems/triangle)
+* [setnja](https://open.kattis.com/problems/setnja)
 ### Week 9 (Calle) 
 
 * https://open.kattis.com/problems/guess
@@ -71,10 +72,12 @@ TODO
 * [a1paper](https://open.kattis.com/problems/a1paper)
 
 
-### Week 12 (???)
+### Week 12 (Yoseph)
 
-TODO
-
+*[kornislav](https://open.kattis.com/problems/kornislav)
+*[reseto](https://open.kattis.com/problems/reseto)
+*[batmanacci](https://open.kattis.com/problems/batmanacci)
+*[digitdivision](https://open.kattis.com/problems/digitdivision)
 
 ### Week 13 (Calle)
 
@@ -94,9 +97,12 @@ TODO
 TODO
 
 
-### Week 16 (???)
+### Week 16 (Yoseph)
 
-TODO
+ * [fyi](https://open.kattis.com/problems/fyi)
+ * [grandpabernie](https://open.kattis.com/problems/grandpabernie)
+ * [allaboutthatbase](https://open.kattis.com/problems/allaboutthatbase)
+ * [safepassage](https://open.kattis.com/problems/safepassage)
 
 
 ### Week 17 (???)
