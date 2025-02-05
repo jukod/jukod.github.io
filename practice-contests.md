@@ -46,7 +46,7 @@ it starts Monday 27 January.
 
 ### Week 8 (Yoseph)
 
-* [stuckinatimeLoop](https://open.kattis.com/problems/timeloop)
+* [stuckinatimeloop](https://open.kattis.com/problems/timeloop)
 * [daylightsavingtime](https://open.kattis.com/problems/dst)
 * [sierpińskicircumference](https://open.kattis.com/problems/triangle)
 * [setnja](https://open.kattis.com/problems/setnja)
