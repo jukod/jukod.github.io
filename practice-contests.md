@@ -50,9 +50,11 @@ it starts Monday 27 January.
 * [daylightsavingtime](https://open.kattis.com/problems/dst)
 * [sierpińskicircumference](https://open.kattis.com/problems/triangle)
 * [setnja](https://open.kattis.com/problems/setnja)
+
+
 ### Week 9 (Calle) 
 
-* https://open.kattis.com/problems/guess
+* [guess](https://open.kattis.com/problems/guess)
 * ...
 
 
@@ -78,6 +80,7 @@ it starts Monday 27 January.
 * [reseto](https://open.kattis.com/problems/reseto)
 * [batmanacci](https://open.kattis.com/problems/batmanacci)
 * [digitdivision](https://open.kattis.com/problems/digitdivision)
+
 
 ### Week 13 (Calle)
 
