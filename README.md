@@ -22,24 +22,22 @@ or come to one of our upcoming meetups.
 Also join [our Discord server][].  :-)
 
 
-## [NWERC 2024][nwerc-2024] [Results][nwerc-2024-results]
+## Weekly practice contests
 
-The [results][nwerc-2024-results] for [NWERC 2024][nwerc-2024] are out.
+| Link                                      | Date              | Winner         |
+| ----------------------------------------- | ----------------- | -------------- |
+|   [JUKod Weekly Practice Contest #2][]    | 3-10 Feb          | ???            |
+| ~~[JUKod Weekly Practice Contest #1][]~~  | 27 Jan -- 3 Feb   | [AdeptiC_tv][] |
 
-The JU team, Rude Goblins, solved 3 🎈🎈🎈 problems!
-Good job!
-
-![](https://github.com/user-attachments/assets/b719083b-b6af-4074-85ce-fdf3c9a49633)
-
-The [NWERC][nwerc-2024] competition was held in Delft, NL 🇳🇱.
-Above, a timelapse of the contest hall during the competition.
-Can you spot our team members?  🤔
-
-[nwerc-2024]: https://2024.nwerc.eu/
-[nwerc-2024-results]: https://2024.nwerc.eu/main/scoreboard/
+We run weekly practice contests.
+If you are a JU student and would like to participate,
+create an account on [Kattis][] and
+[contact us][] informing your Kattis username
+and email address used with your account.
+Or use [our Discord server][].
 
 
-## Upcoming meetups
+## Meetups
 
 | Meetup Date                  | Time         | Location          | Note                   |
 | ---------------------------- | ------------ | ----------------- | ---------------------- |
@@ -187,6 +185,12 @@ This study group is supported by the [Department of Computing].
 [coach]:          https://icpc.global/regionals/rules
 
 [NCPC 2023 results]: https://ncpc23.kattis.com/contests/ncpc23/standings?filter=5254
+
+[Kattis]:      https://open.kattis.com/
+[Open Kattis]: https://open.kattis.com/
+[JUKod Weekly Practice Contest #1]: https://open.kattis.com/contests/yve5oa/standings
+[JUKod Weekly Practice Contest #2]: https://open.kattis.com/contests/nagjqg/standings
+[AdeptiC_tv]: https://open.kattis.com/users/adeptic-tv
 
 [fun]: https://live.staticflickr.com/1526/26113291873_9208648a69_b.jpg
 
