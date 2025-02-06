@@ -24,10 +24,10 @@ Also join [our Discord server][].  :-)
 
 ## Weekly practice contests
 
-| Link                                      | Date              | Winner         |
-| ----------------------------------------- | ----------------- | -------------- |
-|   [JUKod Weekly Practice Contest #2][]    | 3-10 Feb          | ???            |
-| ~~[JUKod Weekly Practice Contest #1][]~~  | 27 Jan -- 3 Feb   | [AdeptiC_tv][] |
+| Link                                      | Date             | Winner         |
+| ----------------------------------------- | ---------------- | -------------- |
+|   [JUKod Weekly Practice Contest #2][]    | 3-10 Feb         | ???            |
+| ~~[JUKod Weekly Practice Contest #1][]~~  | 27 Jan - 3 Feb   | [AdeptiC_tv][] |
 
 We run weekly practice contests.
 If you are a JU student and would like to participate,
