@@ -26,6 +26,7 @@ Also join [our Discord server][].  :-)
 
 | Link                                      | Date             | Winner         |
 | ----------------------------------------- | ---------------- | -------------- |
+|   [JUKod Weekly Practice Contest #3][]    | 10-17 Feb        | ???            |
 |   [JUKod Weekly Practice Contest #2][]    | 3-10 Feb         | ???            |
 | ~~[JUKod Weekly Practice Contest #1][]~~  | 27 Jan - 3 Feb   | [AdeptiC_tv][] |
 
@@ -190,6 +191,7 @@ This study group is supported by the [Department of Computing].
 [Open Kattis]: https://open.kattis.com/
 [JUKod Weekly Practice Contest #1]: https://open.kattis.com/contests/yve5oa/standings
 [JUKod Weekly Practice Contest #2]: https://open.kattis.com/contests/nagjqg/standings
+[JUKod Weekly Practice Contest #3]: https://open.kattis.com/contests/stuqx2
 [AdeptiC_tv]: https://open.kattis.com/users/adeptic-tv
 
 [fun]: https://live.staticflickr.com/1526/26113291873_9208648a69_b.jpg
