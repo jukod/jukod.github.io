@@ -4,6 +4,7 @@ Checklist for hosting NCPC at JTH
 This is a checklist of stuff
 that needs to be done
 in order to host NCPC at JTH.
+The plan to host it is currently _a maybe/provisional_.
 
 The contest runs on 4 October 2024 10:00 -- 16:00.
 We plan an __event__ starting one hour before and ending one hour after:
