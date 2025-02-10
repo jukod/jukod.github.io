@@ -46,7 +46,7 @@ __Saturday 4 October 2024 09:00 -- 17:00__.
 * ⭕ __Prepare award ceremony presentation__?
       (best from JTH, best from site, simple prize?)
 
-* ⭕ __Prepare 2xRPIs for displaying the scoreboard__
+* ⭕ __Prepare 3xRPIs for displaying the scoreboard?__
 
 * ⭕ __Remind and invite runners__ a month before the event.
      Ulf, Vladimir and Cecilia showed interest.
