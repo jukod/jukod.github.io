@@ -28,6 +28,7 @@ __Saturday 4 October 2024 09:00 -- 17:00__.
 	- 8 + 8 teams would fit in Finnveden and Husqvarna
 	- The runners would have Eldon with the material
 	- Stora Enso is for the opening and award ceremonies
+	- We need E1120 (Galleriet) for serving the light lunch
 
 * ⭕ __Order light lunch from Dalucci__ early Autumn, estimate:
 	- for 30 people (maybe more, maybe less, refine after registration)
@@ -36,7 +37,9 @@ __Saturday 4 October 2024 09:00 -- 17:00__.
 	- Serve lunch at 12:00
 	- Coffee and biscuits thorughout
 
-* ⭕ __Prepare event schedule__.
+* 🟡 __Prepare event schedule__.
+     A [provisional schedule](..) is prepared.
+	 A couple months before the event it needs to be reviewed.
 
 * ⭕ __Prepare opening ceremory presentation__.
 
@@ -45,14 +48,14 @@ __Saturday 4 October 2024 09:00 -- 17:00__.
 
 * ⭕ __Prepare 2xRPIs for displaying the scoreboard__
 
+* ⭕ __Remind and invite runners__ a month before the event.
+     Ulf, Vladimir and Cecilia showed interest.
+	 Maybe invite all on the distcomp list.
+
 * ⭕ __Buy balloons and helium__ a week before the event.
 
 
 ### __Tasks__ leading-up-to and __during the event__
-
-* ⭕ (month before) remind and invite runners:
-     Ulf, Vladimir and Cecilia showed interest.
-	 Invite all on the distcomp list.
 
 * ⭕ (week before) buy __baloons__ and __helium__.
 
