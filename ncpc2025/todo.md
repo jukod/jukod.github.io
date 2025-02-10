@@ -12,9 +12,9 @@ __Saturday 4 October 2024 09:00 -- 17:00__.
 
 ### Tasks for preparation (❗🟡✅)
 
-Test :check_mark_button:
+Test :check_mark_button: :heavy_check_mark: :white_check_mark:
 
-* :check_mark_button:
+* :white_check_mark:
   __Register as an official site__ at the latest __early Autumn__.
 	- Done!  Måns Magnusson replied with a confirmation.
 
@@ -33,7 +33,7 @@ Test :check_mark_button:
 	- The runners would have Eldon with the material
 	- Stora Enso is for the opening and award ceremonies
 
-* :hollow_red_circle:
+* :exclamation:
   __Order light lunch from Dalucci__ early Autumn, estimate:
 	- for 30 people (maybe more, maybe less, refine after registration)
 	- 4 runners
