@@ -12,8 +12,9 @@ theme: jekyll-theme-slate
 #   theme: jekyll-theme-leap-day # blue-and-yellow
 # full list: https://pages.github.com/themes/
 
-plugins:
-  - jemoji
+# nah!
+# plugins:
+#   - jemoji
 
 github:
   is_project_page: false # disables the "view on GitHub" button
