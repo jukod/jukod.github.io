@@ -14,10 +14,12 @@ __Saturday 4 October 2024 09:00 -- 17:00__.
 
 Test :check_mark_button:
 
-* [x] __Register as an official site__ at the latest __early Autumn__.
+* :check_mark_button:
+  __Register as an official site__ at the latest __early Autumn__.
 	- Done!  Måns Magnusson replied with a confirmation.
 
-* 🟡 __Schedule rooms__
+* :yellow_circle:
+  __Schedule rooms__
 	- In progress (Rudy): created case 750045 for scheduling (Daniel)
 	- 3&4 October 2024, Friday 17:00 to Saturday 17:00,
 	  we can prepare the rooms for Saturday in the early evening.
@@ -31,7 +33,8 @@ Test :check_mark_button:
 	- The runners would have Eldon with the material
 	- Stora Enso is for the opening and award ceremonies
 
-* [ ] __Order light lunch from Dalucci__ early Autumn, estimate:
+* :hollow_red_circle:
+  __Order light lunch from Dalucci__ early Autumn, estimate:
 	- for 30 people (maybe more, maybe less, refine after registration)
 	- 4 runners
 	- 8 teams, 24 contestants
