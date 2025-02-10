@@ -12,9 +12,8 @@ __Saturday 4 October 2024 09:00 -- 17:00__.
 
 ### Tasks for preparation
 
-* [.] __Register as an official site__ at the latest __early Autumn__.
-	- In progress (Rudy): email sent to NCPC (Måns & Fredrik)
-	- Contact NCPC organization for this.
+* [x] __Register as an official site__ at the latest __early Autumn__.
+	- Done!  Måns Magnusson replied with a confirmation.
 
 * [.] __Schedule rooms__
 	- In progress (Rudy): created case 750045 for scheduling (Daniel)
