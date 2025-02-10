@@ -5,14 +5,15 @@ __⚠️ ⚠️ ⚠️ DRAFT DRAFT DRAFT ⚠️ ⚠️ ⚠️__
 
 __⚠️ ⚠️ ⚠️ ALL THAT IS HERE IS PROVISIONAL AND A MAYBE ⚠️ ⚠️ ⚠️__
 
-
 __Currently a maybe...__
 This is a draft of the info on the competition.
 
-__Provisional__ date:
-Saturday 4 October 2025 10:00 -- 16:00.
+This page has information for those attending NCPC 2025
+at the Jönköping University site.
+For those attending in other sites,
+please see the information on the [official NCPC 2025 website][].
 
-## Schedule, 4 October 2025
+## Schedule, 4 October 2025 __(provisional)__
 
 | Time               | Event                        | Location                             |
 | ------------------ | ---------------------------- | ------------------------------------ |
@@ -28,3 +29,5 @@ Saturday 4 October 2025 10:00 -- 16:00.
 __⚠️ ⚠️ ⚠️ ALL THAT IS HERE IS PROVISIONAL AND A MAYBE ⚠️ ⚠️ ⚠️__
 
 __⚠️ ⚠️ ⚠️ DRAFT DRAFT DRAFT ⚠️ ⚠️ ⚠️__
+
+[official NCPC 2025 website]: https://nordic.icpc.io/
