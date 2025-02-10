@@ -1,5 +1,5 @@
-NCPC 2025 @ JTH
-===============
+NCPC 2025 @ Jönköping University
+================================
 
 __⚠️ ⚠️ ⚠️ DRAFT DRAFT DRAFT ⚠️ ⚠️ ⚠️__
 
@@ -50,6 +50,8 @@ You are allowed (and recommended) to bring snacks.
 
 
 ### JTH
+
+Tekniska Högskolan i Jönköping, one of the four schools of Jönköping University.
 
 <img src="https://ju.se/images/18.1ad0f9d6177c3b563dd27f22/1614754729027/JTH-180507-1040.jpg" width=100% />
 <img src="https://ju.se/images/18.31a8e726182f26b62aa2136f/1662625427577/x640p/JTH-180507-1067.jpg" width=100% />
