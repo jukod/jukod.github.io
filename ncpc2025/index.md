@@ -52,6 +52,8 @@ You are allowed (and recommended) to bring snacks.
 ### JTH
 
 <img src="https://ju.se/images/18.1ad0f9d6177c3b563dd27f22/1614754729027/JTH-180507-1040.jpg" width=100% />
+<img src="https://ju.se/images/18.31a8e726182f26b62aa2136f/1662625427577/x640p/JTH-180507-1067.jpg" width=100% />
+<img src="https://ju.se/images/18.5c87d9ee150753c0c124df77/1520578359600/overview.jpg" width=100% />
 
 
 __⚠️ ⚠️ ⚠️ ALL THAT IS HERE IS PROVISIONAL AND A MAYBE ⚠️ ⚠️ ⚠️__
