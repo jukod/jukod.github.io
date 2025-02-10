@@ -38,7 +38,7 @@ __Saturday 4 October 2024 09:00 -- 17:00__.
 	- Coffee and biscuits thorughout
 
 * 🟡 __Prepare event schedule__.
-     A [provisional schedule](..) is prepared.
+     A [provisional schedule](.) is prepared.
 	 A couple months before the event it needs to be reviewed.
 
 * ⭕ __Prepare opening ceremory presentation__.
