@@ -40,7 +40,7 @@ Registration steps:
 
 After you enter [JTH](#jth) (yellow building),
 turn left at the first corridor then go straight.
-You'll find the Store Enso auditorium there.
+You'll find the Stora Enso auditorium there.
 
 ### Light lunch
 
