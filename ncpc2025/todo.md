@@ -10,12 +10,14 @@ The contest runs on 4 October 2024 10:00 -- 16:00.
 We plan an __event__ starting one hour before and ending one hour after:
 __Saturday 4 October 2024 09:00 -- 17:00__.
 
-### Tasks for preparation
+### Tasks for preparation (❗🟡✅)
+
+Test :check_mark_button:
 
 * [x] __Register as an official site__ at the latest __early Autumn__.
 	- Done!  Måns Magnusson replied with a confirmation.
 
-* [.] __Schedule rooms__
+* 🟡 __Schedule rooms__
 	- In progress (Rudy): created case 750045 for scheduling (Daniel)
 	- 3&4 October 2024, Friday 17:00 to Saturday 17:00,
 	  we can prepare the rooms for Saturday in the early evening.
