@@ -50,15 +50,21 @@ __Saturday 4 October 2024 09:00 -- 17:00__.
 
 ### __Tasks__ leading-up-to and __during the event__
 
+* ⭕ (month before) remind and invite runners:
+     Ulf, Vladimir and Cecilia showed interest.
+	 Invite all on the distcomp list.
+
 * ⭕ (week before) buy __baloons__ and __helium__.
 
 * ⭕ (evening before) __organize tables__ for teams.
-  Ask for help from JUKod members.
+     Ask for help from JUKod members.
 
 * ⭕ (evening before) set-up team positions like in NWERC 2024
 
 * ⭕ (evening before) set-up some plaques with
   instructions upon arrival.
+
+* ⭕ (early morning of event) move baloons and helium to Runners room or Ljusgården
 
 * ⭕ (morning of event) double-check setup from the evening before
 
