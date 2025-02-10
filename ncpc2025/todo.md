@@ -10,16 +10,12 @@ The contest runs on 4 October 2024 10:00 -- 16:00.
 We plan an __event__ starting one hour before and ending one hour after:
 __Saturday 4 October 2024 09:00 -- 17:00__.
 
-### Tasks for preparation (❗🟡✅)
+### Tasks for preparation (⭕ 🟡 ✅)
 
-Test :check_mark_button: :heavy_check_mark: :white_check_mark:
-
-* :white_check_mark:
-  __Register as an official site__ at the latest __early Autumn__.
+* ✅ __Register as an official site__ at the latest __early Autumn__.
 	- Done!  Måns Magnusson replied with a confirmation.
 
-* :yellow_circle:
-  __Schedule rooms__
+* 🟡 __Schedule rooms__
 	- In progress (Rudy): created case 750045 for scheduling (Daniel)
 	- 3&4 October 2024, Friday 17:00 to Saturday 17:00,
 	  we can prepare the rooms for Saturday in the early evening.
@@ -33,24 +29,23 @@ Test :check_mark_button: :heavy_check_mark: :white_check_mark:
 	- The runners would have Eldon with the material
 	- Stora Enso is for the opening and award ceremonies
 
-* :exclamation:
-  __Order light lunch from Dalucci__ early Autumn, estimate:
+* ⭕ __Order light lunch from Dalucci__ early Autumn, estimate:
 	- for 30 people (maybe more, maybe less, refine after registration)
 	- 4 runners
 	- 8 teams, 24 contestants
 	- Serve lunch at 12:00
 	- Coffee and biscuits thorughout
 
-* [ ] __Prepare event schedule__.
+* ⭕ __Prepare event schedule__.
 
-* [ ] __Prepare opening ceremory presentation__.
+* ⭕ __Prepare opening ceremory presentation__.
 
-* [ ] __Prepare award ceremony presentation__?
+* ⭕ __Prepare award ceremony presentation__?
       (best from JTH, best from site, simple prize?)
 
-* [ ] __Prepare 2xRPIs for displaying the scoreboard__
+* ⭕ __Prepare 2xRPIs for displaying the scoreboard__
 
-* [ ] __Buy balloons and helium__ a week before the event.
+* ⭕ __Buy balloons and helium__ a week before the event.
 
 
 ### __Tasks__ leading-up-to and __during the event__
