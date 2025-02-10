@@ -12,10 +12,12 @@ __Saturday 4 October 2024 09:00 -- 17:00__.
 
 ### Tasks for preparation
 
-* [ ] __Register as an official site__ at the latest __early Autumn__.
+* [.] __Register as an official site__ at the latest __early Autumn__.
+	- In progress (Rudy): email sent to NCPC (Måns & Fredrik)
 	- Contact NCPC organization for this.
 
-* [ ] __Schedule rooms__:
+* [.] __Schedule rooms__
+	- In progress (Rudy): created case 750045 for scheduling (Daniel)
 	- 3&4 October 2024, Friday 17:00 to Saturday 17:00,
 	  we can prepare the rooms for Saturday in the early evening.
 	- Main event Saturday 4 October 2024 10:00 -- 16:00.
