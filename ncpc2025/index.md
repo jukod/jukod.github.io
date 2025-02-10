@@ -30,8 +30,8 @@ Registration steps:
 
 | Time               | Event                        | Location                             |
 | ------------------ | ---------------------------- | ------------------------------------ |
-| 09:20              | Recommended arrival          | [JTH (yellow building)](#jth)        |
-| 09:40              | Introduction Presentation    | Stora Enso E1029 Auditorium          |
+| 09:00              | Recommended arrival          | [JTH (yellow building)](#jth)        |
+| 09:30              | Introduction Presentation    | Stora Enso E1029 Auditorium          |
 | __10:00 -- 16:00__ | __Main Contest (NCPC 2025)__ | __Husqvarna E1028, Finnveden E1022__ |
 | Around 12:00       | Light lunch is served        | Galleriet E1120                      |
 | 16:10 -- 16:30     | Quick Award Ceremony         | Stora Enso E1029 Auditorium          |
@@ -58,6 +58,7 @@ __⚠️ ⚠️ ⚠️ ALL THAT IS HERE IS PROVISIONAL AND A MAYBE ⚠️ ⚠️
 
 __⚠️ ⚠️ ⚠️ DRAFT DRAFT DRAFT ⚠️ ⚠️ ⚠️__
 
+[NCPC 2025]: https://nordic.icpc.io/
 [official NCPC 2025 website]: https://nordic.icpc.io/
 [Nordic Collegiate Programming Contest]: https://nordic.icpc.io/
 [registration instructions for NCPC 2025]: https://nordic.icpc.io/ncpc2025/compete
