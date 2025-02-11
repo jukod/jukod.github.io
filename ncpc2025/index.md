@@ -9,7 +9,7 @@ __Currently a maybe...__
 This is a draft of the info on the competition.
 
 This page has
-__information for those attending NCPC 2025 at the Jönköping University site__.
+__information for those attending NCPC 2025 at the [Jönköping University][] site__.
 For those attending in other sites,
 please see the information on the [official NCPC 2025 website][].
 
@@ -87,3 +87,4 @@ __⚠️ ⚠️ ⚠️ DRAFT DRAFT DRAFT ⚠️ ⚠️ ⚠️__
 [official NCPC 2025 website]: https://nordic.icpc.io/
 [Nordic Collegiate Programming Contest]: https://nordic.icpc.io/
 [registration instructions for NCPC 2025]: https://nordic.icpc.io/ncpc2025/compete
+[Jönköping University]: https://ju.se/
