@@ -6,9 +6,9 @@ that needs to be done
 in order to host NCPC at JTH.
 The plan to host it is currently _a maybe/provisional_.
 
-The contest runs on 4 October 2024 10:00 -- 16:00.
+The contest runs on 4 October 2024 11:00 -- 16:00.
 We plan an __event__ starting one hour before and ending one hour after:
-__Saturday 4 October 2024 09:00 -- 17:00__.
+__Saturday 4 October 2024 10:00 -- 17:00__.
 
 ### Tasks for preparation (⭕ 🟡 ✅)
 
@@ -19,7 +19,7 @@ __Saturday 4 October 2024 09:00 -- 17:00__.
 	- Done! (Rudy: case 750045, handled by Daniel)
 	- 3&4 October 2024, Friday 17:00 to Saturday 17:00,
 	  we can prepare the rooms for Saturday in the early evening.
-	- Main event Saturday 4 October 2024 10:00 -- 16:00.
+	- Main event Saturday 4 October 2024 11:00 -- 16:00.
 	- Rooms from the front JTH corridor:
 	  E1017 (Eldon);
 	  E1022 (Finnveden);
