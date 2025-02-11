@@ -30,8 +30,8 @@ Registration steps:
 
 | Time               | Event                        | Location                             |
 | ------------------ | ---------------------------- | ------------------------------------ |
-| 09:45 -- 10:00     | Recommended arrival          | [JTH (yellow building)](#jth)        |
-| 10:00 -- 10:45     | Introduction Presentation    | Stora Enso E1029 Auditorium          |
+| 10:00 -- 10:15     | Recommended arrival          | [JTH (yellow building)](#jth)        |
+| 10:15 -- 10:45     | Introduction Presentation    | Stora Enso E1029 Auditorium          |
 | __11:00 -- 16:00__ | __Main Contest (NCPC 2025)__ | __Husqvarna E1028, Finnveden E1022__ |
 | Around 12:00       | Light lunch is served        | Galleriet E1120                      |
 | 16:00 -- 16:30     | Quick Award Ceremony         | Stora Enso E1029 Auditorium          |
