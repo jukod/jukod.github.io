@@ -25,8 +25,8 @@ Important information:
 1. You must __[register](#registration) to participate__.
 2. Note __[the schedule](#schedule-4-october-2025-provisional)__ and date:
    __Saturday 4 October 2025__.
-3. Only a table, chairs and electric sockets are provided:
-   please __bring your own laptops and chargers__
+3. __bring your own laptops and chargers__,
+   only a table, chairs and electric sockets are provided.
 
 
 ## Schedule, 4 October 2025 __(provisional)__
