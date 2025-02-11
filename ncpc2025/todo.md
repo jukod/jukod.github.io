@@ -15,8 +15,8 @@ __Saturday 4 October 2024 09:00 -- 17:00__.
 * ✅ __Register as an official site__ at the latest __early Autumn__.
 	- Done!  Måns Magnusson replied with a confirmation.
 
-* 🟡 __Schedule rooms__
-	- In progress (Rudy): created case 750045 for scheduling (Daniel)
+* ✅ __Schedule rooms__
+	- Done! (Rudy: case 750045, handled by Daniel)
 	- 3&4 October 2024, Friday 17:00 to Saturday 17:00,
 	  we can prepare the rooms for Saturday in the early evening.
 	- Main event Saturday 4 October 2024 10:00 -- 16:00.
@@ -28,7 +28,11 @@ __Saturday 4 October 2024 09:00 -- 17:00__.
 	- 8 + 8 teams would fit in Finnveden and Husqvarna
 	- The runners would have Eldon with the material
 	- Stora Enso is for the opening and award ceremonies
-	- We need E1120 (Galleriet) for serving the light lunch
+	- We need E1120 (Galleriet) for serving the light lunch, see below
+
+* 🟡 __Schedule Galleriet__ (for Lunch)
+	- Ask for permissions to LisaBet to be able to book Galleriet on Outlook
+	- Book Galleriet on Outlook
 
 * ⭕ __Order light lunch from Dalucci__ early Autumn, estimate:
 	- for 30 people (maybe more, maybe less, refine after registration)
