@@ -31,7 +31,8 @@ __Saturday 4 October 2024 09:00 -- 17:00__.
 	- We need E1120 (Galleriet) for serving the light lunch, see below
 
 * 🟡 __Schedule Galleriet__ (for Lunch)
-	- Ask for permissions to LisaBet to be able to book Galleriet on Outlook
+	- In progress (Rudy, February)
+	- ~~Ask for permissions to LisaBeth to be able to book Galleriet on Outlook~~.  e-mail sent.
 	- Book Galleriet on Outlook
 
 * ⭕ __Order light lunch from Dalucci__ early Autumn, estimate:
