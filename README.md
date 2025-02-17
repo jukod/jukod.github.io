@@ -26,7 +26,8 @@ Also join [our Discord server][].  :-)
 
 | Link                                      | Date             | Winner         |
 | ----------------------------------------- | ---------------- | -------------- |
-|   [JUKod Weekly Practice Contest #3][]    | 10-17 Feb        | ???            |
+|   [JUKod Weekly Practice Contest #4][]    | 17-24 Feb        | ???            |
+| ~~[JUKod Weekly Practice Contest #3][]~~  | 10-17 Feb        | [AdeptiC_tv][]? |
 | ~~[JUKod Weekly Practice Contest #2][]~~  | 3-10 Feb         | [AdeptiC_tv][] |
 | ~~[JUKod Weekly Practice Contest #1][]~~  | 27 Jan - 3 Feb   | [AdeptiC_tv][] |
 
