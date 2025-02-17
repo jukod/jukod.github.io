@@ -17,7 +17,7 @@ Organizers should arrive __at 08:00__ to prepare.
 	- Done!  Måns Magnusson replied with a confirmation.
 
 * ✅ __Schedule rooms__
-	- Done! (Rudy: case 750045, handled by Daniel)
+	- Done! (Rudy: case 750045, kindly handled by Daniel)
 	- 3&4 October 2024, Friday 17:00 to Saturday 17:00,
 	  we can prepare the rooms for Saturday in the early evening.
 	- Main event Saturday 4 October 2024 11:00 -- 16:00.
@@ -29,12 +29,10 @@ Organizers should arrive __at 08:00__ to prepare.
 	- 8 + 8 teams would fit in Finnveden and Husqvarna
 	- The runners would have Eldon with the material
 	- Stora Enso is for the opening and award ceremonies
-	- We need E1120 (Galleriet) for serving the light lunch, see below
+	- E1120 (Galleriet) for serving the light lunch (kindly scheduled by LisaBeth)
 
-* 🟡 __Schedule Galleriet__ (for Lunch)
-	- In progress (Rudy, February)
-	- ~~Ask for permissions to LisaBeth to be able to book Galleriet on Outlook~~.  e-mail sent.
-	- Book Galleriet on Outlook
+* 🟡 __Contact JU's security officer__ Johanna, in case she has any considerations.
+	- In progress (Rudy, February 2025), email sent.
 
 * ⭕ __Order light lunch from Dalucci__ early Autumn, estimate:
 	- for 30 people (maybe more, maybe less, refine after registration)
