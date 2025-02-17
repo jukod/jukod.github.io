@@ -152,11 +152,12 @@ This study group is supported by the [Department of Computing].
 ### Responsibilities
 
 * Group Leadership (steering committee)
-* (This) Website (Calle, Rudy)
+* [(This) Website](/) (Calle, Rudy)
 * [Room Scheduling][] (Rudy)
 * [Mailing list][] (Rudy)
 * [Discord server][] (Yoseph, Adrian)
 * Weekly practice contests (Adrian, Calle)
+* Coaches: Rudy Matela and Masoumeh Taromirad (others welcome)
 
 
 [NCPC]: https://nordic.icpc.io/
