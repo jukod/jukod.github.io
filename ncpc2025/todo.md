@@ -9,6 +9,7 @@ The plan to host it is currently _a maybe/provisional_.
 The contest runs on 4 October 2024 11:00 -- 16:00.
 We plan an __event__ starting one hour before and ending one hour after:
 __Saturday 4 October 2024 10:00 -- 17:00__.
+Organizers should arrive __at 08:00__ to prepare.
 
 ### Tasks for preparation (⭕ 🟡 ✅)
 
@@ -46,16 +47,17 @@ __Saturday 4 October 2024 10:00 -- 17:00__.
      A [provisional schedule](.) is prepared.
 	 A couple months before the event it needs to be reviewed.
 
-* ⭕ __Prepare opening ceremory presentation__.
+* ⭕ __Prepare quick opening/award ceremonies presentations__
+	- opening: __rules__, rooms, lunch;
+	- closing/award: best from JTH, best from site, ¿simple prize?
 
-* ⭕ __Prepare award ceremony presentation__?
-      (best from JTH, best from site, simple prize?)
+* ❓ __¿Prepare 3xRPIs for displaying the scoreboard?__
 
-* ⭕ __Prepare 3xRPIs for displaying the scoreboard?__
+* ❓ __¿Invite nearby Högskola?__ (Borås, Skövde)
 
 * ⭕ __Remind and invite runners__ a month before the event.
      Ulf, Vladimir and Cecilia showed interest.
-	 Maybe invite all on the distcomp list.
+	 Maybe invite all on the distcomp list?
 
 * ⭕ __Buy balloons and helium__ a week before the event.
 
