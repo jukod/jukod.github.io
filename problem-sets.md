@@ -229,8 +229,6 @@ A regional.
 
 ![DAG of ICPC stages](icpc.svg)
 
-!["Full" ICPC DAG](full-icpc.svg)
-
 
 [problem sets]: https://open.kattis.com/problem-sources/
 
