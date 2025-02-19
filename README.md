@@ -120,9 +120,9 @@ Yoseph Naoom and Adrian Fyrpil are the moderators responsible for the Discord se
 ### Further information
 
 * [Slide presentation of NCPC and JU Kod](slides)
+* [Problem sets from related (past) contests](problem-sets.md)
 * [Further info on the NCPC](ncpc.md)
 * [Practicing for the NWERC](nwerc.md)
-* [Problem sets from related (past) contests](problem-sets.md)
 * [Other competitive programming study groups / societies in Sweden](other-groups.md)
 * [Other interesting study material](material.md)
 * [Computational Geometry tutorial notes](compgeo.md)
