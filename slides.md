@@ -3,7 +3,7 @@ Competitive Programming @ JTH/JU
 
 <img src="https://github.com/user-attachments/assets/b719083b-b6af-4074-85ce-fdf3c9a49633" width=66% />
 
-2024 Rudy Matela ([rudy.matela@ju.se]), JTH
+2024-2025 Rudy Matela ([rudy.matela@ju.se]), JTH
 
 [rudy.matela@ju.se]: mailto:rudy.matela@ju.se
 
@@ -171,12 +171,12 @@ $n$, the number of samples, may go up to 200000!
 
 ------
 
-* Solutions not only have to produce the correct output,
-* but also be in the optimal/expected time complexity.
+* Solutions not only have to produce the correct output ✅,
 
-------
+* but also be in the optimal/expected time complexity ✅✅.
 
-* It's often easy to get the correct output through brute-force simulation ❌,
+* It's often easy to get the correct output through brute-force simulation (no points ❌),
+
 * but not so easy to do it in an optimal time complexity ✅.
 
 ------
@@ -247,6 +247,10 @@ There's an intricate web of competitions worldwide...
 Being in Sweden,
 you nevertheless start at the __[NCPC]__.
 
+<img src="https://jukod.github.io/ncpc-icpc.svg" width=100% />
+
+Here! &nbsp; ⬆️ 
+
 ------
 
 ### NCPC 2025
@@ -261,14 +265,15 @@ When?
 
 Where?
 
-* __¿JTH?__
+* __JTH__ (provisionally)
 
 &nbsp;
 
-In the past...
+&nbsp;
 
-* Linköping University (2023 & 2024), we drove there
-* For 2025, __maybe/perhaps/perchance__ we will host at __¿JTH?__.
+* In 2023 and 2024, we drove to Linköping and competed there;
+
+* For 2025, we have a plan to host it at JTH.
 
 ::::
 
