@@ -194,6 +194,7 @@ This study group is supported by the [Department of Computing].
 [JUKod Weekly Practice Contest #1]: https://open.kattis.com/contests/yve5oa/standings
 [JUKod Weekly Practice Contest #2]: https://open.kattis.com/contests/nagjqg/standings
 [JUKod Weekly Practice Contest #3]: https://open.kattis.com/contests/stuqx2
+[JUKod Weekly Practice Contest #4]: https://open.kattis.com/contests/mpi5y3/standings
 [AdeptiC_tv]: https://open.kattis.com/users/adeptic-tv
 
 [fun]: https://live.staticflickr.com/1526/26113291873_9208648a69_b.jpg
