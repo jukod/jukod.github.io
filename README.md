@@ -119,6 +119,7 @@ Yoseph Naoom and Adrian Fyrpil are the moderators responsible for the Discord se
 
 ### Further information
 
+* [Slide presentation of NCPC and JU Kod](slides)
 * [Further info on the NCPC](ncpc.md)
 * [Practicing for the NWERC](nwerc.md)
 * [Problem sets from related (past) contests](problem-sets.md)

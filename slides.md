@@ -545,6 +545,8 @@ find a coach within your programme/department.
 
 :::
 
+## [jukod.github.io/slides]
+
 ------
 
 ::: columns
@@ -559,6 +561,8 @@ find a coach within your programme/department.
 
 <img src="qr.svg" width=66% />
 
+[jukod.github.io/slides]: https://jukod.github.io/slides
+
 ::::
 
 :::: {.column width=50%}
@@ -568,6 +572,8 @@ find a coach within your programme/department.
 ::::
 
 :::
+
+## [jukod.github.io/slides]
 
 ------
 
