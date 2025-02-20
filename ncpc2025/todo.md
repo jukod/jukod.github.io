@@ -13,6 +13,8 @@ Organizers should arrive __at 08:00__ to prepare.
 
 ### Tasks for preparation (⭕ 🟡 ✅)
 
+#### Spring
+
 * ✅ __Register as an official site__ at the latest __early Autumn__.
 	- Done!  Måns Magnusson replied with a confirmation.
 
@@ -34,6 +36,8 @@ Organizers should arrive __at 08:00__ to prepare.
 * 🟡 __Contact JU's security officer__ Johanna, in case she has any considerations.
 	- In progress (Rudy, February 2025), email sent.
 
+#### Autumn
+
 * ⭕ __Order light lunch from Dalucci__ early Autumn, estimate:
 	- for 30 people (maybe more, maybe less, refine after registration)
 	- 4 runners
@@ -45,6 +49,10 @@ Organizers should arrive __at 08:00__ to prepare.
      A [provisional schedule](.) is prepared.
 	 A couple months before the event it needs to be reviewed.
 
+* ⭕ __Sketch room maps__ (in/out)
+
+* ⭕ __Compile parking information__?
+
 * ⭕ __Prepare quick opening/award ceremonies presentations__
 	- opening: __rules__, rooms, lunch;
 	- closing/award: best from JTH, best from site, ¿simple prize?
@@ -53,9 +61,16 @@ Organizers should arrive __at 08:00__ to prepare.
 
 * ❓ __¿Invite nearby Högskola?__ (Borås, Skövde)
 
+* ❓ __¿Add on TimeEdit for Y1/2/3?__ with a registration event 1 or 2 weeks before
+
+
+#### Month before the event
+
 * ⭕ __Remind and invite runners__ a month before the event.
      Ulf, Vladimir and Cecilia showed interest.
 	 Maybe invite all on the distcomp list?
+
+* ⭕ __Get 6 power strips__ (3m) from IT/Premises with adhesive tape too
 
 * ⭕ __Buy balloons and helium__ a week before the event.
 
@@ -77,3 +92,12 @@ Organizers should arrive __at 08:00__ to prepare.
 * ⭕ (morning of event) double-check setup from the evening before
 
 * ⭕ (morning of event) do the opening ceremony presentation
+
+
+#### After the event
+
+* put tables in order
+
+* remove power strips
+
+* remove baloons
