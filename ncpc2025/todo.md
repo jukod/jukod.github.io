@@ -79,6 +79,10 @@ Organizers should arrive __at 08:00__ to prepare.
 
 * ⭕ (week before) buy __baloons__ and __helium__.
 
+* ⭕ (evening before) print 3 problem sheets per team,
+                      store them in a sealed envelope
+					  (⚠️ for the _site diretor_ alone ⚠️)
+
 * ⭕ (evening before) __organize tables__ for teams.
      Ask for help from JUKod members.
 
