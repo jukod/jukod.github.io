@@ -54,8 +54,10 @@ it starts Monday 27 January.
 
 ### Week 9 (Calle) 
 
+* [reduplikation](https://open.kattis.com/problems/reduplikation)
+* [alldifferentdirections](https://open.kattis.com/problems/alldifferentdirections)
 * [guess](https://open.kattis.com/problems/guess)
-* ...
+* [equalizingdebt](https://open.kattis.com/problems/equalizingdebt)
 
 
 ### Week 10 (Rudy)
@@ -84,7 +86,10 @@ it starts Monday 27 January.
 
 ### Week 13 (Calle)
 
-TODO
+* [roaming romans](https://open.kattis.com/problems/romans)
+* [mastermind](https://open.kattis.com/problems/mastermind)
+* [cracking the safe](https://open.kattis.com/problems/safe)
+* [rational ratio](https://open.kattis.com/problems/rationalratio)
 
 
 ### Week 14 (Rudy)
