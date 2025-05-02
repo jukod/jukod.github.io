@@ -24,18 +24,24 @@ Also join [our Discord server][].  :-)
 
 ## Weekly practice contests
 
-| Link                                      | Date             | Winner         |
-| ----------------------------------------- | ---------------- | -------------- |
-|   [JUKod Weekly Practice Contest #4][]    | 17-24 Feb        | ???            |
-| ~~[JUKod Weekly Practice Contest #3][]~~  | 10-17 Feb        | [AdeptiC_tv][]? |
-| ~~[JUKod Weekly Practice Contest #2][]~~  | 3-10 Feb         | [AdeptiC_tv][] |
-| ~~[JUKod Weekly Practice Contest #1][]~~  | 27 Jan - 3 Feb   | [AdeptiC_tv][] |
+| Link                                      | Date                | Winner            |
+| ----------------------------------------- | ------------------- | ----------------- |
+| ~~[JUKod Weekly Practice Contest #9][]~~  | ~~7-14 Apr~~        | ---               |
+| ~~[JUKod Weekly Practice Contest #8][]~~  | ~~24-31 Mar~~       | [Calle Ovinder][] |
+| ~~[JUKod Weekly Practice Contest #7][]~~  | ~~18-25 Mar~~       | [Yuze Xu][]       |
+| ~~[JUKod Weekly Practice Contest #6][]~~  | ~~3-10 Mar~~        | ---               |
+| ~~[JUKod Weekly Practice Contest #5][]~~  | ~~24 Feb - 03 Mar~~ | [Calle Ovinder][] |
+| ~~[JUKod Weekly Practice Contest #4][]~~  | ~~17-24 Feb~~       | [AdeptiC_tv][]    |
+| ~~[JUKod Weekly Practice Contest #3][]~~  | ~~10-17 Feb~~       | [AdeptiC_tv][]    |
+| ~~[JUKod Weekly Practice Contest #2][]~~  | ~~3-10 Feb~~        | [AdeptiC_tv][]    |
+| ~~[JUKod Weekly Practice Contest #1][]~~  | ~~27 Jan - 3 Feb~~  | [AdeptiC_tv][]    |
 
 We run weekly practice contests.
 If you are a JU student and would like to participate,
 create an account on [Kattis][] and
 [contact us][] informing your Kattis username
-and email address used with your account.
+and email address used with your account
+and we will add you to the weekly roster.
 Or use [our Discord server][].
 
 
@@ -194,9 +200,16 @@ This study group is supported by the [Department of Computing].
 [Open Kattis]: https://open.kattis.com/
 [JUKod Weekly Practice Contest #1]: https://open.kattis.com/contests/yve5oa/standings
 [JUKod Weekly Practice Contest #2]: https://open.kattis.com/contests/nagjqg/standings
-[JUKod Weekly Practice Contest #3]: https://open.kattis.com/contests/stuqx2
+[JUKod Weekly Practice Contest #3]: https://open.kattis.com/contests/stuqx2/standings
 [JUKod Weekly Practice Contest #4]: https://open.kattis.com/contests/mpi5y3/standings
-[AdeptiC_tv]: https://open.kattis.com/users/adeptic-tv
+[JUKod Weekly Practice Contest #5]: https://open.kattis.com/contests/jutnxv/standings
+[JUKod Weekly Practice Contest #6]: https://open.kattis.com/contests/r6o742/standings
+[JUKod Weekly Practice Contest #7]: https://open.kattis.com/contests/v7hiff/standings
+[JUKod Weekly Practice Contest #8]: https://open.kattis.com/contests/nckrj9/standings
+[JUKod Weekly Practice Contest #9]: https://open.kattis.com/contests/jx5uw7/standings
+[AdeptiC_tv]:    https://open.kattis.com/users/adeptic-tv
+[Calle Ovinder]: https://open.kattis.com/users/calle256
+[Yuze Xu]:       https://open.kattis.com/users/k2wz5k4i
 
 [fun]: https://live.staticflickr.com/1526/26113291873_9208648a69_b.jpg
 
