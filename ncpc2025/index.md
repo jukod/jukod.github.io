@@ -41,7 +41,7 @@ You must register to participate in the
 Registration steps:
 
 1. find a __coach__ (usually a lecturer from your programme);
-	- JTH's CSE students: [Rudy Matela] will gladly be your coach.
+	- JTH's CSE students: [Rudy Matela] will gladly be your coach, just email him.
 2. coaches must follow the [registration instructions for NCPC 2025][];
 3. select Jönköping University as your site.
 
