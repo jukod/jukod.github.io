@@ -41,7 +41,7 @@ You must register to participate in the
 Registration steps:
 
 1. find a __coach__ (usually a lecturer from your programme);
-	- JTH's CSE students: Rudy Matela will gladly be your coach.
+	- JTH's CSE students: [Rudy Matela] will gladly be your coach.
 2. coaches must follow the [registration instructions for NCPC 2025][];
 3. select Jönköping University as your site.
 
@@ -94,3 +94,4 @@ teams are expected to bring their own laptops.
 [Nordic Collegiate Programming Contest]: https://nordic.icpc.io/
 [registration instructions for NCPC 2025]: https://nordic.icpc.io/ncpc2025/compete
 [Jönköping University]: https://ju.se/
+[Rudy Matela]: mailto:rudy.matela@ju.se
