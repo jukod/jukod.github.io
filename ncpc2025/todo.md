@@ -35,6 +35,7 @@ Organizers should arrive __at 08:00__ to prepare.
 
 * 🟡 __Contact JU's security officer__ Johanna, in case she has any considerations.
 	- In progress (Rudy, February 2025), email sent.
+	- (Rudy, May 2025) Follow-up email sent.
 
 #### Autumn
 
@@ -44,6 +45,7 @@ Organizers should arrive __at 08:00__ to prepare.
 	- 8 teams, 24 contestants
 	- Serve lunch at 12:00
 	- Coffee and biscuits thorughout
+	- (Rudy, May 2025) Dallucci was contacted for a quote and food options.
 
 * 🟡 __Prepare event schedule__.
      A [provisional schedule](.) is prepared.
