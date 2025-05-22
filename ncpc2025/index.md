@@ -77,6 +77,21 @@ Tekniska Högskolan i Jönköping, one of the four schools of Jönköping Univer
 <img src="https://ju.se/images/18.31a8e726182f26b62aa2136f/1662625427577/x640p/JTH-180507-1067.jpg" width=100% />
 <img src="https://ju.se/images/18.5c87d9ee150753c0c124df77/1520578359600/overview.jpg" width=100% />
 
+### Maps
+
+Here is a map of the rooms used in the event:
+
+<img src="jth-map.svg" width=100% />
+
+Here is how we will distribute 8 teams per room:
+
+<img src="room-map.svg" width=100% />
+
+We will set up tables like this ideally the day before.
+
+Again, computers will not be provided:
+teams are expected to bring their own laptops.
+
 
 __⚠️ ⚠️ ⚠️ ALL THAT IS HERE IS PROVISIONAL AND A MAYBE ⚠️ ⚠️ ⚠️__
 

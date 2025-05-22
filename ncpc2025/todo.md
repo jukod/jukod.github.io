@@ -51,7 +51,7 @@ Organizers should arrive __at 08:00__ to prepare.
      A [provisional schedule](.) is prepared.
 	 A couple months before the event it needs to be reviewed.
 
-* ⭕ __Sketch room maps__ (in/out)
+* ✅ __Sketch room maps__ (in/out): see [here](/ncpc2025#maps)
 
 * ⭕ __Compile parking information__?
 
