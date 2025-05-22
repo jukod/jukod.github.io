@@ -1,9 +1,6 @@
 NCPC 2025 @ Jönköping University
 ================================
 
-__Currently a maybe...__
-This is a draft of the info on the competition.
-
 This page has
 __information for those attending NCPC 2025 at the [Jönköping University][] site__.
 For those attending in other sites,
@@ -49,7 +46,8 @@ Registration steps:
 3. select Jönköping University as your site.
 
 Registration opens around September.
-We recommend registering by 30 September to guarantee a spot.
+We recommend registering by 30 September
+or as early as possible to guarantee a spot.
 
 
 ### Arrival
