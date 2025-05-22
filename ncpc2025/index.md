@@ -1,10 +1,6 @@
 NCPC 2025 @ Jönköping University
 ================================
 
-__⚠️ ⚠️ ⚠️ DRAFT DRAFT DRAFT ⚠️ ⚠️ ⚠️__
-
-__⚠️ ⚠️ ⚠️ ALL THAT IS HERE IS PROVISIONAL AND A MAYBE ⚠️ ⚠️ ⚠️__
-
 __Currently a maybe...__
 This is a draft of the info on the competition.
 
@@ -92,10 +88,6 @@ We will set up tables like this ideally the day before.
 Again, computers will not be provided:
 teams are expected to bring their own laptops.
 
-
-__⚠️ ⚠️ ⚠️ ALL THAT IS HERE IS PROVISIONAL AND A MAYBE ⚠️ ⚠️ ⚠️__
-
-__⚠️ ⚠️ ⚠️ DRAFT DRAFT DRAFT ⚠️ ⚠️ ⚠️__
 
 [NCPC]: https://nordic.icpc.io/
 [NCPC 2025]: https://nordic.icpc.io/
