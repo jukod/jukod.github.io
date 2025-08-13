@@ -42,12 +42,20 @@ Registration steps:
 
 1. find a __coach__ (usually a lecturer from your programme);
 	- JTH's CSE students: [Rudy Matela] will gladly be your coach, just email him.
-2. coaches must follow the [registration instructions for NCPC 2025][];
-3. select Jönköping University as your site.
+2. send your coach the required information:
+	- name;
+	- surname;
+	- university email address (e.g.: @student.ju.se).
+3. coaches must follow the [registration instructions for NCPC 2025][]:
+	- select Jönköping University as your side.
+4. after the coach registers the team,
+   team members get an email to complete their registration.
 
 Registration opens around September.
 We recommend registering by 30 September
 or as early as possible to guarantee a spot.
+
+(Registration is not open yet, but will open soon...)
 
 
 ### Arrival
