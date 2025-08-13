@@ -40,7 +40,7 @@ Organizers should arrive __at 08:00__ to prepare.
 
 #### Autumn
 
-* ⭕ __Order light lunch from Dalucci__ early Autumn, estimate:
+* 🟡 __Order light lunch from Dalucci__ early Autumn, estimate:
 	- for 30 people (maybe more, maybe less, refine after registration)
 	- 4 runners
 	- 8 teams, 24 contestants
