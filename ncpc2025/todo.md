@@ -64,7 +64,7 @@ Organizers should arrive __at 08:00__ to prepare.
 
 * ❓ __¿Prepare 3xRPIs for displaying the scoreboard?__
 
-* ⭕ __Compile parking information__?
+* ⭕ __¿Compile parking information__?
 
 
 #### Month before the event
