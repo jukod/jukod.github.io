@@ -33,9 +33,10 @@ Organizers should arrive __at 08:00__ to prepare.
 	- Stora Enso is for the opening and award ceremonies
 	- E1120 (Galleriet) for serving the light lunch (kindly scheduled by LisaBeth)
 
-* 🟡 __Contact JU's security officer__ Johanna, in case she has any considerations.
+* ✅ __Contact JU's security officer__ Johanna, in case she has any considerations.
 	- In progress (Rudy, February 2025), email sent.
 	- (Rudy, May 2025) Follow-up email sent.
+	- (August 2025) No reply, no considerations?
 
 #### Autumn
 
@@ -46,24 +47,26 @@ Organizers should arrive __at 08:00__ to prepare.
 	- Serve lunch at 12:00
 	- Coffee and biscuits thorughout
 	- (Rudy, May 2025) Dallucci was contacted for a quote and food options.
+	- (Rudy, August 2025) Dallucci was contacted asking for lunch for 24 people.
 
-* 🟡 __Prepare event schedule__.
-     A [provisional schedule](.) is prepared.
-	 A couple months before the event it needs to be reviewed.
+* ✅ __Prepare event schedule__.
+	The [event schedule](/ncpc2025#schedule-4-october-2025) was prepared.
 
 * ✅ __Sketch room maps__ (in/out): see [here](/ncpc2025#maps)
-
-* ⭕ __Compile parking information__?
 
 * ⭕ __Prepare quick opening/award ceremonies presentations__
 	- opening: __rules__, rooms, lunch;
 	- closing/award: best from JTH, best from site, ¿simple prize?
 
-* ❓ __¿Prepare 3xRPIs for displaying the scoreboard?__
+* ❓ __¿Add on TimeEdit for Y1/2/3?__ with a registration event 1 or 2 weeks before
+
+* ❓ __¿Invite coaches from other programmes?__ (Borås, Skövde)
 
 * ❓ __¿Invite nearby Högskola?__ (Borås, Skövde)
 
-* ❓ __¿Add on TimeEdit for Y1/2/3?__ with a registration event 1 or 2 weeks before
+* ❓ __¿Prepare 3xRPIs for displaying the scoreboard?__
+
+* ⭕ __Compile parking information__?
 
 
 #### Month before the event

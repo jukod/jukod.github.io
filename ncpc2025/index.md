@@ -16,14 +16,14 @@ You can find further info in [NCPC's website][].
 Important information:
 
 1. You must __[register](#registration) to participate__.
-2. Note __[the schedule](#schedule-4-october-2025-provisional)__ and date:
+2. Note __[the schedule](#schedule-4-october-2025)__ and date:
    __Saturday 4 October 2025__.
 3. __Bring your own laptops and chargers__,
    only a table, chairs and electric sockets are provided.
 4. Be mindful of the [competition rules].
 
 
-## Schedule, 4 October 2025 __(provisional)__
+## Schedule, 4 October 2025
 
 | Time               | Event                        | Location                             |
 | ------------------ | ---------------------------- | ------------------------------------ |
