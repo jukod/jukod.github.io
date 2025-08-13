@@ -54,7 +54,7 @@ Organizers should arrive __at 08:00__ to prepare.
 
 * ✅ __Sketch room maps__ (in/out): see [here](/ncpc2025#maps)
 
-* ✅ __Prepare quick opening/award ceremonies presentations__
+* ✅ __Prepare quick [opening/closing presentations](/ncpc2025/opening)__
 
 * ❓ __¿Add on TimeEdit for Y1/2/3?__ with a registration event 1 or 2 weeks before
 
