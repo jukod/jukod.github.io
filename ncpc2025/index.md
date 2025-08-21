@@ -41,15 +41,16 @@ You must register to participate in the
 ([NCPC 2025][]).
 Registration steps:
 
-1. find a __coach__ (usually a lecturer from your programme);
+1. find a coach (usually a lecturer from your programme).
 	- JTH's CSE students: [Rudy Matela] will gladly be your coach, just email him.
-2. send your coach the required information:
-	- name;
-	- surname;
-	- university email address (e.g.: @student.ju.se).
-3. coaches must follow the [registration instructions for NCPC 2025][]:
-	- select Jönköping University as your side.
-4. after the coach registers the team,
+2. form a team of up to 3 team members, having 3 is recommended.
+3. __send your coach__ the required information for all (3) team members:
+	- __full name__;
+	- __university email address (e.g.: `@student.ju.se`)__;
+	- __a team name__ -- look at [past year for inspiration][ncpc-2024-rank].
+4. coaches must follow the [registration instructions for NCPC 2025][]:
+	- select Jönköping University as the site.
+5. after the coach registers the team,
    team members get an email to complete their registration.
 
 Registration opens around September.
@@ -105,3 +106,4 @@ teams are expected to bring their own laptops.
 [Jönköping University]: https://ju.se/
 [Rudy Matela]: mailto:rudy.matela@ju.se
 [competition rules]: https://nordic.icpc.io/ncpc2025/compete#rules
+[ncpc-2024-rank]: https://ncpc24.kattis.com/contests/ncpc24/standings/6290
