@@ -14,7 +14,7 @@ We organize teams for participation in the yearly
 and related computer programming contests and competitions.
 
 All students from the
-[Computer Science Engineering] programme
+[Computer Science Engineering] programme and JTH
 are welcome to participate in the group.
 Please [contact us][] to join in the studies or enter a team in the NCPC
 ([g-join-jukod@groups.ju.se])
@@ -22,17 +22,11 @@ or come to one of our upcoming meetups.
 Also join [our Discord server][].  :-)
 
 
-## Meetups
+## Upcoming events
 
-| Meetup Date                  | Time         | Location          | Note                   |
-| ---------------------------- | ------------ | ----------------- | ---------------------- |
-| ...                          | ...          | ...               | ...                    |
-| Saturday, 4 October 2025     | 10:00        | ¿JTH? (TBC)       | NCPC 2025              |
-
-There are no upcoming meetups for the time being.
-If you would like to be notified when we scheduled the next ones,
-[contact us][] and we'll add you to our mailing list.
-You can also join [our Discord server][].
+| Event     | Date                                  | Time               | Location         |
+| --------- | ------------------------------------- | ------------------ | ---------------- |
+| __NCPC__  | [Saturday, 4 October 2025](/ncpc2025) | [10:00](/ncpc2025) | [JTH](/ncpc2025) |
 
 
 ## Preparing for the NCPC
@@ -47,8 +41,7 @@ the team with [most solved problems] wins.
 It's quite [fun][]!  :-)
 
 Date and nearest location:
-Saturday 4 __October__ 2025
-@ ¿JTH? (TBC).
+[Saturday 4 __October__ 2025 @ JTH](/ncpc2025).
 
 
 ### Problems for Practicing
