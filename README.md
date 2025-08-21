@@ -28,6 +28,8 @@ Also join [our Discord server][].  :-)
 | --------- | ------------------------------------- | ------------------ | ---------------- |
 | __NCPC__  | [Saturday, 4 October 2025](/ncpc2025) | [10:00](/ncpc2025) | [JTH](/ncpc2025) |
 
+You must [register](/ncpc2025#registration) to participate in the [NCPC@JTH](/ncpc2025).
+
 
 ## Preparing for the NCPC
 
