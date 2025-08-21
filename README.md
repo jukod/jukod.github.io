@@ -22,29 +22,6 @@ or come to one of our upcoming meetups.
 Also join [our Discord server][].  :-)
 
 
-## Weekly practice contests
-
-| Link                                      | Date                | Winner            |
-| ----------------------------------------- | ------------------- | ----------------- |
-| ~~[JUKod Weekly Practice Contest #9][]~~  | ~~7-14 Apr~~        | ---               |
-| ~~[JUKod Weekly Practice Contest #8][]~~  | ~~24-31 Mar~~       | [Calle Ovinder][] |
-| ~~[JUKod Weekly Practice Contest #7][]~~  | ~~18-25 Mar~~       | [Yuze Xu][]       |
-| ~~[JUKod Weekly Practice Contest #6][]~~  | ~~3-10 Mar~~        | ---               |
-| ~~[JUKod Weekly Practice Contest #5][]~~  | ~~24 Feb - 03 Mar~~ | [Calle Ovinder][] |
-| ~~[JUKod Weekly Practice Contest #4][]~~  | ~~17-24 Feb~~       | [AdeptiC_tv][]    |
-| ~~[JUKod Weekly Practice Contest #3][]~~  | ~~10-17 Feb~~       | [AdeptiC_tv][]    |
-| ~~[JUKod Weekly Practice Contest #2][]~~  | ~~3-10 Feb~~        | [AdeptiC_tv][]    |
-| ~~[JUKod Weekly Practice Contest #1][]~~  | ~~27 Jan - 3 Feb~~  | [AdeptiC_tv][]    |
-
-We run weekly practice contests.
-If you are a JU student and would like to participate,
-create an account on [Kattis][] and
-[contact us][] informing your Kattis username
-and email address used with your account
-and we will add you to the weekly roster.
-Or use [our Discord server][].
-
-
 ## Meetups
 
 | Meetup Date                  | Time         | Location          | Note                   |
