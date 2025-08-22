@@ -255,35 +255,16 @@ Here! &nbsp; ⬆️
 
 ### NCPC 2025
 
-::: columns
+### Schedule, Saturday, 4 October 2025
 
-:::: {.column width=50%}
+| Time               | Event                        | Location                             |
+| ------------------ | ---------------------------- | ------------------------------------ |
+| 10:00 -- 10:15     | Recommended arrival          | [JTH (yellow building)](#jth)        |
+| 10:15 -- 10:45     | Introduction Presentation    | Stora Enso E1029 Auditorium          |
+| __11:00 -- 16:00__ | __Main Contest (NCPC 2025)__ | __Husqvarna E1028, Finnveden E1022__ |
+| Around 12:00       | Light lunch is served        | Galleriet E1120                      |
+| 16:00 -- 16:30     | Quick Award Ceremony         | Stora Enso E1029 Auditorium          |
 
-When?
-
-* Saturday 4 __October 2025__ 10:00 -- 16:00.
-
-Where?
-
-* __JTH__ (provisionally)
-
-&nbsp;
-
-&nbsp;
-
-* In 2023 and 2024, we drove to Linköping and competed there;
-
-* For 2025, we have a plan to host it at JTH.
-
-::::
-
-:::: {.column width=50%}
-
-<img src="https://ju.se/images/18.1ad0f9d6177c3b563dd27f22/1614754729027/JTH-180507-1040.jpg" width=100% />
-
-::::
-
-:::
 
 ------
 
@@ -300,7 +281,7 @@ __Why participate?__
 * Meet people / networking.
 * Potential travel (if you qualify)
 * Nice for your CV.
-* "Meet" companies (sponsors).
+* Meet companies (event sponsors).
 
 ::::
 
