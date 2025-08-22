@@ -53,11 +53,11 @@ Registration steps:
 5. after the coach registers the team,
    team members get an email to complete their registration.
 
-Registration opens around September.
-We recommend registering by 30 September
+[Registration is now open](https://nordic.icpc.io/ncpc2025/compete).
+Coaches can
+[register at the ICPC Global website](https://icpc.global/regionals/finder/Nordic-2026).
+We recommend registering by 19 September
 or as early as possible to guarantee a spot.
-
-(Registration is not open yet, but will open soon...)
 
 
 ### Arrival
