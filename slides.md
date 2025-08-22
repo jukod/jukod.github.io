@@ -321,7 +321,7 @@ __Would you like to participate?__
 For CSE/AIE students:
 Rudy Matela ([rudy.matela@ju.se](mailto:rudy.matela@ju.se))
 can be your coach if you like.
-(with Masoumeh Taromirad as the co-coach)
+(with Lucy Ellen Lwakatare and Masoumeh Taromirad as co-coaches)
 
 For students of other programmes:
 find a coach within your programme/department.
@@ -480,7 +480,7 @@ __Would you like to participate?__
 For CSE/AIE students:
 Rudy Matela ([rudy.matela@ju.se](mailto:rudy.matela@ju.se))
 can be your coach if you like.
-(with Masoumeh Taromirad as the co-coach)
+(with Lucy Ellen Lwakatare and Masoumeh Taromirad as co-coaches)
 
 For students of other programmes:
 find a coach within your programme/department.
