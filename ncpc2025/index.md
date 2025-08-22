@@ -16,14 +16,15 @@ You can find further info in [NCPC's website][].
 Important information:
 
 1. You must __[register](#registration) to participate__.
-2. Note __[the schedule](#schedule-4-october-2025)__ and date:
-   __Saturday 4 October 2025__.
+2. Note __[the schedule](#schedule-saturday-4-october-2025)__ and date:
+   __Saturday, 4 October 2025__.
 3. __Bring your own laptops and chargers__,
    only a table, chairs and electric sockets are provided.
 4. Be mindful of the [competition rules].
+5. for questions, contact the site director [Rudy Matela] <[rudy.matela@ju.se]>.
 
 
-## Schedule, 4 October 2025
+## Schedule, Saturday, 4 October 2025
 
 | Time               | Event                        | Location                             |
 | ------------------ | ---------------------------- | ------------------------------------ |
@@ -42,7 +43,8 @@ You must register to participate in the
 Registration steps:
 
 1. find a coach (usually a lecturer from your programme).
-	- JTH's CSE students: [Rudy Matela] will gladly be your coach, just email him.
+	- JTH's CSE students: [Rudy Matela] will gladly be your coach, just email him:
+	  <[rudy.matela@ju.se]>.
 2. form a team of up to 3 team members, having 3 is recommended.
 3. __send your coach__ the required information for all (3) team members:
 	- __full name__;
@@ -105,5 +107,6 @@ teams are expected to bring their own laptops.
 [registration instructions for NCPC 2025]: https://nordic.icpc.io/ncpc2025/compete
 [Jönköping University]: https://ju.se/
 [Rudy Matela]: mailto:rudy.matela@ju.se
+[rudy.matela@ju.se]: mailto:rudy.matela@ju.se
 [competition rules]: https://nordic.icpc.io/ncpc2025/compete#rules
 [ncpc-2024-rank]: https://ncpc24.kattis.com/contests/ncpc24/standings/6290

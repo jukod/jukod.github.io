@@ -39,7 +39,7 @@ Organizers should arrive __at 09:00__ to prepare.
 	  (see below)
 
 * ✅ __Prepare event schedule__.
-	The [event schedule](/ncpc2025#schedule-4-october-2025) was prepared.
+	The [event schedule](/ncpc2025#schedule-saturday-4-october-2025) was prepared.
 
 * ✅ __Sketch room maps__ (in/out): see [here](/ncpc2025#maps)
 
