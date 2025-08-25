@@ -50,7 +50,8 @@ Organizers should arrive __at 09:00__ to prepare.
 
 * ❓ __¿Invite coaches from other programmes?__
 
-* ❓ __¿Invite nearby Högskola?__ (Borås, Skövde)
+* 🟡 __¿Invite nearby Högskola?__ (Borås, Skövde)
+	- Rudy (August): Cecilia & Ulf were contacted about their contacts
 
 * ❓ __¿Prepare 3xRPIs for displaying the scoreboard?__
 
@@ -59,9 +60,10 @@ Organizers should arrive __at 09:00__ to prepare.
 
 #### Month before the event
 
-* ⭕ __Remind and invite runners__ a month before the event.
+* 🟡 __Remind and invite runners__ a month before the event.
      Ulf, Vladimir and Cecilia showed interest.
 	 Maybe invite all on the distcomp list?
+	 - Rudy (August): all on distcomp list were invited
 
 * ⭕ __Get 6 power strips__ (3m) from IT/Premises with adhesive tape too
 
