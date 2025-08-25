@@ -47,10 +47,10 @@ Organizers should arrive __at 09:00__ to prepare.
 
 * ✅ __[Add on TimeEdit for CSE Y1/2/3/4/5](https://cloud.timeedit.net/ju/web/staff/riq86d9Qn03Z80Qt6m709y4Q64ZZn4649k6m50kQ71o05o0ngY0lX6AZQZ1095gQ6gYu899w6501YnY7tQ061195Z08Q9QE14x003Z6Ef4893fD7Ff11073Q6X69DZB82EZXQ5XB5mD5X84XqZo8oQ.html)__
 
-* ✅ __¿Invite coaches from other programmes?__
+* ✅ __Invite coaches from other programmes__
 	- Rudy (August): a couple lecturers from CSI were contacted
 
-* 🟡 __¿Invite nearby Högskola?__ (Borås, Skövde)
+* 🟡 __Invite nearby Högskola__ (Borås, Skövde)
 	- Rudy (August): Cecilia & Ulf were contacted about their contacts
 
 * ❓ __¿Prepare 3xRPIs for displaying the scoreboard?__
