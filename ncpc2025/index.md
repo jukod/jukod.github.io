@@ -159,3 +159,4 @@ After completing the easiest problems above, you can start solving harder proble
 [ncpc-2024-rank]: https://ncpc24.kattis.com/contests/ncpc24/standings/6290
 [40 other programming languages]: https://open.kattis.com/languages
 [most solved problems]: https://ncpc24.kattis.com/contests/ncpc24/standings?filter=6262
+[≈ 10 programming problems]: https://github.com/icpc/ncpc-web/releases/download/ncpc2022-data/ncpc2022problems.pdf
