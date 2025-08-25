@@ -10,7 +10,8 @@ please see the information on the [official NCPC 2025 website][].
 ## Summary
 
 [NCPC][] is the [Nordic Collegiate Programming Contest][],
-a competition involving algorithms and programming.
+a competition involving algorithms and programming
+aimed at university students.
 You can find further info in [NCPC's website][].
 
 Important information:
