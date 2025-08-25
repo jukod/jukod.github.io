@@ -100,8 +100,54 @@ Again, computers will not be provided:
 teams are expected to bring their own laptops.
 
 
+## The NCPC
+
+The [Nordic Collegiate Programming Contest (NCPC)][] is held every year.
+Teams of 3 university students compete
+solving [≈ 10 programming problems][] in 5 hours
+using either C, Python, Java, C#, C++, Haskell
+or one of [40 other programming languages][].
+At the end,
+the team with [most solved problems][] wins.
+It's quite fun!  :-)
+
+
+### Preparing/practicing for the NCPC
+
+The best problems for practicing leading up to the competition
+are the
+[problems from NCPC 2023](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202023?order=difficulty_data),
+[NCPC 2022](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202022?order=difficulty_data) and
+[NCPC 2021](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202021?order=difficulty_data)
+(last years).
+Here are 8 interesting problems in order of difficulty:
+
+- [F -             FizzBuzz &nbsp; 🐝](https://open.kattis.com/problems/fizzbuzz)
+- [C -     Coffee Cup Combo &nbsp; ☕](https://open.kattis.com/problems/coffeecupcombo)
+- [K -       Knot Knowledge &nbsp; 🪢](https://open.kattis.com/problems/knotknowledge)
+- [L -         Locust Locus &nbsp; 🦗](https://open.kattis.com/problems/locustlocus)
+- [H -         Highest Hill &nbsp; ⛰️](https://open.kattis.com/problems/highesthill)
+- [J -             Jamboree &nbsp; ⛺](https://open.kattis.com/problems/jamboree)
+- [C -    Converting Romans &nbsp; 🏛️](https://open.kattis.com/problems/convertingromans)
+- [G - Graduation Guarantee &nbsp; 🎓](https://open.kattis.com/problems/graduationguarantee)
+
+They are [available for practice at open.kattis.com](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202022?order=difficulty_data).
+You can submit your solutions online there, so you can check if they are really correct.
+
+After completing the easiest problems above, you can start solving harder problems from the past few years:
+[NCPC 2024](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202024?order=difficulty_data);
+[NCPC 2023](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202023?order=difficulty_data);
+[NCPC 2022](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202022?order=difficulty_data);
+[NCPC 2021](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202021?order=difficulty_data);
+[NCPC 2020](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202020?order=difficulty_data);
+[NCPC 2019](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202019?order=difficulty_data);
+[NCPC 2018](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202018?order=difficulty_data);
+[NCPC 2017](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202017?order=difficulty_data).
+
+
 [NCPC]: https://nordic.icpc.io/
 [NCPC 2025]: https://nordic.icpc.io/
+[Nordic Collegiate Programming Contest (NCPC)]: https://nordic.icpc.io/
 [NCPC's website]: https://nordic.icpc.io/
 [official NCPC 2025 website]: https://nordic.icpc.io/
 [Nordic Collegiate Programming Contest]: https://nordic.icpc.io/
@@ -111,3 +157,5 @@ teams are expected to bring their own laptops.
 [rudy.matela@ju.se]: mailto:rudy.matela@ju.se
 [competition rules]: https://nordic.icpc.io/ncpc2025/compete#rules
 [ncpc-2024-rank]: https://ncpc24.kattis.com/contests/ncpc24/standings/6290
+[40 other programming languages]: https://open.kattis.com/languages
+[most solved problems]: https://ncpc24.kattis.com/contests/ncpc24/standings?filter=6262
