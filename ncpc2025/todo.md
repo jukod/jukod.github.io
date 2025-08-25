@@ -54,6 +54,12 @@ Organizers should arrive __at 09:00__ to prepare.
 	- Rudy (August): Cecilia & Ulf were contacted about their contacts
 
 * ❓ __¿Prepare 3xRPIs for displaying the scoreboard?__
+	- We need 3 Raspberry PIs with a simple Linux distro and a web browser:
+	  just to display the scoreboard in the contest rooms during the contest.
+	  This is not mandatory, is a nice to have.
+	- (Raspberries are a suggestion
+	  any devices with a browser and an HDMI port would suffice...)
+	- The rooms already have projectors.
 
 * ❓ __¿Compile parking information__?
 
@@ -67,9 +73,14 @@ Organizers should arrive __at 09:00__ to prepare.
 
 * ⭕ __Get 6 power strips__ (3m) from IT/Premises with adhesive tape too
 
-* ⭕ __Review__ opening/closing __presentations__
+* ⭕ __Review__ [opening/closing __presentations__](https://jukod.github.io/ncpc2025/opening)
 
 * ⭕ __Buy balloons and helium__ a week before the event.
+	- 5 balloons per team should be more than enough;
+	- with 8 teams, that's 40 balloons each.
+	- with 10 teams, that's 50 balloons each.
+	- We need a thin ribbons (1m?) to tie each balloon;
+	- We also need tape or something to attach or tie balloons in the team tables
 
 * ⭕ __Inform Dalucci the exact number of people__ a week before the event.
 
@@ -79,6 +90,11 @@ Organizers should arrive __at 09:00__ to prepare.
 * ⭕ (week before) __inform dalucci the exact number of people__
 
 * ⭕ (week before) buy __baloons__ and __helium__.
+	- 5 balloons per team should be more than enough;
+	- with 8 teams, that's 40 balloons each.
+	- with 10 teams, that's 50 balloons each.
+	- We need a thin ribbons (1m?) to tie each balloon;
+	- We also need tape or something to attach or tie balloons in the team tables
 
 * ⭕ (evening before) print 3 problem sheets per team,
                       store them in a sealed envelope
