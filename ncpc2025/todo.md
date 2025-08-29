@@ -50,18 +50,16 @@ Organizers should arrive __at 09:00__ to prepare.
 * ✅ __Invite coaches from other programmes__
 	- Rudy (August): a couple lecturers from CSI were contacted
 
-* 🟡 __Invite nearby Högskola__ (Borås, Skövde)
-	- Rudy (August): Cecilia & Ulf were contacted about their contacts
+* ✅ __Invite nearby Högskola__ (Borås, Skövde)
+	- (August) Ulf has contacted lecturers in Borås.
 
 * ❓ __¿Prepare 3xRPIs for displaying the scoreboard?__
 	- We need 3 Raspberry PIs with a simple Linux distro and a web browser:
 	  just to display the scoreboard in the contest rooms during the contest.
-	  This is not mandatory, is a nice to have.
+	  This is not mandatory, but is a nice to have.
 	- (Raspberries are a suggestion
 	  any devices with a browser and an HDMI port would suffice...)
 	- The rooms already have projectors.
-
-* ❓ __¿Compile parking information__?
 
 
 #### Month before the event
@@ -72,6 +70,7 @@ Organizers should arrive __at 09:00__ to prepare.
 	 - Rudy (August): all on distcomp list were invited
 
 * ⭕ __Get 6 power strips__ (3m) from IT/Premises with adhesive tape too
+	- the adhesive tape is so that cables are not loose on the floor!
 
 * ⭕ __Review__ [opening/closing __presentations__](https://jukod.github.io/ncpc2025/opening)
 
