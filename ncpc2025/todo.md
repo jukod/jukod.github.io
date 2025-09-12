@@ -72,7 +72,7 @@ Organizers should arrive __at 09:00__ to prepare.
 * ⭕ __Get 6 power strips__ (3m) from IT/Premises with adhesive tape too
 	- the adhesive tape is so that cables are not loose on the floor!
 
-* ⭕ __Review__ [opening/closing __presentations__](https://jukod.github.io/ncpc2025/opening)
+* ✅ __Review__ [opening/closing __presentations__](https://jukod.github.io/ncpc2025/opening)
 
 * ⭕ __Buy balloons and helium__ a week before the event.
 	- 5 balloons per team should be more than enough;
