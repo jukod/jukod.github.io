@@ -69,7 +69,7 @@ Organizers should arrive __at 09:00__ to prepare.
 	 Maybe invite all on the distcomp list?
 	 - Rudy (August): all on distcomp list were invited
 
-* ⭕ __Get 6 power strips__ (3m) from IT/Premises with adhesive tape too
+* 🟡 __Get 6 power strips__ (3m) from IT/Premises with adhesive tape too
 	- the adhesive tape is so that cables are not loose on the floor!
 
 * ✅ __Review__ [opening/closing __presentations__](https://jukod.github.io/ncpc2025/opening)
