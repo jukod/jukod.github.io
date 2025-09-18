@@ -107,6 +107,18 @@ Please review the rules here:
 
 ------
 
+## Tips
+
+* problems are not ordered by difficulty:
+	- try to find and start with something easy
+* the scoreboard shows all teams' progress:
+	- look for problems that have been solved by several teams
+* with 1h left, the scoreboard freezes and you can only see your own team progress
+* problem scores are 0/1 (all-or-nothing):
+	- try to think about edge cases if you get "wrong answer"
+
+------
+
 The contest uses the Kattis automatic judging system.
 
 You should login on:
