@@ -74,7 +74,7 @@ Organizers should arrive __at 09:00__ to prepare.
 
 * ⭕ __Review__ [opening/closing __presentations__](https://jukod.github.io/ncpc2025/opening)
 
-* ⭕ __Buy balloons and helium__ a week before the event.
+* ✅ __Buy balloons and helium__ a week before the event.
 	- 5 balloons per team should be more than enough;
 	- with 8 teams, that's 40 balloons each.
 	- with 10 teams, that's 50 balloons each.
@@ -89,7 +89,7 @@ Organizers should arrive __at 09:00__ to prepare.
 
 * ⭕ (week before) __inform dalucci the exact number of people__
 
-* ⭕ (week before) buy __baloons__ and __helium__.
+* ✅ (week before) buy __baloons__ and __helium__.
 	- 5 balloons per team should be more than enough;
 	- with 8 teams, that's 40 balloons each.
 	- with 10 teams, that's 50 balloons each.
