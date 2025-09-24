@@ -53,13 +53,18 @@ Organizers should arrive __at 09:00__ to prepare.
 * ✅ __Invite nearby Högskola__ (Borås, Skövde)
 	- (August) Ulf has contacted lecturers in Borås.
 
-* ❓ __¿Prepare 3xRPIs for displaying the scoreboard?__
+* ✅ __¿Prepare 3xRPIs for displaying the scoreboard?__
 	- We need 3 Raspberry PIs with a simple Linux distro and a web browser:
 	  just to display the scoreboard in the contest rooms during the contest.
 	  This is not mandatory, but is a nice to have.
 	- (Raspberries are a suggestion
 	  any devices with a browser and an HDMI port would suffice...)
 	- The rooms already have projectors.
+	- The raspberries that were in Patrick's office have RaspiOS.
+	  So it's just a matter of plugging them.
+	- We just need either: an female-female HDMI convertor
+	- or a convertor between HDMI and micro hdmi.
+	  (Rudy: I'll look if I have these at home and we and wing-it then)
 
 
 #### Month before the event
@@ -69,12 +74,12 @@ Organizers should arrive __at 09:00__ to prepare.
 	 Maybe invite all on the distcomp list?
 	 - Rudy (August): all on distcomp list were invited
 
-* ⭕ __Get 6 power strips__ (3m) from IT/Premises with adhesive tape too
+* 🟡 __Get 6 power strips__ (3m) from IT/Premises with adhesive tape too
 	- the adhesive tape is so that cables are not loose on the floor!
 
 * ✅ __Review__ [opening/closing __presentations__](https://jukod.github.io/ncpc2025/opening)
 
-* ⭕ __Buy balloons and helium__ a week before the event.
+* ✅ __Buy balloons and helium__ a week before the event.
 	- 5 balloons per team should be more than enough;
 	- with 8 teams, that's 40 balloons each.
 	- with 10 teams, that's 50 balloons each.
@@ -89,7 +94,7 @@ Organizers should arrive __at 09:00__ to prepare.
 
 * ⭕ (week before) __inform dalucci the exact number of people__
 
-* ⭕ (week before) buy __baloons__ and __helium__.
+* ✅ (week before) buy __baloons__ and __helium__.
 	- 5 balloons per team should be more than enough;
 	- with 8 teams, that's 40 balloons each.
 	- with 10 teams, that's 50 balloons each.
