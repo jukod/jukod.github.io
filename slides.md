@@ -429,10 +429,11 @@ https://jukod.github.io/
 
 ### JU/JTH @ NCPC: summary
 
-| NCPC              | #-solved&nbsp;ps. | 🇸🇪-rank    | 🇸🇪%   | rank            | %           |
-| ----------------- | ----------------- | ------------ | ------- | --------------- | ----------- |
-| [NCPC 2023][23sb] | 5 🎈🎈🎈🎈🎈      |    24th / 36 | top 66% |  89th / 160     | top 55%     |
-| [NCPC 2024][24sb] | 4 🎈🎈🎈🎈        | __9th__ / 23 | top 40% |  __39th / 139__ | __top 30%__ |
+| NCPC              | #-solved&nbsp;ps. | 🇸🇪-rank     | 🇸🇪%   | rank            | %           |
+| ----------------- | ----------------- | ------------- | ------- | --------------- | ----------- |
+| [NCPC 2023][23sb] | 5 🎈🎈🎈🎈🎈      |    24th / 36  | top 66% |  89th / 160     | top 55%     |
+| [NCPC 2024][24sb] | 4 🎈🎈🎈🎈        | __9th__ / 23  | top 40% |  __39th / 139__ | __top 30%__ |
+| [NCPC 2025][25sb] | 5 🎈🎈🎈🎈🎈      | __13th__ / 49 | top 27% |  __41th / 173__ | __top 25%__ |
 
 ... also: [3 problems solved at NWERC 2024][]!
 
@@ -441,7 +442,7 @@ https://jukod.github.io/
 
 [23sb]: https://ncpc23.kattis.com/contests/ncpc23/standings?filter=5254
 [24sb]: https://ncpc24.kattis.com/contests/ncpc24/standings?filter=6262
-[25sb]: https://ncpc25.kattis.com/contests/ncpc25/standings/sweden/icpc
+[25sb]: https://ncpc25.kattis.com/contests/ncpc25/standings/icpc
 [3 problems solved at NWERC 2024]: https://2024.nwerc.eu/main/scoreboard/
 
 ------
