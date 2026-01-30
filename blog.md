@@ -61,6 +61,19 @@ Or use [our Discord server][].
 
 You will then be notified if and when we run practice contests again...
 
+[JUKod Weekly Practice Contest #1]: https://open.kattis.com/contests/yve5oa/standings
+[JUKod Weekly Practice Contest #2]: https://open.kattis.com/contests/nagjqg/standings
+[JUKod Weekly Practice Contest #3]: https://open.kattis.com/contests/stuqx2/standings
+[JUKod Weekly Practice Contest #4]: https://open.kattis.com/contests/mpi5y3/standings
+[JUKod Weekly Practice Contest #5]: https://open.kattis.com/contests/jutnxv/standings
+[JUKod Weekly Practice Contest #6]: https://open.kattis.com/contests/r6o742/standings
+[JUKod Weekly Practice Contest #7]: https://open.kattis.com/contests/v7hiff/standings
+[JUKod Weekly Practice Contest #8]: https://open.kattis.com/contests/nckrj9/standings
+[JUKod Weekly Practice Contest #9]: https://open.kattis.com/contests/jx5uw7/standings
+[AdeptiC_tv]:    https://open.kattis.com/users/adeptic-tv
+[Calle Ovinder]: https://open.kattis.com/users/calle256
+[Yuze Xu]:       https://open.kattis.com/users/k2wz5k4i
+
 
 ## [NWERC 2024][nwerc-2024] [Results][nwerc-2024-results]
 
