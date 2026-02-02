@@ -10,7 +10,7 @@ Friday, 13:15 -- 17:00, at set dates
 
 1. 👥 __Form a team__ of three (3).
 2. 🏝️ __Sit together__ on an island.
-3. 👤 __Create users__ (ideally one for each member) on [open.kattis.com].
+3. 👤 __Create users__ on __[open.kattis.com]__, ideally one for each team member.
 4. 🎈 __Decide__ on a __team name__.  (If out of ideas, use initials "ABC".)
 5. 💬 __Tell__ Rudy your __team name__ and __usernames__ to __register__.
 6. ✅ __Sit and wait__:
