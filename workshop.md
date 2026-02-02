@@ -13,9 +13,10 @@ Friday, 13:15 -- 17:00, at set dates
 3. 👤 __Create users__ on __[open.kattis.com]__, ideally one for each team member.
 4. 🎈 __Decide__ on a __team name__.  (If out of ideas, use initials "ABC".)
 5. 💬 __Tell__ Rudy your __team name__ and __usernames__ to __register__.
-6. ✅ __Sit and wait__:
+6. ✅ __Accept__ the __invitation__ on __[open.kattis.com]__.
+6. ⏱️ __Sit and wait__:
 	* 🤝 you can help others register in the meanwhile;
-	* 🔥 you can solve [open.kattis.com/problems/fizzbuzz] as a warmup.
+	* 🐝 you can solve [open.kattis.com/problems/fizzbuzz] as a warmup.
 
 ⏳ We cannot add teams once the contest has started,
 __be quick__ 🎯.
