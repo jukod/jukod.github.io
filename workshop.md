@@ -6,7 +6,7 @@ Friday, 13:15 -- 17:00, at set dates.
 We will hold a practice programming contest in a format similar to the NCPC.
 
 
-## Instructions
+### Instructions
 
 🏃 __Be quick__, the contest starts soon at __13:37__ sharp ⏱️...
 
@@ -29,7 +29,7 @@ __be quick__ 🎯.
 [jukod.github.io/workshop]: https://jukod.github.io/workshop
 
 
-## Agenda
+### Agenda
 
 | time       | Topic                                             |
 | ---------- | ------------------------------------------------- |
@@ -43,14 +43,14 @@ __be quick__ 🎯.
 [instructions]: #instructions
 
 
-## Format & Rules
+### Format & Rules
 
 In short:
 Teams of up to three persons
 try to solve as many programming problems as possible,
 without external help.
 
-### Format
+#### Format
 
 The NCPC format:
 
@@ -72,15 +72,13 @@ The NCPC format:
 [40 other languages]: https://open.kattis.com/languages
 [most problems solved]: https://ncpc24.kattis.com/contests/ncpc24/standings?filter=6262
 
-------
-
 Problems usually involve standard IO in the command line:
 
 * read from the keyboard and
 * write to the screen.
 
 
-### Rules
+#### Rules
 
 Equipment:
 
