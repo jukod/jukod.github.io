@@ -30,7 +30,7 @@ __Be quick__, the contest starts soon at 13:37 sharp...
 [open.kattis.com/problems/fizzbuzz]: https://open.kattis.com/problems/fizzbuzz
 
 
-### Further info
+### Other info
 
 Full capacity: 18 teams, 54 students
 
