@@ -1,10 +1,12 @@
 NCPC Practice Workshop
 ======================
 
-Friday, 13:15 -- 17:00, at set dates
+Friday, 13:15 -- 17:00, at set dates.
+
+We will hold a practice programming contest in a format similar to the NCPC.
 
 
-### Instructions
+## Instructions
 
 🏃 __Be quick__, the contest starts soon at __13:37__ sharp ⏱️...
 
@@ -25,7 +27,7 @@ __be quick__ 🎯.
 [open.kattis.com/problems/fizzbuzz]: https://open.kattis.com/problems/fizzbuzz
 
 
-### Agenda
+## Agenda
 
 | time       | Topic                                             |
 | ---------- | ------------------------------------------------- |
@@ -37,6 +39,64 @@ __be quick__ 🎯.
 | 17:00      | ✅ The end                                        |
 
 [instructions]: #instructions
+
+
+## Format & Rules
+
+In short:
+Teams of up to three persons
+try to solve as many programming problems as possible,
+without external help.
+
+### Format
+
+The NCPC format:
+
+* 👥 teams of [3 university students][]
+* ⏱️ 5 hours
+* 🚩 [≈ 10 programming problems][]
+* ⌨️ solutions in: [Python], [C], [Java], [C#], [C++], [Haskell] or [40 other languages].
+* 💻 1 computer per team
+* 🎈 the team with [most problems solved][] wins
+
+[3 university students]: https://live.staticflickr.com/7884/32596056617_5dc85ee500_b.jpg
+[≈ 10 programming problems]: https://github.com/icpc/ncpc-web/releases/download/ncpc2022-data/ncpc2022problems.pdf
+[Haskell]: https://www.haskell.org/
+[C#]:      https://learn.microsoft.com/en-us/dotnet/csharp/
+[Java]:    https://www.java.com/
+[Python]:  https://www.python.org/
+[C++]:     https://isocpp.org/
+[C]:       https://en.wikipedia.org/wiki/C_(programming_language)
+[40 other languages]: https://open.kattis.com/languages
+[most problems solved]: https://ncpc24.kattis.com/contests/ncpc24/standings?filter=6262
+
+------
+
+Problems usually involve standard IO in the command line:
+
+* read from the keyboard and
+* write to the screen.
+
+
+### Rules
+
+Equipment:
+
+* __1 computer per team__ with 1 keyboard, 1 mouse and 1 screen;
+* no other electronic devices such as mobile phones;
+* printed material is allowed (e.g.: books).
+
+What you may and may not use:
+
+* You may __NOT__ use the internet for anything other than accessing the contest page and documentation.
+* You may __NOT__ use a program using generative AI, such as Github Copilot or ChatGPT.
+* You may use prewritten code, and other software available on your computer that doesn’t break the previous two rules.
+* You may __NOT__ communicate with anyone other than the contest organizers and your own team members.
+
+For instance:
+
+If you are using VS Code,
+please remember to disable Copilot or any extensions with Generative AI.
 
 
 ### Other info
