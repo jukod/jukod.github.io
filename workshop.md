@@ -1,5 +1,5 @@
-NCPC Preparation Workshop
-=========================
+NCPC Practice Workshop
+======================
 
 Friday, 13:15 -- 17:00, at set dates
 
