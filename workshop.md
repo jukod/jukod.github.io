@@ -29,10 +29,10 @@ __be quick__ 🎯.
 | time       | Topic                                             |
 | ---------- | ------------------------------------------------- |
 | 13:15      | 👥 Team registration & setup (see [instructions]) |
-| 13:25      | 🎈 Quick intro presentation                       |
-| 13:30      | ⏱️ Last-minute registrations                      |
+| 13:25      | 📃 Quick intro presentation                       |
+| 13:30      | ⏳ Last-minute registrations                      |
 | 13:37      | 🎈 Actual NCPC Practice Contest                   |
-| 16:50      | 🎈 Announcing results & wrap-up                   |
+| 16:50      | 🏆 Announcing results & wrap-up                   |
 | 17:00      | ✅ The end                                        |
 
 [instructions]: #instructions
