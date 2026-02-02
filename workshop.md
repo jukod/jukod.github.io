@@ -3,7 +3,9 @@ NCPC Practice Workshop
 
 Friday, 13:15 -- 17:00, at set dates.
 
-We will hold a practice programming contest in a format similar to the NCPC.
+We will hold a practice programming contest in a format similar to the [NCPC].
+
+[NCPC]: https://nordic.icpc.io/
 
 
 ### Instructions
