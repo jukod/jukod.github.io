@@ -19,12 +19,14 @@ We will hold a practice programming contest in a format similar to the NCPC.
 6. ⏱️ __Sit and wait__:
 	* 🤝 you can help others register in the meanwhile;
 	* 🐝 you can solve [open.kattis.com/problems/fizzbuzz] as a warmup.
+	* 📃 you can read the rules in [jukod.github.io/workshop]
 
 ⏳ We cannot add teams once the contest has started,
 __be quick__ 🎯.
 
 [open.kattis.com]: https://open.kattis.com/
 [open.kattis.com/problems/fizzbuzz]: https://open.kattis.com/problems/fizzbuzz
+[jukod.github.io/workshop]: https://jukod.github.io/workshop
 
 
 ## Agenda
