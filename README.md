@@ -178,7 +178,7 @@ This study group is supported by the [Department of Computing].
 [ICPC]: https://icpc.global/
 
 [≈ 10 programming problems]: https://github.com/icpc/ncpc-web/releases/download/ncpc2022-data/ncpc2022problems.pdf
-[most solved problems]: https://ncpc24.kattis.com/contests/ncpc24/standings?filter=6262
+[most solved problems]: https://ncpc25.kattis.com/contests/ncpc25/standings/sweden/icpc
 [C, Python, Java, C++ or Kotlin]: https://docs.icpc.global/worldfinals-programming-environment/
 [3 university students]: https://live.staticflickr.com/7884/32596056617_5dc85ee500_b.jpg
 [Haskell]: https://www.haskell.org/
