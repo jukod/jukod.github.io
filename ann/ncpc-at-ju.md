@@ -45,10 +45,10 @@ we have plans to do this again in the upcoming years.
 Having a site made it so that we had more participation from students.
 In 2025, we had __10 teams with 30 students total__!
 
-| [NCPC] Edition    | #-teams                 | #-students |                                                       |
+| [NCPC] Edition    | #-teams                 | #-students |
 | ----------------- | ----------------------- | ---------- |
-| [NCPC 2023][23sb] | 1  👥                   | 3          |
-| [NCPC 2024][24sb] | 4  👥👥👥👥             | 11         |
+| [NCPC 2023][23sb] |  1 👥                   | 3          |
+| [NCPC 2024][24sb] |  4 👥👥👥👥             | 11         |
 | [NCPC 2025][25sb] | 10 👥👥👥👥👥👥👥👥👥👥 | 30         |
 
 Qualifying teams from the [NCPC] get to participate in the [NWERC],
