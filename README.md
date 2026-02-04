@@ -41,7 +41,9 @@ Our second-best scoring team, [Object Disoriented][object-disoriented], placed
 
 Congratulations to all our teams! 🎈 👏👏👏 🎉
 
-You can find [pictures of the event on JU's website][ncpc25pictures].
+![NCPC 2025 at JU](https://github.com/user-attachments/assets/0138649e-1ae2-4e77-b6f3-29c6b4d23c43)
+
+You can find further [pictures of the event on JU's website][ncpc25pictures].
 
 [ncpc25results]:    https://ncpc25.kattis.com/contests/ncpc25/standings/icpc
 [ncpc25results-sv]: https://ncpc25.kattis.com/contests/ncpc25/standings/sweden/icpc

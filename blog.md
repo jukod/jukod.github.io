@@ -20,9 +20,11 @@ Our best scoring team, [Tryhards / Noobs][tryhards-noobs], placed:
 Our second-best scoring team, [Object Disoriented][object-disoriented], placed
 23rd and 91st in Sweden and the Nordics respectively with 4 problems solved.
 
+[Other JU teams][ncpc25results-ju] had a nice scores too!
+
 Congratulations to all our teams! 🎈 👏👏👏 🎉
 
-[Other JU teams][ncpc25results-ju] had a nice scores too!
+![NCPC 2025 at JU](https://github.com/user-attachments/assets/0138649e-1ae2-4e77-b6f3-29c6b4d23c43)
 
 You can find [pictures of the event on JU's website][ncpc25pictures].
 
