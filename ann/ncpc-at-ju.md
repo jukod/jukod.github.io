@@ -9,7 +9,8 @@ It's quite fun!  :-)
 
 ![NCPC 2025 at JU](https://github.com/user-attachments/assets/0138649e-1ae2-4e77-b6f3-29c6b4d23c43)
 
-In Sweden, we have participation of several institutions, including:
+In Sweden, we have participation of teams from several institutions,
+including:
 Chalmers,
 Lund University,
 KTH,
@@ -46,8 +47,8 @@ In 2025, we had __10 teams with 30 students total__!
 
 | [NCPC] Edition    | #-teams                 | #-students |                                                       |
 | ----------------- | ----------------------- | ---------- |
-| [NCPC 2023][23sb] |  1 👥                   | 3          |
-| [NCPC 2024][24sb] |  4 👥👥👥👥             | 11         |
+| [NCPC 2023][23sb] | 1  👥                   | 3          |
+| [NCPC 2024][24sb] | 4  👥👥👥👥             | 11         |
 | [NCPC 2025][25sb] | 10 👥👥👥👥👥👥👥👥👥👥 | 30         |
 
 Qualifying teams from the [NCPC] get to participate in the [NWERC],
