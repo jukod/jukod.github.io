@@ -1,4 +1,4 @@
-The [Nordic Collegiate Programming Contest (NCPC)][NCPC] is held every year.
+The [Nordic Collegiate Programming Contest (NCPC)][NCPC] is held October every year.
 Teams of 3 university students compete
 solving [≈ 10 programming problems][25pdf] in 5 hours
 using C, Python, Java, C#, C++
