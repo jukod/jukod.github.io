@@ -53,15 +53,20 @@ In 2025, we had __10 teams with 30 students total__!
 
 Qualifying teams from the [NCPC] get to participate in the [NWERC],
 the Northwestern Europe Regional (Programming) Contest.
-JU participated in 2024 at the Netherlands and in 2025 in Germany with nice results:
+A team from JU qualified and participated
+in NWERC 2024 at the Netherlands and
+in NWERC 2025 in Germany with nice results:
 
-| [NWERC] Edition         | #-solved&nbsp;ps.        | rank       | %       | tied with        |
-| ----------------------- | ------------------------ | ---------- | ------- | ---------------- |
-| [NWERC 2024][nwerc24sb] | 3 🎈🎈🎈 out of 13       | 69th / 80  | top 90% | U Beren, U Leeds |
-| [NWERC 2025][nwerc25sb] | 6 🎈🎈🎈🎈🎈🎈 out of 12 | 83rd / 141 | top 60% | UCL, Umeå, KTH   |
+| [NWERC] Edition         | #-solved&nbsp;ps.        | rank       | %       |
+| ----------------------- | ------------------------ | ---------- | ------- |
+| [NWERC 2024][nwerc24sb] | 3 🎈🎈🎈 out of 13       | 69th / 80  | top 90% |
+| [NWERC 2025][nwerc25sb] | 6 🎈🎈🎈🎈🎈🎈 out of 12 | 83rd / 141 | top 60% |
 
-Our best-scoring teams are set to participate in NCPC and hopefully NWERC again,
-so we hope to keep improving our results for next year.
+In 2025, we got results matching the ones of UCL, Umeå or KTH for example.
+
+Our best-scoring teams are set to participate in NCPC and hopefully NWERC again
+in 2026,
+so we hope to keep improving our results for 2026 and beyond.
 
 
 ### NCPC Costs, 33000 kr in 2026
