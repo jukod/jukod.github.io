@@ -83,6 +83,8 @@ Problems usually involve standard IO in the command line:
 
 #### Rules
 
+These are the [NCPC rules][ncpc-rules].
+
 Equipment:
 
 * __1 computer per team__ with 1 keyboard, 1 mouse and 1 screen;
@@ -102,8 +104,28 @@ If you are using VS Code,
 please remember to disable Copilot or any extensions with Generative AI.
 
 
+#### Additional rules
+
+The above rules are a copy of [NCPC's rules][ncpc-rules].
+In the practice workshop we have the following additional rules:
+
+* 🎓 __Tutoring.__  Help from lecturers will be provided then.
+* ♻️ __No solution re-use.__
+  If the contest has a problem
+  that you have solved already in previous practice,
+  you need to re-solve it from scratch,
+  preferably with a different team "driver" at the keyboard.
+* 🛑 People arriving after 13:15 __may not__ be allowed in
+* ⛔ People arriving after 13:30 __will not__ be allowed in
+
+
 ### Other info
 
 Full capacity: 18 teams, 54 students
 
 Optimal: 9 teams, 27 students
+
+Total contest time: 3h 13m 37s starting at 13:37
+
+
+[ncpc-rules]:     https://nordic.icpc.io/ncpc2025/compete#rules
