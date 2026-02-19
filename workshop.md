@@ -1,7 +1,7 @@
 NCPC Practice Workshop
 ======================
 
-Friday, 13:15 -- 17:00, at set dates.
+Friday, __13:15__ -- 17:00, at set dates.
 
 We will hold a practice programming contest in a format similar to the [NCPC].
 
@@ -10,15 +10,16 @@ We will hold a practice programming contest in a format similar to the [NCPC].
 
 ### Instructions
 
-🏃 __Be quick__, the contest starts soon at __13:37__ sharp ⏱️...
+🏃 __Be quick__, the contest starts soon at 13:37 sharp ⏱️...
 
-1. 👥 __Form a team__ of three (3).
-2. 🏝️ __Sit together__ on an island.
-3. 👤 __Create users__ on __[open.kattis.com]__, ideally one for each team member.
-4. 🎈 __Decide__ on a __team name__.  (If out of ideas, use initials "ABC".)
-5. 💬 __Tell__ Rudy your __team name__ and __usernames__ to __register__.
-6. ✅ __Accept__ the __invitation__ on __[open.kattis.com]__.
-6. ⏱️ __Sit and wait__:
+1. 🕐 __Arrive at 13:15__ at the latest
+2. 👥 __Form a team__ of three (3).
+3. 🏝️ __Sit together__ on an island.
+4. 👤 __Create users__ on __[open.kattis.com]__, ideally one for each team member.
+5. 🎈 __Decide__ on a __team name__.  (If out of ideas, use initials "ABC".)
+6. 💬 __Tell__ Rudy your __team name__ and __usernames__ to __register__.
+7. ✅ __Accept__ the __invitation__ on __[open.kattis.com]__.
+8. ⏱️ __Sit and wait__:
 	* 🤝 you can help others register in the meanwhile;
 	* 🐝 you can solve [open.kattis.com/problems/fizzbuzz] as a warmup.
 	* 📃 you can read the rules in [jukod.github.io/workshop]
