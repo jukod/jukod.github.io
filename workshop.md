@@ -115,6 +115,7 @@ In the practice workshop we have the following additional rules:
   that you have solved already in previous practice,
   you need to re-solve it from scratch,
   preferably with a different team "driver" at the keyboard.
+* 🕐 Arrive in time! __13:15__
 * 🛑 People arriving after 13:15 __may not__ be allowed in
 * ⛔ People arriving after 13:30 __will not__ be allowed in
 
