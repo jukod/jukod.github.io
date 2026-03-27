@@ -12,7 +12,7 @@ We will hold a practice programming contest in a format similar to the [NCPC].
 
 🏃 __Be quick__, the contest starts soon at 13:37 sharp ⏱️...
 
-1. 🕐 __Arrive at 13:15__ at the latest
+1. 🕐 __Arrive at 13:15__ at the latest, bring a laptop computer
 2. 👥 __Form a team__ of three (3).
 3. 🏝️ __Sit together__ on an island.
 4. 👤 __Create users__ on __[open.kattis.com]__, ideally one for each team member.
@@ -118,6 +118,15 @@ In the practice workshop we have the following additional rules:
 * 🕐 Arrive in time! __13:15__
 * 🛑 People arriving after 13:15 __may not__ be allowed in
 * ⛔ People arriving after 13:30 __will not__ be allowed in
+
+
+### Tips
+
+* Problems are __not ordered by difficulty__.
+
+* Start with what's easiest as earlier submission times are tiebreakers.
+	- quickly skim through all problems at first
+	- use the live scoreboard to find easier problems
 
 
 ### Other info
