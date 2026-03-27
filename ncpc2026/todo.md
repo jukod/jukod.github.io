@@ -13,23 +13,23 @@ Organizers should arrive __at 09:00__ to prepare.
 
 #### Spring
 
-* ✅ __Register as an official site__ at the latest __early Autumn__.
+* ⭕ __Register as an official site__ at the latest __early Autumn__.
 	- Done!  Måns Magnusson replied with a confirmation.
 
-* ✅ __Schedule rooms__
+* ⭕ __Schedule rooms__
 	- [Done!](https://cloud.timeedit.net/ju/web/staff/ri1nD306n7nZ0DQ89QQ0Z904t01D8k5C691km5odlm741600105t1E73Y98XE30Q0Dw79Y9Yo5Df112D75ZZQ052yCZE5QQvfQfZW9m.html)
 	  (Rudy: case 750045, kindly handled by Daniel)
 	- 3&4 October 2024, Friday 17:00 to Saturday 17:00,
 	  we can prepare the rooms for Saturday in the early evening.
 	- [Here's the list of rooms](/ncpc2025/#maps)
 
-* ✅ __Contact JU's security officer__ Johanna, in case she has any considerations.
+* ⭕ __Contact JU's security officer__ Johanna, in case she has any considerations.
 	- (Rudy) Emails sent in February 2025 and May 2025.
 	- (August 2025) No reply, no considerations?
 
 #### Autumn
 
-* ✅ __Order light lunch from Dalucci__ early Autumn, estimate:
+* ⭕ __Order light lunch from Dalucci__ early Autumn, estimate:
 	- for 24 people (maybe more, maybe less, refine after registration):
 		4 runners + 24 contestants (8 teams).
 	- light lunch served at 12:00 with coffee and biscuits thorughout
@@ -38,22 +38,22 @@ Organizers should arrive __at 09:00__ to prepare.
 	  Dalucci must be contacted with the exact number of people
 	  (see below)
 
-* ✅ __Prepare event schedule__.
+* ⭕ __Prepare event schedule__.
 	The [event schedule](/ncpc2025#schedule-saturday-4-october-2025) was prepared.
 
-* ✅ __Sketch room maps__ (in/out): see [here](/ncpc2025#maps)
+* ⭕ __Sketch room maps__ (in/out): see [here](/ncpc2025#maps)
 
-* ✅ __Prepare quick [opening/closing presentations](/ncpc2025/opening)__
+* ⭕ __Prepare quick [opening/closing presentations](/ncpc2025/opening)__
 
-* ✅ __[Add on TimeEdit for CSE Y1/2/3/4/5](https://cloud.timeedit.net/ju/web/staff/riq86d9Qn03Z80Qt6m709y4Q64ZZn4649k6m50kQ71o05o0ngY0lX6AZQZ1095gQ6gYu899w6501YnY7tQ061195Z08Q9QE14x003Z6Ef4893fD7Ff11073Q6X69DZB82EZXQ5XB5mD5X84XqZo8oQ.html)__
+* ⭕ __[Add on TimeEdit for CSE Y1/2/3/4/5](https://cloud.timeedit.net/ju/web/staff/riq86d9Qn03Z80Qt6m709y4Q64ZZn4649k6m50kQ71o05o0ngY0lX6AZQZ1095gQ6gYu899w6501YnY7tQ061195Z08Q9QE14x003Z6Ef4893fD7Ff11073Q6X69DZB82EZXQ5XB5mD5X84XqZo8oQ.html)__
 
-* ✅ __Invite coaches from other programmes__
+* ⭕ __Invite coaches from other programmes__
 	- Rudy (August): a couple lecturers from CSI were contacted
 
-* ✅ __Invite nearby Högskola__ (Borås, Skövde)
+* ⭕ __Invite nearby Högskola__ (Borås, Skövde)
 	- (August) Ulf has contacted lecturers in Borås.
 
-* ✅ __¿Prepare 3xRPIs for displaying the scoreboard?__
+* ⭕ __¿Prepare 3xRPIs for displaying the scoreboard?__
 	- We need 3 Raspberry PIs with a simple Linux distro and a web browser:
 	  just to display the scoreboard in the contest rooms during the contest.
 	  This is not mandatory, but is a nice to have.
@@ -69,17 +69,17 @@ Organizers should arrive __at 09:00__ to prepare.
 
 #### Month before the event
 
-* 🟡 __Remind and invite runners__ a month before the event.
+* ⭕ __Remind and invite runners__ a month before the event.
      Ulf, Vladimir and Cecilia showed interest.
 	 Maybe invite all on the distcomp list?
 	 - Rudy (August): all on distcomp list were invited
 
-* 🟡 __Get 6 power strips__ (3m) from IT/Premises with adhesive tape too
+* ⭕ __Get 6 power strips__ (3m) from IT/Premises with adhesive tape too
 	- the adhesive tape is so that cables are not loose on the floor!
 
-* ✅ __Review__ [opening/closing __presentations__](https://jukod.github.io/ncpc2025/opening)
+* ⭕ __Review__ [opening/closing __presentations__](https://jukod.github.io/ncpc2025/opening)
 
-* ✅ __Buy balloons and helium__ a week before the event.
+* ⭕ __Buy balloons and helium__ a week before the event.
 	- 5 balloons per team should be more than enough;
 	- with 8 teams, that's 40 balloons each.
 	- with 10 teams, that's 50 balloons each.
@@ -94,7 +94,7 @@ Organizers should arrive __at 09:00__ to prepare.
 
 * ⭕ (week before) __inform dalucci the exact number of people__
 
-* ✅ (week before) buy __baloons__ and __helium__.
+* ⭕ (week before) buy __baloons__ and __helium__.
 	- 5 balloons per team should be more than enough;
 	- with 8 teams, that's 40 balloons each.
 	- with 10 teams, that's 50 balloons each.

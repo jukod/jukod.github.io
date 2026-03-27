@@ -1,43 +1,10 @@
-NCPC 2025 @ Jönköping University
+NCPC 2026 @ Jönköping University
 ================================
 
 This page has
-__information for those attending NCPC 2025 at the [Jönköping University][] site__.
+__information for those attending NCPC 2026 at the [Jönköping University][] site__.
 For those attending in other sites,
-please see the information on the [official NCPC 2025 website][].
-
-
-## [NCPC 2025 Results][ncpc25results]
-
-15 October 2025.
-
-
-The [results for NCPC 2025][ncpc25results] are out.
-
-JU's best scoring team, [Tryhards / Noobs][tryhards-noobs], placed:
-
-* [13th (out of 49) in Sweden 🇸🇪][ncpc25results-sv]
-  among ICPC-eligible teams;
-* [41st (out of 173) in the Nordics 🇩🇰 🇫🇮 🇮🇸 🇳🇴 🇸🇪 🇪🇪 🇱🇹][ncpc25results]
-  among ICPC-eligible teams.
-* with [5 problems solved](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202024?order=difficulty_data).
-
-Our second-best scoring team, [Object Disoriented][object-disoriented], placed
-23rd and 91st in Sweden and the Nordics respectively with 4 problems solved.
-
-Congratulations to all our teams! 🎈 👏👏👏 🎉
-
-[Other JU teams][ncpc25results-ju] had a nice scores too!
-
-You can find [pictures of the event on JU's website][ncpc25pictures].
-
-[ncpc25results]:    https://ncpc25.kattis.com/contests/ncpc25/standings/icpc
-[ncpc25results-sv]: https://ncpc25.kattis.com/contests/ncpc25/standings/sweden/icpc
-[ncpc25results-ju]: https://ncpc25.kattis.com/contests/ncpc25/standings/sweden/jonkoping-university
-[tryhards-noobs]:     https://ncpc25.kattis.com/contests/ncpc25/teams/840425
-[object-disoriented]: https://ncpc25.kattis.com/contests/ncpc25/teams/840426
-[ncpc25problems]: https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20(NCPC)%202025?order=difficulty_data
-[ncpc25pictures]: https://ju.se/center/spark/nyheter/news/2025-10-10-tekniska-hogskolan-vard-for-stor-programmeringstavling.html
+please see the information on the [official NCPC 2026 website][].
 
 
 ## Summary
@@ -50,21 +17,21 @@ You can find further info in [NCPC's website][].
 Important information:
 
 1. You must __[register](#registration) to participate__.
-2. Note __[the schedule](#schedule-saturday-4-october-2025)__ and date:
-   __Saturday, 4 October 2025__.
+2. Note __[the schedule](#schedule-saturday-3-october-2026)__ and date:
+   __Saturday, 3 October 2026__.
 3. __Bring your own laptops and chargers__,
    only a table, chairs and electric sockets are provided.
 4. Be mindful of the [competition rules].
 5. for questions, contact the site director [Rudy Matela] <[rudy.matela@ju.se]>.
 
 
-## Schedule, Saturday, 4 October 2025
+## Schedule, Saturday, 3 October 2026
 
 | Time               | Event                        | Location                             |
 | ------------------ | ---------------------------- | ------------------------------------ |
 | 10:00 -- 10:15     | Recommended arrival          | [JTH (yellow building)](#jth)        |
 | 10:15 -- 10:45     | Introduction Presentation    | Stora Enso E1029 Auditorium          |
-| __11:00 -- 16:00__ | __Main Contest (NCPC 2025)__ | __Husqvarna E1028, Finnveden E1022__ |
+| __11:00 -- 16:00__ | __Main Contest (NCPC 2026)__ | __Husqvarna E1028, Finnveden E1022__ |
 | Around 12:00       | Light lunch is served        | Galleriet E1120                      |
 | 16:00 -- 16:30     | Quick Award Ceremony         | Stora Enso E1029 Auditorium          |
 
@@ -73,7 +40,7 @@ Important information:
 
 You must register to participate in the
 [Nordic Collegiate Programming Contest][]
-([NCPC 2025][]).
+([NCPC 2026][]).
 Registration steps:
 
 1. find a coach (usually a lecturer from your programme).
@@ -89,11 +56,8 @@ Registration steps:
 5. after the coach registers the team,
    team members get an email to complete their registration.
 
-[Registration is now open](https://nordic.icpc.io/ncpc2025/compete).
-Coaches can
-[register at the ICPC Global website](https://icpc.global/regionals/finder/Nordic-2026).
-We recommend registering by 19 September
-or as early as possible to guarantee a spot.
+Registration is not open yet,
+check back on early Autumn.
 
 
 ### Arrival
@@ -179,10 +143,10 @@ After completing the easiest problems above, you can start solving harder proble
 
 
 [NCPC]: https://nordic.icpc.io/
-[NCPC 2025]: https://nordic.icpc.io/
+[NCPC 2026]: https://nordic.icpc.io/
 [Nordic Collegiate Programming Contest (NCPC)]: https://nordic.icpc.io/
 [NCPC's website]: https://nordic.icpc.io/
-[official NCPC 2025 website]: https://nordic.icpc.io/
+[official NCPC 2026 website]: https://nordic.icpc.io/
 [Nordic Collegiate Programming Contest]: https://nordic.icpc.io/
 [registration instructions for NCPC 2025]: https://nordic.icpc.io/ncpc2025/compete
 [Jönköping University]: https://ju.se/
