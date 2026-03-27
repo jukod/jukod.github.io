@@ -1,10 +1,18 @@
-NCPC 2025 @ Jönköping University
-================================
+~~NCPC 2025 @ Jönköping University~~
+====================================
 
 This page has
 __information for those attending NCPC 2025 at the [Jönköping University][] site__.
 For those attending in other sites,
 please see the information on the [official NCPC 2025 website][].
+
+
+## PAST EVENT, See: [NCPC 2026 @ JU](/ncpc2026)
+
+This page contains information about a past event.
+Perhaps you are looking for [NCPC 2026 @ JU](/ncpc2026).
+
+## PAST EVENT, See: [NCPC 2026 @ JU](/ncpc2026)
 
 
 ## [NCPC 2025 Results][ncpc25results]
