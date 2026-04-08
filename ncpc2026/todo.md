@@ -15,39 +15,28 @@ Organizers should arrive __at 09:00__ to prepare.
 
 * ⭕ Cleanup this checklist of stale info (Rudy)
 
-* ⭕ Reach out to organizers to confirm the date & cfp (Rudy)
+* ⭕ Confirm the date & cfp with the organizers
+	- Rudy reached out on the NCPC Discord, waiting for a reply
 
 * ⭕ __Register as an official site__ at the latest __early Autumn__.
-	- Done!  Måns Magnusson replied with a confirmation.
 
-* ⭕ __Schedule rooms__
-	- [Done!](https://cloud.timeedit.net/ju/web/staff/ri1nD306n7nZ0DQ89QQ0Z904t01D8k5C691km5odlm741600105t1E73Y98XE30Q0Dw79Y9Yo5Df112D75ZZQ052yCZE5QQvfQfZW9m.html)
-	  (Rudy: case 750045, kindly handled by Daniel)
-	- 3&4 October 2024, Friday 17:00 to Saturday 17:00,
-	  we can prepare the rooms for Saturday in the early evening.
-	- [Here's the list of rooms](/ncpc2025/#maps)
-
-* ⭕ __Contact JU's security officer__ Johanna, in case she has any considerations.
-	- (Rudy) Emails sent in February 2025 and May 2025.
-	- (August 2025) No reply, no considerations?
+* 🟡 __Schedule rooms__
+	- Some were scheduled by Rudy, TODO: add info here
+	- Need to schedule Galleriet
 
 #### Autumn
 
 * ⭕ __Order light lunch from Dalucci__ early Autumn, estimate:
-	- for 24 people (maybe more, maybe less, refine after registration):
-		4 runners + 24 contestants (8 teams).
+	- for 34 people (maybe more, maybe less, refine after registration):
+		4 runners + 30 contestants (10 teams).
 	- light lunch served at 12:00 with coffee and biscuits thorughout
-	- (Rudy, August 2025) Dallucci agreed to provide lunch for 24 people.
-	- At least 3 days ahead,
-	  Dalucci must be contacted with the exact number of people
-	  (see below)
 
 * ⭕ __Prepare event schedule__.
-	The [event schedule](/ncpc2025#schedule-saturday-4-october-2025) was prepared.
+	The [event schedule](/ncpc2026#schedule-saturday-3-october-2026) draft is prepared.
 
-* ⭕ __Sketch room maps__ (in/out): see [here](/ncpc2025#maps)
+* ⭕ __Sketch room maps__ (in/out): see [here](/ncpc2026#maps)
 
-* ⭕ __Prepare quick [opening/closing presentations](/ncpc2025/opening)__
+* ⭕ __Prepare quick [opening/closing presentations](/ncpc2026/opening)__
 
 * ⭕ __[Add on TimeEdit for CSE Y1/2/3/4/5](https://cloud.timeedit.net/ju/web/staff/riq86d9Qn03Z80Qt6m709y4Q64ZZn4649k6m50kQ71o05o0ngY0lX6AZQZ1095gQ6gYu899w6501YnY7tQ061195Z08Q9QE14x003Z6Ef4893fD7Ff11073Q6X69DZB82EZXQ5XB5mD5X84XqZo8oQ.html)__
 
