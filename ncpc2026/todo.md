@@ -16,10 +16,10 @@ Organizers should arrive __at 09:00__ to prepare.
 
 #### Spring
 
-* ⭕ Cleanup this checklist of stale info (Rudy)
+* 🟡 Cleanup this checklist of stale info (Rudy)
 
-* ✅ Confirm the date & cfp with the organizers
-	- Confirmed by Rudy on the NCPC Discord server.
+* ✅ Confirm the date with the organizers
+	- Done!  Confirmed by Rudy on the NCPC Discord server.
 
 * 🟡 __Schedule rooms__
 	- [E1017, E1022, E1028 and E1029 are reserved][timeedit-booking]
