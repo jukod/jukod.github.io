@@ -9,20 +9,26 @@ __Saturday 4 October 2024 10:00 -- 17:00__.
 Participants should arrive __at 10:00__.
 Organizers should arrive __at 09:00__ to prepare.
 
+[timeedit-booking]: https://cloud.timeedit.net/ju/web/staff/ri1Q60C30C4ZC5Q887Q932ZZtF59BC39DD9525Dd7t8AE8F3Q57D600ZQn23YYmQ1c3cp6acry69QbYvyZowQXZ8ZZ4Q1.phtml
+[room-map]: /ncpc2026#maps
+
 ### Tasks for preparation (⭕ 🟡 ✅)
 
 #### Spring
 
 * ⭕ Cleanup this checklist of stale info (Rudy)
 
-* ⭕ Confirm the date & cfp with the organizers
-	- Rudy reached out on the NCPC Discord, waiting for a reply
-
-* ⭕ __Register as an official site__ at the latest __early Autumn__.
+* ✅ Confirm the date & cfp with the organizers
+	- Confirmed by Rudy on the NCPC Discord server.
 
 * 🟡 __Schedule rooms__
-	- Some were scheduled by Rudy, TODO: add info here
-	- Need to schedule Galleriet
+	- [E1017, E1022, E1028 and E1029 are reserved][timeedit-booking]
+	  and listed in the [room map][room-map].
+	- Need to schedule Galleriet still
+
+#### Late Spring
+
+* ⭕ __Register as an official site__ at the latest __early Autumn__.
 
 #### Autumn
 
@@ -38,7 +44,8 @@ Organizers should arrive __at 09:00__ to prepare.
 
 * ⭕ __Prepare quick [opening/closing presentations](/ncpc2026/opening)__
 
-* ⭕ __[Add on TimeEdit for CSE Y1/2/3/4/5](https://cloud.timeedit.net/ju/web/staff/riq86d9Qn03Z80Qt6m709y4Q64ZZn4649k6m50kQ71o05o0ngY0lX6AZQZ1095gQ6gYu899w6501YnY7tQ061195Z08Q9QE14x003Z6Ef4893fD7Ff11073Q6X69DZB82EZXQ5XB5mD5X84XqZo8oQ.html)__
+* ✅ __[Add on TimeEdit for CSE Y1/2/3/4/5][timeedit-booking]__
+	- Done!
 
 * ⭕ __Invite coaches from other programmes__
 	- Rudy (August): a couple lecturers from CSI were contacted
