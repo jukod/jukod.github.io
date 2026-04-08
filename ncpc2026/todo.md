@@ -1,7 +1,7 @@
 Checklist for hosting NCPC at JTH
 =================================
 
-Tasklist for hosting [NCPC at JTH](/ncpc2025).
+Tasklist for hosting [NCPC at JTH](/ncpc2026).
 
 The contest runs on 3 October 2026 11:00 -- 16:00.
 We plan an __event__ starting one hour before and ending one hour after:
