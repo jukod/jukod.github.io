@@ -3,7 +3,7 @@ Checklist for hosting NCPC at JTH
 
 Tasklist for hosting [NCPC at JTH](/ncpc2025).
 
-The contest runs on 4 October 2024 11:00 -- 16:00.
+The contest runs on 3 October 2026 11:00 -- 16:00.
 We plan an __event__ starting one hour before and ending one hour after:
 __Saturday 4 October 2024 10:00 -- 17:00__.
 Participants should arrive __at 10:00__.
@@ -12,6 +12,10 @@ Organizers should arrive __at 09:00__ to prepare.
 ### Tasks for preparation (⭕ 🟡 ✅)
 
 #### Spring
+
+* ⭕ Cleanup this checklist of stale info (Rudy)
+
+* ⭕ Reach out to organizers to confirm the date & cfp (Rudy)
 
 * ⭕ __Register as an official site__ at the latest __early Autumn__.
 	- Done!  Måns Magnusson replied with a confirmation.
