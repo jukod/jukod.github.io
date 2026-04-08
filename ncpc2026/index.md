@@ -50,7 +50,7 @@ Registration steps:
 3. __send your coach__ the required information for all (3) team members:
 	- __full name__;
 	- __university email address (e.g.: `@student.ju.se`)__;
-	- __a team name__ -- look at [past year for inspiration][ncpc-2024-rank].
+	- __a team name__ -- look at [past year for inspiration][ncpc-2025-rank].
 4. coaches must follow the [registration instructions for NCPC 2025][]:
 	- select Jönköping University as the site.
 5. after the coach registers the team,
@@ -132,6 +132,7 @@ They are [available for practice at open.kattis.com](https://open.kattis.com/pro
 You can submit your solutions online there, so you can check if they are really correct.
 
 After completing the easiest problems above, you can start solving harder problems from the past few years:
+[NCPC 2025](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202025?order=difficulty_data);
 [NCPC 2024](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202024?order=difficulty_data);
 [NCPC 2023](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202023?order=difficulty_data);
 [NCPC 2022](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202022?order=difficulty_data);
@@ -153,7 +154,7 @@ After completing the easiest problems above, you can start solving harder proble
 [Rudy Matela]: mailto:rudy.matela@ju.se
 [rudy.matela@ju.se]: mailto:rudy.matela@ju.se
 [competition rules]: https://nordic.icpc.io/ncpc2025/compete#rules
-[ncpc-2024-rank]: https://ncpc24.kattis.com/contests/ncpc24/standings/6290
+[ncpc-2025-rank]: https://ncpc25.kattis.com/contests/ncpc25/standings/sweden/icpc
 [40 other programming languages]: https://open.kattis.com/languages
 [most solved problems]: https://ncpc24.kattis.com/contests/ncpc24/standings?filter=6262
 [≈ 10 programming problems]: https://github.com/icpc/ncpc-web/releases/download/ncpc2022-data/ncpc2022problems.pdf
