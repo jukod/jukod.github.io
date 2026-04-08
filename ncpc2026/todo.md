@@ -16,8 +16,6 @@ Organizers should arrive __at 09:00__ to prepare.
 
 #### Spring
 
-* 🟡 Cleanup this checklist of stale info (Rudy)
-
 * ✅ Confirm the date with the organizers
 	- Done!  Confirmed by Rudy on the NCPC Discord server.
 
@@ -39,8 +37,6 @@ Organizers should arrive __at 09:00__ to prepare.
 
 * ✅ __Prepare event schedule__.
 	The [event schedule](/ncpc2026#schedule-saturday-3-october-2026) draft is prepared.
-
-* ⭕ __Sketch room maps__ (in/out): see [here](/ncpc2026#maps)
 
 * ⭕ __Prepare quick [opening/closing presentations](/ncpc2026/opening)__
 
