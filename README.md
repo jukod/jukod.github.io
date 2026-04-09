@@ -22,38 +22,6 @@ or come to one of our upcoming meetups.
 Also join [our Discord server][].  :-)
 
 
-## [NCPC 2025 Results][ncpc25results]
-
-The [results for NCPC 2025][ncpc25results] are out.
-
-Our best scoring team, [Tryhards / Noobs][tryhards-noobs], placed:
-
-* [13th (out of 49) in Sweden 🇸🇪][ncpc25results-sv]
-  among ICPC-eligible teams;
-* [41st (out of 173) in the Nordics 🇩🇰 🇫🇮 🇮🇸 🇳🇴 🇸🇪 🇪🇪 🇱🇹][ncpc25results]
-  among ICPC-eligible teams.
-* with [5 problems solved](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202024?order=difficulty_data).
-
-Our second-best scoring team, [Object Disoriented][object-disoriented], placed
-23rd and 91st in Sweden and the Nordics respectively with 4 problems solved.
-
-[Other JU teams][ncpc25results-ju] had a nice scores too!
-
-Congratulations to all our teams! 🎈 👏👏👏 🎉
-
-![NCPC 2025 at JU](https://github.com/user-attachments/assets/0138649e-1ae2-4e77-b6f3-29c6b4d23c43)
-
-You can find further [pictures of the event on JU's website][ncpc25pictures].
-
-[ncpc25results]:    https://ncpc25.kattis.com/contests/ncpc25/standings/icpc
-[ncpc25results-sv]: https://ncpc25.kattis.com/contests/ncpc25/standings/sweden/icpc
-[ncpc25results-ju]: https://ncpc25.kattis.com/contests/ncpc25/standings/sweden/jonkoping-university
-[tryhards-noobs]:     https://ncpc25.kattis.com/contests/ncpc25/teams/840425
-[object-disoriented]: https://ncpc25.kattis.com/contests/ncpc25/teams/840426
-[ncpc25problems]: https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20(NCPC)%202025?order=difficulty_data
-[ncpc25pictures]: https://ju.se/center/spark/nyheter/news/2025-10-10-tekniska-hogskolan-vard-for-stor-programmeringstavling.html
-
-
 ## Upcoming events
 
 | Event     | Date                                  | Time               | Location         |
