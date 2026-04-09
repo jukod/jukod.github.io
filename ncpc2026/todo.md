@@ -16,17 +16,20 @@ Organizers should arrive __at 09:00__ to prepare.
 
 #### Spring
 
-* ✅ Confirm the date with the organizers
-	- Done!  Confirmed by Rudy on the NCPC Discord server.
+* ✅ __Confirm the date__ with the organizers
+	- Done!  Confirmed by Rudy on the NCPC Discord server in April 8.
 
 * 🟡 __Schedule rooms__
 	- [E1017, E1022, E1028 and E1029 are reserved][timeedit-booking]
 	  and listed in the [room map][room-map].
-	- LisaBeth was contacted about scheduling Galleriet on 2026-04-09 by Rudy.
+	- LisaBeth was contacted about scheduling Galleriet in April 9 by Rudy.
+
+* ⭕ Find a __second organizer__
 
 #### Late Spring
 
 * ⭕ __Register as an official site__ at the latest __early Autumn__.
+	- This needs to be done by the site director (Rudy).
 
 #### Autumn
 
