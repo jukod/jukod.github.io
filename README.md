@@ -50,7 +50,7 @@ the team with [most solved problems] wins.
 It's quite [fun][]!  :-)
 
 Date and nearest location:
-[Saturday 4 __October__ 2025 @ JTH](/ncpc2025).
+[Saturday 3 __October__ 2026 @ JTH](/ncpc2026).
 
 
 ### Problems for Practicing
@@ -126,7 +126,7 @@ This study group is supported by the [Department of Computing].
 
 | Name                                                     | Date                    |
 | -------------------------------------------------------- | ----------------------- |
-| [NCPC] 2025 -- [Nordic Collegiate Programming Contest]   | 4 October 2025          |
+| [NCPC] 2026 -- [Nordic Collegiate Programming Contest]   | 3 October 2026          |
 
 
 ## JU Kod Steering Committee
