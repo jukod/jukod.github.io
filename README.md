@@ -26,9 +26,9 @@ Also join [our Discord server][].  :-)
 
 | Event     | Date                                  | Time               | Location         |
 | --------- | ------------------------------------- | ------------------ | ---------------- |
-| __NCPC__  | [Saturday, 4 October 2025](/ncpc2025) | [10:00](/ncpc2025) | [JTH](/ncpc2025) |
+| __NCPC__  | [Saturday, 3 October 2026](/ncpc2026) | [10:00](/ncpc2026) | [JTH](/ncpc2026) |
 
-You must [register](/ncpc2025#registration) to participate in the [NCPC@JTH](/ncpc2025).
+You must [register](/ncpc2026#registration) to participate in the [NCPC@JTH](/ncpc2026).
 
 
 ## Preparing for the NCPC
