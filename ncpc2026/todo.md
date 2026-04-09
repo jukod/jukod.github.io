@@ -22,7 +22,7 @@ Organizers should arrive __at 09:00__ to prepare.
 * 🟡 __Schedule rooms__
 	- [E1017, E1022, E1028 and E1029 are reserved][timeedit-booking]
 	  and listed in the [room map][room-map].
-	- Need to schedule Galleriet still
+	- LisaBeth was contacted about scheduling Galleriet on 2026-04-09 by Rudy.
 
 #### Late Spring
 
