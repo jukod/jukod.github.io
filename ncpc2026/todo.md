@@ -5,7 +5,7 @@ Tasklist for hosting [NCPC at JTH](/ncpc2026).
 
 The contest runs on 3 October 2026 11:00 -- 16:00.
 We plan an __event__ starting one hour before and ending one hour after:
-__Saturday 4 October 2024 10:00 -- 17:00__.
+__Saturday 3 October 2026 10:00 -- 17:00__.
 Participants should arrive __at 10:00__.
 Organizers should arrive __at 09:00__ to prepare.
 
