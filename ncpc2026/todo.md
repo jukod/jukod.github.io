@@ -19,10 +19,10 @@ Organizers should arrive __at 09:00__ to prepare.
 * ✅ __Confirm the date__ with the organizers
 	- Done!  Confirmed by Rudy on the NCPC Discord server in April 8.
 
-* 🟡 __Schedule rooms__
-	- [E1017, E1022, E1028 and E1029 are reserved][timeedit-booking]
-	  and listed in the [room map][room-map].
-	- LisaBeth was contacted about scheduling Galleriet in April 9 by Rudy.
+* ✅ __Schedule rooms__
+	- [E1017, E1022, E1028 and E1029 were kindly reserved][timeedit-booking]
+	  by Daniel and are listed in the [room map][room-map].
+	- E1120 Galleriet was kindly reserved by Annika.  The booking is on Outlook calendar.
 
 * ⭕ Find a __second organizer__
 
@@ -37,6 +37,9 @@ Organizers should arrive __at 09:00__ to prepare.
 	- for 34 people (maybe more, maybe less, refine after registration):
 		4 runners + 30 contestants (10 teams).
 	- light lunch served at 12:00 with coffee and biscuits thorughout
+
+* ⭕ __Contact caretakers and security__
+     for any considerations following suggestion from Annika.
 
 * ✅ __Prepare event schedule__.
 	The [event schedule](/ncpc2026#schedule-saturday-3-october-2026) draft is prepared.
