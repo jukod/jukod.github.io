@@ -1,9 +1,11 @@
 | id | quality | difficulty | topics |
 | -- | ------- | ---------- | ------ |
 | [keytocrypto](https://open.kattis.com/problems/keytocrypto) |  6/6 |  3/6 |  cryptography |
+| [gottatradesomeofem](https://open.kattis.com/problems/gottatradesomeofem) |  6/6 |  3/6 |  graph bfs |
 | [electionparadox](https://open.kattis.com/problems/electionparadox) |  6/6 |  3/6 |  straightforward easy greedy |
 | [completingthesquare](https://open.kattis.com/problems/completingthesquare) |  6/6 |  3/6 |  geometry |
 | [circuitmath](https://open.kattis.com/problems/circuitmath) |  6/6 |  3/6 |  logic simulation interpreter |
+| [hello](https://open.kattis.com/problems/hello) |  6/6 |  0/6 |  easy |
 | [odds](https://open.kattis.com/problems/odds) |  5/6 |  4/6 |  comparison probability simulation tricky favourite |
 | [jurassicjigsaw](https://open.kattis.com/problems/jurassicjigsaw) |  5/6 |  4/6 |  graph mst |
 | [gnollhypothesis](https://open.kattis.com/problems/gnollhypothesis) |  5/6 |  4/6 |  probability combinatorics maths tricky |
@@ -18,9 +20,11 @@
 | [quickbrownfox](https://open.kattis.com/problems/quickbrownfox) |  5/6 |  2/6 |  arrays characters |
 | [progressivescramble](https://open.kattis.com/problems/progressivescramble) |  5/6 |  2/6 |  cryptography |
 | [missingnumbers](https://open.kattis.com/problems/missingnumbers) |  5/6 |  2/6 |  loops easy |
+| [instagraph](https://open.kattis.com/problems/instagraph) |  5/6 |  2/6 |  graph intro golfable set |
 | [dst](https://open.kattis.com/problems/dst) |  5/6 |  2/6 |  arithmetic loops |
 | [boatparts](https://open.kattis.com/problems/boatparts) |  5/6 |  2/6 |  sets |
 | [eligibility](https://open.kattis.com/problems/eligibility) |  5/6 |  1/6 |  easy if loop |
+| [crochetcompetition](https://open.kattis.com/problems/crochetcompetition) |  5/6 |  1/6 |  if |
 | [coffeecupcombo](https://open.kattis.com/problems/coffeecupcombo) |  5/6 |  1/6 |  easy arrays strings |
 | [foosball](https://open.kattis.com/problems/foosball) |  4/6 |  4/6 |  simulation tricky |
 | [diagonalcut](https://open.kattis.com/problems/diagonalcut) |  4/6 |  4/6 |  |
@@ -42,6 +46,8 @@
 | [leftbeehind](https://open.kattis.com/problems/leftbeehind) |  4/6 |  1/6 |  easy comparison |
 | [attendance2](https://open.kattis.com/problems/attendance2) |  4/6 |  1/6 |  loops logic |
 | [twosum](https://open.kattis.com/problems/twosum) |  4/6 |  0/6 |  arithmetic |
+| [shortcuttowhat](https://open.kattis.com/problems/shortcuttowhat) |  4/6 |  0/6 |  arithmetic |
+| [parkingpandemonium](https://open.kattis.com/problems/parkingpandemonium) |  4/6 |  |  arithmetic mislead golfable |
 | [triolingopush](https://open.kattis.com/problems/triolingopush) |  3/6 |  4/6 |  fibonacci maths puzzle |
 | [summertrip](https://open.kattis.com/problems/summertrip) |  3/6 |  4/6 |  puzzle complexity |
 | [setnja](https://open.kattis.com/problems/setnja) |  3/6 |  4/6 |  maths |
@@ -60,6 +66,7 @@
 | [hangman](https://open.kattis.com/problems/hangman) |  3/6 |  1/6 |  read string golfable |
 | [forcedchoice](https://open.kattis.com/problems/forcedchoice) |  3/6 |  1/6 |  read arrays |
 | [eyeofsauron](https://open.kattis.com/problems/eyeofsauron) |  3/6 |  1/6 |  straightforward easy golfable |
+| [skeytasaman](https://open.kattis.com/problems/skeytasaman) |  3/6 |  0/6 |  strings |
 | [zoo](https://open.kattis.com/problems/zoo) |  2/6 |  3/6 |  lists arrays sorting counting tricky |
 | [zamka](https://open.kattis.com/problems/zamka) |  2/6 |  2/6 |  digits read easy |
 | [toktik](https://open.kattis.com/problems/toktik) |  2/6 |  2/6 |  sorting dictionary |
