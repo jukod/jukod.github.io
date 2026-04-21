@@ -158,11 +158,15 @@ A regional.
 [SEERC 2020].
 
 
-#### [NAQ] 🇺🇸 🇨🇦 ICPC North(ern) American Qualifier
+#### [NAQ] 🇺🇸 🇨🇦 ICPC North(ern) America Qualifier
 
 Equivalent to a sub-regional in Europe.
 This qualifies to one of the [regionals in North(ern) America].
 
+[NAQ 2025];
+[NAQ 2024];
+[NAQ 2023];
+[NAQ 2022];
 [NAQ 2021];
 [NAQ 2020];
 [NAQ 2019];
@@ -170,6 +174,7 @@ This qualifies to one of the [regionals in North(ern) America].
 [NAQ 2017];
 [NAQ 2016];
 [NAQ 2015];
+[NAQ 2014];
 [NAQ 2013].
 
 
@@ -323,6 +328,10 @@ A regional.
 [SEERC 2021]: http://acm.ro/2021/prob/problems-2021-2022.pdf
 [SEERC 2020]: http://acm.ro/2020/prob/problems2020-2021.pdf
 
+[NAQ 2025]: https://open.kattis.com/problem-sources/2025%20ICPC%20North%20America%20Qualifier?order=difficulty_data
+[NAQ 2024]: https://open.kattis.com/problem-sources/2024%20ICPC%20North%20America%20Qualifier?order=difficulty_data
+[NAQ 2023]: https://open.kattis.com/problem-sources/2023%20ICPC%20North%20America%20Qualifier%2030%20September?order=difficulty_data
+[NAQ 2022]: https://open.kattis.com/problem-sources/2022%20ICPC%20North%20America%20Qualifier?order=difficulty_data
 [NAQ 2021]: https://open.kattis.com/problem-sources/2021%20ICPC%20North%20American%20Qualifier%20Contest%20%28Jan%202022%29?order=difficulty_data
 [NAQ 2020]: https://open.kattis.com/problem-sources/2020%20ICPC%20North%20American%20Qualifier%20Contest?order=difficulty_data
 [NAQ 2019]: https://open.kattis.com/problem-sources/2019%20ICPC%20North%20American%20Qualifier%20Contest?order=difficulty_data
@@ -330,6 +339,7 @@ A regional.
 [NAQ 2017]: https://open.kattis.com/problem-sources/2017%20ICPC%20North%20American%20Qualifier%20Contest?order=difficulty_data
 [NAQ 2016]: https://open.kattis.com/problem-sources/2016%20ICPC%20North%20American%20Qualifier%20Contest?order=difficulty_data
 [NAQ 2015]: https://open.kattis.com/problem-sources/2015%20ICPC%20North%20American%20Qualifier%20Contest?order=difficulty_data
+[NAQ 2014]: https://open.kattis.com/problem-sources/2014%20ICPC%20North%20America%20Qualifier?order=difficulty_data
 [NAQ 2013]: https://open.kattis.com/problem-sources/2013%20ACM-ICPC%20North%20American%20Qualifier?order=difficulty_data
 
 [RMRC 2023]: https://open.kattis.com/problem-sources/Rocky%20Mountain%20Regional%20Programming%20Contest%202023?order=difficulty_data
