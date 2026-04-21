@@ -27,7 +27,7 @@ Also join [our Discord server][].  :-)
 | Event                      | Date                    | Time      | Location            |
 | -------------------------- | ----------------------- | ----------| ------------------- |
 | ~~[Practice Workshop] #1~~ | ~~Friday, 27 February~~ | ~~13:00~~ | ~~E1028 Husqvarna~~ |
-|    Practice Workshop  #2   |   Friday, 17 April      |   15:15   |   E4304             |
+|  ~~Practice Workshop  #2~~ | ~~Friday, 17 April~~    | ~~15:15~~ | ~~E4304~~           |
 |   [Practice Workshop] #3   |   Friday, 8 May         |   13:00   |   E1028 Husqvarna   |
 | NCPC Info & Registration   |   Friday, 18 September  |   13:00   |   E1029 Stora Enso  |
 | Final [Practice Workshop]  |   Friday, 25 September  |   13:00   |   E1028 Husqvarna   |
