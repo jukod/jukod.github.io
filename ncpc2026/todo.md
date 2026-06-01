@@ -28,8 +28,9 @@ Organizers should arrive __at 09:00__ to prepare.
 
 #### Late Spring
 
-* ⭕ __Register as an official site__ at the latest __early Autumn__.
+* ✅ __Register as an official site__ at the latest __early Autumn__.
 	- This needs to be done by the site director (Rudy).
+	- Done!
 
 #### Autumn
 
