@@ -23,13 +23,13 @@ digraph G {
 	naq -> othernarc
 	naq -> ecnarc
 
-	narc -> icpc
+	nac -> icpc
 
-	rmrc      -> narc
-	ncnarc    -> narc
-	scrc      -> narc
-	othernarc -> narc
-	ecnarc    -> narc
+	rmrc      -> nac
+	ncnarc    -> nac
+	scrc      -> nac
+	othernarc -> nac
+	ecnarc    -> nac
 
 	otherworld -> icpc
 	otherworldrc -> otherworld
@@ -45,8 +45,8 @@ digraph G {
 	swerc  [label = "SWERC\n🇪🇺"]
 	seerc  [label = "SEERC\n🇪🇺"]
 	cerc   [label = "CERC\n🇪🇺"]
-	narc   [label = ""] // not an actual contest
-	naq    [label = "NAQ\n🇺🇸 🇨🇦"]
+	nac    [label = "NAC\n🇺🇸 🇨🇦"] // North America Championship
+	naq    [label = "NAQ\n🇺🇸 🇨🇦"] // North America Qualifier
 	rmrc   [label = "RMRC\n🇺🇸 🇨🇦"]
 	ncnarc [label = "NCNARC\n🇺🇸 🇨🇦"]
 	ecnarc [label = "ECNARC\n🇺🇸 🇨🇦"]
