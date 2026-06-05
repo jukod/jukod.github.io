@@ -169,7 +169,7 @@
 <!-- othernarc -->
 <g id="node15" class="node">
 <title>othernarc</title>
-<text xml:space="preserve" text-anchor="middle" x="281.88" y="-112.33" font-family="Times,serif" font-size="14.00">...</text>
+<text xml:space="preserve" text-anchor="middle" x="281.88" y="-113.05" font-family="Bold" font-size="16.00">...</text>
 </g>
 <!-- naq&#45;&gt;othernarc -->
 <g id="edge13" class="edge">
@@ -234,7 +234,7 @@
 <!-- otherworld -->
 <g id="node18" class="node">
 <title>otherworld</title>
-<text xml:space="preserve" text-anchor="middle" x="752.88" y="-190.82" font-family="Times,serif" font-size="14.00">...</text>
+<text xml:space="preserve" text-anchor="middle" x="752.88" y="-191.55" font-family="Bold" font-size="16.00">...</text>
 </g>
 <!-- otherworld&#45;&gt;icpc -->
 <g id="edge21" class="edge">
@@ -245,7 +245,7 @@
 <!-- otherworldrc -->
 <g id="node19" class="node">
 <title>otherworldrc</title>
-<text xml:space="preserve" text-anchor="middle" x="795.88" y="-112.33" font-family="Times,serif" font-size="14.00">...</text>
+<text xml:space="preserve" text-anchor="middle" x="795.88" y="-113.05" font-family="Bold" font-size="16.00">...</text>
 </g>
 <!-- otherworldrc&#45;&gt;otherworld -->
 <g id="edge22" class="edge">
@@ -256,7 +256,7 @@
 <!-- otherworldsrc -->
 <g id="node20" class="node">
 <title>otherworldsrc</title>
-<text xml:space="preserve" text-anchor="middle" x="795.88" y="-25.2" font-family="Times,serif" font-size="14.00">...</text>
+<text xml:space="preserve" text-anchor="middle" x="795.88" y="-25.93" font-family="Bold" font-size="16.00">...</text>
 </g>
 <!-- otherworldsrc&#45;&gt;otherworldrc -->
 <g id="edge23" class="edge">

@@ -48,8 +48,8 @@ digraph G {
 	ncnarc [label = "NCNARC\n🇺🇸 🇨🇦"]
 	ecnarc [label = "ECNARC\n🇺🇸 🇨🇦"]
 	scrc   [label = "SCRC\n🇺🇸"]
-	othernarc [label = "..."]
-	otherworld [label = "..."]
-	otherworldrc [label = "..."]
-	otherworldsrc [label = "..."]
+	othernarc     [label = "..." fontname="Bold" fontsize=16]
+	otherworld    [label = "..." fontname="Bold" fontsize=16]
+	otherworldrc  [label = "..." fontname="Bold" fontsize=16]
+	otherworldsrc [label = "..." fontname="Bold" fontsize=16]
 }
