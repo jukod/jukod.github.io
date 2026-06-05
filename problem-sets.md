@@ -223,6 +223,19 @@ A regional.
 [SCRC 2018].
 
 
+#### [NAC] 🇺🇸 🇨🇦 North America Championship
+
+This is equivalent to the [EUC], but in North(ern) America.
+
+[NAC 2026];
+[NAC 2025];
+[NAC 2024];
+[NAC 2023];
+[NAC 2022];
+[NAC 2021];
+[NAC 2020].
+
+
 #### Related collections
 
 * [ICPC Archive](https://icpcarchive.github.io/)
@@ -367,6 +380,14 @@ A regional.
 
 [SCRC 2018]: https://open.kattis.com/problem-sources/2018%20ICPC%20South%20Central%20USA%20Regional%20Contest?order=difficulty_data
 
+[NAC 2026]: https://open.kattis.com/problem-sources/2026%20ICPC%20North%20America%20Championship?order=difficulty_data
+[NAC 2025]: https://open.kattis.com/problem-sources/2025%20ICPC%20North%20America%20Championship?order=difficulty_data
+[NAC 2024]: https://open.kattis.com/problem-sources/2024%20ICPC%20North%20America%20Championship?order=difficulty_data
+[NAC 2023]: https://open.kattis.com/problem-sources/2023%20ICPC%20North%20America%20Championship?order=difficulty_data
+[NAC 2022]: https://open.kattis.com/problem-sources/2022%20ICPC%20North%20America%20Championship?order=difficulty_data
+[NAC 2021]: https://open.kattis.com/problem-sources/ICPC%20North%20America%20Championship%202021?order=difficulty_data
+[NAC 2020]: https://open.kattis.com/problem-sources/North%20America%20Championship%202020?order=difficulty_data
+
 [NCPC]: https://nordic.icpc.io/
 [Nordic Collegiate Programming Contest (NCPC)]: https://nordic.icpc.io/
 [NWERC]: https://nwerc.eu/
@@ -379,6 +400,7 @@ A regional.
 [CERC]: https://cerc.acm.si/
 [SEERC]: http://acm.ro/
 [NAQ]: https://na.icpc.global/naq/
+[NAC]: https://nac.icpc.global/
 [RMRC]: https://rocky.icpc.io/
 [NCNARC]: https://na.icpc.global/ncna/
 [ECNARC]: https://na.icpc.global/ecna/
