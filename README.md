@@ -146,7 +146,7 @@ This study group is supported by the [Department of Computing].
 * [Mailing list][] (Rudy)
 * [Discord server][] (Yoseph, Adrian)
 * Weekly practice contests (Adrian, Calle)
-* Coaches: Rudy Matela, Lucy Ellen Lwakatare, and Masoumeh Taromirad (others welcome)
+* Coaches: Rudy Matela, Joel Scarinius Stävmo (others welcome)
 
 
 [NCPC]: https://nordic.icpc.io/
