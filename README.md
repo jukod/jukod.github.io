@@ -24,22 +24,16 @@ Also join [our Discord server][].  :-)
 
 ## Upcoming events
 
-| Event                      | Date                    | Time      | Location            |
-| -------------------------- | ----------------------- | ----------| ------------------- |
-| ~~[Practice Workshop #1]~~ | ~~Friday, 27 February~~ | ~~13:00~~ | ~~E1028 Husqvarna~~ |
-| ~~[Practice Workshop #2]~~ | ~~Friday, 17 April~~    | ~~15:15~~ | ~~E4304~~           |
-| ~~[Practice Workshop #3]~~ | ~~Friday, 8 May~~       | ~~13:00~~ | ~~E1028 Husqvarna~~ |
-| NCPC Info & Registration   |   Friday, 18 September  |   13:00   |   E1029 Stora Enso  |
-| Final [Practice Workshop]  |   Friday, 25 September  |   13:00   |   E1028 Husqvarna   |
+| Event                        | Date                     | Time      | Location            |
+| ---------------------------- | ------------------------ | ----------| ------------------- |
+| [NCPC Info & Registration][] |   Friday, 18 September   |   13:00   |   E1029 Stora Enso  |
+| Final [Practice Workshop][]  |   Friday, 25 September   |   13:00   |   E1028 Husqvarna   |
 | __[NCPC @ JTH]__ | [Saturday, 3 October 2026](/ncpc2026) | [10:00](/ncpc2026) | [JTH](/ncpc2026) |
 
 You must [register](/ncpc2026#registration) to participate in the [NCPC @ JTH].
 
 [NCPC @ JTH]: /ncpc2026
 [Practice Workshop]: https://jukod.github.io/workshop
-[Practice Workshop #1]: https://open.kattis.com/contests/yvx88u/standings
-[Practice Workshop #2]: https://open.kattis.com/contests/padh7p/standings
-[Practice Workshop #3]: https://open.kattis.com/contests/bqqwmu/standings
 
 
 ## Preparing for the NCPC
