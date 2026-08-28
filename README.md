@@ -32,6 +32,7 @@ Also join [our Discord server][].  :-)
 
 You must [register](/ncpc2026#registration) to participate in the [NCPC @ JTH].
 
+[NCPC Info & Registration]: /ncpc2026
 [NCPC @ JTH]: /ncpc2026
 [Practice Workshop]: https://jukod.github.io/workshop
 
