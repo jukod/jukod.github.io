@@ -2,6 +2,25 @@ JU Kod's (b)log
 ---------------
 
 
+## NCPC 2026 Practice Workshops
+
+Here are the results of our practice workshops that ran in Spring/Autumn 2026:
+
+| Event Results                                | Date                     | Winner            | Participants        |
+| -------------------------------------------- | ------------------------ | ----------------- | ------------------- |
+|   [JU NCPC 2026 Final Practice Workshop][]   |   Friday, 25 September   | ---               | TBA                 |
+|   [NCPC Info & Registration Session][]       |   Friday, 18 September   | ---               | TBA                 |
+| ~~[JU NCPC 2026 Practice Workshop #3][]~~    | ~~Friday, 8 May~~        | ---               | X teams, Y students |
+| ~~[JU NCPC 2026 Practice Workshop #2][]~~    | ~~Friday, 17 April~~     | ---               | X teams, Y students |
+| ~~[JU NCPC 2026 Practice Workshop #1][]~~    | ~~Friday, 27 February~~  | ---               | X teams, Y students |
+
+[JU NCPC 2026 Final Practice Workshop]: https://jukod.github.io/workshop
+[NCPC Info & Registration Session]: https://jukod.github.io/ncpc2026
+[JU NCPC 2026 Practice Workshop #3]: https://open.kattis.com/contests/bqqwmu/standings
+[JU NCPC 2026 Practice Workshop #2]: https://open.kattis.com/contests/padh7p/standings
+[JU NCPC 2026 Practice Workshop #1]: https://open.kattis.com/contests/yvx88u/standings
+
+
 ## [NCPC 2025 Results][ncpc25results]
 
 15 October 2025.
