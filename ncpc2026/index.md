@@ -51,13 +51,12 @@ Registration steps:
 	- __full name__;
 	- __university email address (e.g.: `@student.ju.se`)__;
 	- __a team name__ -- look at [past year for inspiration][ncpc2025rank].
-4. coaches must follow the [registration instructions for NCPC 2025][]:
-	- select Jönköping University as the site.
+4. coaches must follow the [registration instructions for NCPC 2026][]:
+	- select Jönköping University as the site [here](https://icpc.global/regionals/finder/Nordic-2027).
 5. after the coach registers the team,
    team members get an email to complete their registration.
 
-Registration is not open yet,
-check back on early Autumn.
+Registration is already open!
 
 
 ### Arrival
@@ -149,11 +148,11 @@ After completing the easiest problems above, you can start solving harder proble
 [NCPC's website]: https://nordic.icpc.io/
 [official NCPC 2026 website]: https://nordic.icpc.io/
 [Nordic Collegiate Programming Contest]: https://nordic.icpc.io/
-[registration instructions for NCPC 2025]: https://nordic.icpc.io/ncpc2025/compete
+[registration instructions for NCPC 2025]: https://nordic.icpc.io/ncpc2026/compete
 [Jönköping University]: https://ju.se/
 [Rudy Matela]: mailto:rudy.matela@ju.se
 [rudy.matela@ju.se]: mailto:rudy.matela@ju.se
-[competition rules]: https://nordic.icpc.io/ncpc2025/compete#rules
+[competition rules]: https://nordic.icpc.io/ncpc2026/compete#rules
 [ncpc2025rank]: https://ncpc25.kattis.com/contests/ncpc25/standings/sweden/icpc
 [40 other programming languages]: https://open.kattis.com/languages
 [most solved problems]: https://ncpc24.kattis.com/contests/ncpc24/standings?filter=6262
