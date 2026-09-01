@@ -148,7 +148,7 @@ After completing the easiest problems above, you can start solving harder proble
 [NCPC's website]: https://nordic.icpc.io/
 [official NCPC 2026 website]: https://nordic.icpc.io/
 [Nordic Collegiate Programming Contest]: https://nordic.icpc.io/
-[registration instructions for NCPC 2025]: https://nordic.icpc.io/ncpc2026/compete
+[registration instructions for NCPC 2026]: https://nordic.icpc.io/ncpc2026/compete
 [Jönköping University]: https://ju.se/
 [Rudy Matela]: mailto:rudy.matela@ju.se
 [rudy.matela@ju.se]: mailto:rudy.matela@ju.se
