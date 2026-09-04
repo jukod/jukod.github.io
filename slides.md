@@ -177,6 +177,18 @@ How to register in the NCPC?
 
 ------
 
+Coming up:
+
+* __This Friday__ afternoon 18 September: __info & registration__ session
+* __Next Friday__ afternoon 25 September: __practice contest/workshop__
+* The other __Saturday 3 October__ 10:00: __NCPC__, the real deal!
+
+These are in your student calendars.  Rooms: E1029 (Stora Enso) and E1028 (Husqvarna).
+
+<img src="https://github.com/user-attachments/assets/60c504fb-b859-4fe0-960b-13c9bb5bf50c" width=100% />
+
+------
+
 ::: columns
 
 :::: {.column width=50%}
