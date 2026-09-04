@@ -65,7 +65,7 @@ The NCPC format:
 [C++]:     https://isocpp.org/
 [C]:       https://en.wikipedia.org/wiki/C_(programming_language)
 [40 other languages]: https://open.kattis.com/languages
-[most problems solved]: https://ncpc24.kattis.com/contests/ncpc24/standings?filter=6262
+[most problems solved]: https://ncpc25.kattis.com/contests/ncpc25/standings/sweden/icpc
 
 ------
 
@@ -130,7 +130,7 @@ Please review the rules here:
 * problem scores are 0/1 (all-or-nothing):
 	- try to think about edge cases if you get "wrong answer"
 
-[the scoreboard]: https://ncpc24.kattis.com/contests/ncpc24/standings?filter=6262
+[the scoreboard]: https://ncpc25.kattis.com/contests/ncpc25/standings/sweden/icpc
 
 ------
 
