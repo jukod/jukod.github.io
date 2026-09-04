@@ -1,13 +1,14 @@
-NCPC 2025 @ JU, Opening Presentation
+NCPC 2026 @ JU, Opening Presentation
 ====================================
 
-Nordic Collegiagte Programming Contest 2025
+Nordic Collegiagte Programming Contest 2026
 
-October 4th 2025
+October 3rd 2026
+
 
 ------
 
-Welcome to NCPC 2025 @ JU.
+Welcome to NCPC 2026 @ JU.
 
 Thank you for coming.
 
@@ -21,7 +22,7 @@ Here is some useful information.
 | ------------------ | ---------------------------- |
 | 10:00 -- 10:15     | Recommended arrival          |
 | 10:15 -- 10:45     | Introduction Presentation    |
-| __11:00 -- 16:00__ | __Main Contest (NCPC 2025)__ |
+| __11:00 -- 16:00__ | __Main Contest (NCPC 2026)__ |
 | Around 12:00       | Light lunch is served        |
 | 16:00 -- 16:30     | Quick Award Ceremony         |
 
@@ -107,7 +108,7 @@ Please only open it once the competition timer starts.
 
 Please review the rules here:
 
-## [nordic.icpc.io/ncpc2025/compete](https://nordic.icpc.io/ncpc2025/compete#rules)
+## [nordic.icpc.io/ncpc2026/compete](https://nordic.icpc.io/ncpc2026/compete#rules)
 
 ------
 
@@ -172,7 +173,7 @@ If you would __not__ like to appear in the pictures, please let me know.
 | ------------------ | ---------------------------- |
 | 10:00 -- 10:15     | Recommended arrival          |
 | 10:15 -- 10:45     | Introduction Presentation    |
-| __11:00 -- 16:00__ | __Main Contest (NCPC 2025)__ |
+| __11:00 -- 16:00__ | __Main Contest (NCPC 2026)__ |
 | Around 12:00       | Light lunch is served        |
 | 16:00 -- 16:20     | Quick Award Ceremony         |
 
@@ -194,7 +195,7 @@ It'll be very __quick__ I promise...
 __Now:__
 
 1. Login on [ncpc25.kattis.com](https://ncpc25.kattis.com)
-2. Review rules: [nordic.icpc.io/ncpc2025/compete](https://nordic.icpc.io/ncpc2025/compete#rules)
+2. Review rules: [nordic.icpc.io/ncpc2026/compete](https://nordic.icpc.io/ncpc2026/compete#rules)
 3. Move to your assigned team table in Husqvarna or Finnveden.
 4. You may leave your backpacks here if you like.
 
@@ -206,7 +207,7 @@ Good luck!
 
 ------
 
-NCPC 2025 @ JU, Closing Presentation
+NCPC 2026 @ JU, Closing Presentation
 ====================================
 
 ------
