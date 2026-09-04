@@ -116,7 +116,7 @@ Please review the rules here:
 
 ------
 
-## [Our Teams](https://ncpc25.kattis.com/contests/ncpc25/standings/sweden/jonkoping-university)
+## [Our Teams](https://ncpc26.kattis.com/contests/ncpc26/standings/sweden/jonkoping-university)
 
 ------
 
@@ -138,7 +138,7 @@ The contest uses the Kattis automatic judging system.
 
 You should login on:
 
-## [ncpc25.kattis.com](https://ncpc25.kattis.com)
+## [ncpc26.kattis.com](https://ncpc26.kattis.com)
 
 ------
 
@@ -194,7 +194,7 @@ It'll be very __quick__ I promise...
 
 __Now:__
 
-1. Login on [ncpc25.kattis.com](https://ncpc25.kattis.com)
+1. Login on [ncpc26.kattis.com](https://ncpc26.kattis.com)
 2. Review rules: [nordic.icpc.io/ncpc2026/compete](https://nordic.icpc.io/ncpc2026/compete#rules)
 3. Move to your assigned team table in Husqvarna or Finnveden.
 4. You may leave your backpacks here if you like.
@@ -226,7 +226,7 @@ A special thanks to __you__ for coming!  We appreciate that you are here to comp
 
 ------
 
-Let us take a look together at [the results](https://ncpc25.kattis.com/contests/ncpc25/standings).
+Let us take a look together at [the results](https://ncpc26.kattis.com/contests/ncpc26/standings).
 
 1. Nordics
 2. Sweden
