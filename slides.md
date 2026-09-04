@@ -15,7 +15,7 @@ What is the [NCPC][]?
 
 [Nordic Collegiate Programming Contest][]
 
-<img src="https://github.com/user-attachments/assets/60c504fb-b859-4fe0-960b-13c9bb5bf50c" width=100% />
+<img src="https://github.com/user-attachments/assets/e99e464e-58ff-4e0e-b0b0-ce608b0c9937" width=100% />
 
 We host it at JU every year.
 
