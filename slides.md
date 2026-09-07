@@ -63,9 +63,9 @@ The NCPC format:
 
 ## NCPC 2026
 
-__Where?__ &nbsp; Here at JU / JTH.
-
 __When?__ &nbsp; Saturday 3 October.
+
+__Where?__ &nbsp; Here at JU / JTH.
 
 <img src="https://github.com/user-attachments/assets/aae57475-676c-40e8-87e7-590356985fd8" width=100% />
 
@@ -79,6 +79,10 @@ How are the problems?
 * Programming
 * Algorithms
 * Data Structures
+* Logic
+
+&nbsp;
+
 * From easy...
 * ... to hard.
 
