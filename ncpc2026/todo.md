@@ -52,12 +52,11 @@ Organizers should arrive __at 09:00__ to prepare.
 * ✅ __[Add on TimeEdit for CSE Y1/2/3/4/5][timeedit-booking]__
 	- Done!
 
-* ⭕ __Invite coaches from other programmes__
+* ✅ __Invite coaches from other programmes__
 	- ... and add them to the list in the [event info page](/ncpc2026)
 
-* ⭕ __Invite nearby Högskola__ (Borås, Skövde, Linnaeus)
-	- Reach out to Hannes and Håkan in Borås? (Ulf contacted them last year)
-	- Reach out to Garrit in Linnaeus?
+* ✅ __Invite nearby Högskola__ (Borås, Skövde, Linnaeus)
+	- Rudy has reached out to them
 
 * ⭕ __¿Prepare 3xRPIs for displaying the scoreboard?__
 	- We need 3 Raspberry PIs with a simple Linux distro and a web browser:
