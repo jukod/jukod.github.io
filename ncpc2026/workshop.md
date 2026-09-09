@@ -1,7 +1,7 @@
-NCPC 2025 Workshop Agenda
+NCPC 2026 Workshop Agenda
 =========================
 
-Friday 19, 15:15, E1029 Stora Enso
+Friday 18, 13:15, E1029 Stora Enso
 
 | time       | Topic                                     |
 | ---------- | ----------------------------------------- |
