@@ -153,7 +153,7 @@ After completing the easiest problems above, you can start solving harder proble
 [Rudy Matela]: mailto:rudy.matela@ju.se
 [rudy.matela@ju.se]: mailto:rudy.matela@ju.se
 [competition rules]: https://nordic.icpc.io/ncpc2026/compete#rules
-[ncpc2025rank]: https://ncpc25.kattis.com/contests/ncpc25/standings/sweden/icpc
+[ncpc2025rank]:         https://ncpc25.kattis.com/contests/ncpc25/standings/sweden/icpc
+[most solved problems]: https://ncpc25.kattis.com/contests/ncpc25/standings/sweden/icpc
 [40 other programming languages]: https://open.kattis.com/languages
-[most solved problems]: https://ncpc24.kattis.com/contests/ncpc24/standings?filter=6262
-[≈ 10 programming problems]: https://github.com/icpc/ncpc-web/releases/download/ncpc2022-data/ncpc2022problems.pdf
+[≈ 10 programming problems]: https://github.com/icpc/ncpc-web/releases/download/ncpc2025-data/ncpc2025problems.pdf
