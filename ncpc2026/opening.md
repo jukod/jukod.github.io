@@ -1,13 +1,14 @@
-NCPC 2025 @ JU, Opening Presentation
+NCPC 2026 @ JU, Opening Presentation
 ====================================
 
-Nordic Collegiagte Programming Contest 2025
+Nordic Collegiagte Programming Contest 2026
 
-October 4th 2025
+October 3rd 2026
+
 
 ------
 
-Welcome to NCPC 2025 @ JU.
+Welcome to NCPC 2026 @ JU.
 
 Thank you for coming.
 
@@ -21,7 +22,7 @@ Here is some useful information.
 | ------------------ | ---------------------------- |
 | 10:00 -- 10:15     | Recommended arrival          |
 | 10:15 -- 10:45     | Introduction Presentation    |
-| __11:00 -- 16:00__ | __Main Contest (NCPC 2025)__ |
+| __11:00 -- 16:00__ | __Main Contest (NCPC 2026)__ |
 | Around 12:00       | Light lunch is served        |
 | 16:00 -- 16:30     | Quick Award Ceremony         |
 
@@ -64,7 +65,7 @@ The NCPC format:
 [C++]:     https://isocpp.org/
 [C]:       https://en.wikipedia.org/wiki/C_(programming_language)
 [40 other languages]: https://open.kattis.com/languages
-[most problems solved]: https://ncpc24.kattis.com/contests/ncpc24/standings?filter=6262
+[most problems solved]: https://ncpc25.kattis.com/contests/ncpc25/standings/sweden/icpc
 
 ------
 
@@ -107,7 +108,7 @@ Please only open it once the competition timer starts.
 
 Please review the rules here:
 
-## [nordic.icpc.io/ncpc2025/compete](https://nordic.icpc.io/ncpc2025/compete#rules)
+## [nordic.icpc.io/ncpc2026/compete](https://nordic.icpc.io/ncpc2026/compete#rules)
 
 ------
 
@@ -115,7 +116,7 @@ Please review the rules here:
 
 ------
 
-## [Our Teams](https://ncpc25.kattis.com/contests/ncpc25/standings/sweden/jonkoping-university)
+## [Our Teams](https://ncpc26.kattis.com/contests/ncpc26/standings/sweden/jonkoping-university)
 
 ------
 
@@ -129,7 +130,7 @@ Please review the rules here:
 * problem scores are 0/1 (all-or-nothing):
 	- try to think about edge cases if you get "wrong answer"
 
-[the scoreboard]: https://ncpc24.kattis.com/contests/ncpc24/standings?filter=6262
+[the scoreboard]: https://ncpc25.kattis.com/contests/ncpc25/standings/sweden/icpc
 
 ------
 
@@ -137,7 +138,7 @@ The contest uses the Kattis automatic judging system.
 
 You should login on:
 
-## [ncpc25.kattis.com](https://ncpc25.kattis.com)
+## [ncpc26.kattis.com](https://ncpc26.kattis.com)
 
 ------
 
@@ -172,7 +173,7 @@ If you would __not__ like to appear in the pictures, please let me know.
 | ------------------ | ---------------------------- |
 | 10:00 -- 10:15     | Recommended arrival          |
 | 10:15 -- 10:45     | Introduction Presentation    |
-| __11:00 -- 16:00__ | __Main Contest (NCPC 2025)__ |
+| __11:00 -- 16:00__ | __Main Contest (NCPC 2026)__ |
 | Around 12:00       | Light lunch is served        |
 | 16:00 -- 16:20     | Quick Award Ceremony         |
 
@@ -193,8 +194,8 @@ It'll be very __quick__ I promise...
 
 __Now:__
 
-1. Login on [ncpc25.kattis.com](https://ncpc25.kattis.com)
-2. Review rules: [nordic.icpc.io/ncpc2025/compete](https://nordic.icpc.io/ncpc2025/compete#rules)
+1. Login on [ncpc26.kattis.com](https://ncpc26.kattis.com)
+2. Review rules: [nordic.icpc.io/ncpc2026/compete](https://nordic.icpc.io/ncpc2026/compete#rules)
 3. Move to your assigned team table in Husqvarna or Finnveden.
 4. You may leave your backpacks here if you like.
 
@@ -206,7 +207,7 @@ Good luck!
 
 ------
 
-NCPC 2025 @ JU, Closing Presentation
+NCPC 2026 @ JU, Closing Presentation
 ====================================
 
 ------
@@ -225,7 +226,7 @@ A special thanks to __you__ for coming!  We appreciate that you are here to comp
 
 ------
 
-Let us take a look together at [the results](https://ncpc25.kattis.com/contests/ncpc25/standings).
+Let us take a look together at [the results](https://ncpc26.kattis.com/contests/ncpc26/standings).
 
 1. Nordics
 2. Sweden

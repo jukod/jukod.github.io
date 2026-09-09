@@ -7,10 +7,14 @@ all: \
 	fig/highest-hill-1.svg \
 	fig/highest-hill-2.svg \
 	ncpc2025/opening.html \
+	ncpc2026/opening.html \
 	slides.html
 
 slides.html: slides.md Makefile
 	pandoc --title "JU Kod" -tslidy -s $< -o $@
+
+ncpc2026/opening.html: ncpc2026/opening.md Makefile
+	pandoc --title "NCPC 2026 @ JU" -tslidy -s $< -o $@
 
 ncpc2025/opening.html: ncpc2025/opening.md Makefile
 	pandoc --title "NCPC 2025 @ JU" -tslidy -s $< -o $@
