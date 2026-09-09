@@ -40,9 +40,10 @@ Organizers should arrive __at 09:00__ to prepare.
 	- light lunch served at 12:00 with coffee and biscuits thorughout
 	- Joel has ordered this.
 
-* ⭕ __Contact caretakers and security__
+* ✅ __Contact caretakers and security__
      for any considerations following suggestion from Annika.
-	 Rudy will take care of this.
+	 - security was contacted
+	 - caretakers was not: we don't need any special furniture arrangements
 
 * ✅ __Prepare event schedule__.
 	The [event schedule](/ncpc2026#schedule-saturday-3-october-2026) draft is prepared.
