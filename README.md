@@ -24,10 +24,10 @@ Also join [our Discord server][].  :-)
 
 ## Upcoming events
 
-| Event                        | Date                     | Time      | Location            |
-| ---------------------------- | ------------------------ | ----------| ------------------- |
-| [NCPC Info & Registration][] |   Friday, 18 September   |   13:00   |   E1029 Stora Enso  |
-| Final [Practice Workshop][]  |   Friday, 25 September   |   13:00   |   E1028 Husqvarna   |
+| Event                        | Date                     | Time      | Location             |
+| ---------------------------- | ------------------------ | ----------| -------------------- |
+| [NCPC Info & Registration][] |   Friday, 18 September   |   13:00   |   E1029 Stora Enso   |
+| Final [Practice Workshop][]  |   Friday, 25 September   |   13:00   |   E1028 Husqvarna    |
 | __[NCPC @ JTH]__ | [Saturday, 3 October 2026](/ncpc2026) | [10:00](/ncpc2026) | [JTH](/ncpc2026) |
 
 You must [register](/ncpc2026#registration) to participate in the [NCPC @ JTH].

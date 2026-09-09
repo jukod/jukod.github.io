@@ -34,11 +34,11 @@ Organizers should arrive __at 09:00__ to prepare.
 
 #### Autumn
 
-* ⭕ __Order light lunch from Dalucci__ early Autumn, estimate:
+* ✅ __Order light lunch from Dalucci__ early Autumn, estimate:
 	- for 34 people (maybe more, maybe less, refine after registration):
 		4 runners + 30 contestants (10 teams).
 	- light lunch served at 12:00 with coffee and biscuits thorughout
-	- Joel will take care of this.
+	- Joel has ordered this.
 
 * ⭕ __Contact caretakers and security__
      for any considerations following suggestion from Annika.
@@ -47,7 +47,7 @@ Organizers should arrive __at 09:00__ to prepare.
 * ✅ __Prepare event schedule__.
 	The [event schedule](/ncpc2026#schedule-saturday-3-october-2026) draft is prepared.
 
-* ⭕ __Prepare quick [opening/closing presentations](/ncpc2026/opening)__
+* ✅ __Prepare quick [opening/closing presentations](/ncpc2026/opening)__
 
 * ✅ __[Add on TimeEdit for CSE Y1/2/3/4/5][timeedit-booking]__
 	- Done!
