@@ -65,12 +65,11 @@ Organizers should arrive __at 09:00__ to prepare.
 	  This is not mandatory, but is a nice to have.
 	- (Raspberries are a suggestion
 	  any devices with a browser and an HDMI port would suffice...)
+	- Raspberries are in black boxes at the department cupboards.
+	- These already have RaspiOS, so it's just a matter of plugging them.
 	- The rooms already have projectors.
-	- The raspberries that were in Patrick's office have RaspiOS.
-	  So it's just a matter of plugging them.
-	- We just need either: an female-female HDMI convertor
-	- or a convertor between HDMI and micro hdmi.
-	  (Rudy: I'll look if I have these at home and we and wing-it then)
+	- Rudy: I got a female-female HDMI connector and a HDMI-micro HDMI convertor
+	  and I'll test these soon.
 
 
 #### Month before the event
