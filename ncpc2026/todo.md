@@ -59,17 +59,8 @@ Organizers should arrive __at 09:00__ to prepare.
 * ✅ __Invite nearby Högskola__ (Borås, Skövde, Linnaeus)
 	- Rudy has reached out to them
 
-* ⭕ __¿Prepare 3xRPIs for displaying the scoreboard?__
-	- We need 3 Raspberry PIs with a simple Linux distro and a web browser:
-	  just to display the scoreboard in the contest rooms during the contest.
-	  This is not mandatory, but is a nice to have.
-	- (Raspberries are a suggestion
-	  any devices with a browser and an HDMI port would suffice...)
-	- Raspberries are in black boxes at the department cupboards.
-	- These already have RaspiOS, so it's just a matter of plugging them.
-	- The rooms already have projectors.
-	- Rudy: I got a female-female HDMI connector and a HDMI-micro HDMI convertor
-	  and I'll test these soon.
+* ⭕ __¿Prepare 2xRPIs for displaying the scoreboard?__
+	- Rudy prepared 1xRPI.  1 to go.
 
 
 #### Month before the event
