@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc 3.10.2" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>pamphlet</title>
+  <style>
+    /* Default styles provided by pandoc.
+    ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+    */
+    html {
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 12px;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      html {
+        background-color: white;
+      }
+      body {
+        background-color: transparent;
+        color: black;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    svg {
+      height: auto;
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      white-space: pre-wrap;
+      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
+      font-size: 85%;
+      margin: 0;
+      hyphens: manual;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      border: none;
+      border-top: 1px solid #1a1a1a;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: 1.5em;}
+    div.column{flex: auto;}
+    @media screen {
+    div.columns{gap: min(4vw, 1.5em);}
+    div.column{overflow-x: auto;}
+    }
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+</head>
+<body>
+<h1 id="ncpc-2026-jönköping-university">NCPC 2026 @ Jönköping
+University</h1>
+<p><img
+src="https://github.com/user-attachments/assets/e99e464e-58ff-4e0e-b0b0-ce608b0c9937" /></p>
+<p><a href="https://nordic.icpc.io/">NCPC</a> is the <a
+href="https://nordic.icpc.io/">Nordic Collegiate Programming
+Contest</a>, an yearly competition involving algorithms and programming
+aimed at university students. Teams of 3 university students compete
+solving <a
+href="https://github.com/icpc/ncpc-web/releases/download/ncpc2025-data/ncpc2025problems.pdf">≈
+10 programming problems</a> in 5 hours using either C, Python, Java, C#,
+C++, Haskell or one of <a href="https://open.kattis.com/languages">40
+other programming languages</a>. At the end, the team with <a
+href="https://ncpc25.kattis.com/contests/ncpc25/standings/sweden/icpc">most
+solved problems</a> wins. It’s quite fun! :-)</p>
+<p>You can find further info in <a href="https://nordic.icpc.io/">NCPC’s
+website</a>. — <a
+href="https://nordic.icpc.io/">https://nordic.icpc.io/</a></p>
+<p>We will host it at JTH on <strong>Saturday, 3 October 2026</strong>.
+Students are welcome to participate.</p>
+<h2 id="upcoming-events">Upcoming events</h2>
+<table>
+<colgroup>
+<col style="width: 34%" />
+<col style="width: 29%" />
+<col style="width: 12%" />
+<col style="width: 24%" />
+</colgroup>
+<thead>
+<tr>
+<th>Event</th>
+<th>Date</th>
+<th>Time</th>
+<th>Location</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/ncpc2026">NCPC Info &amp; Registration</a></td>
+<td>Friday, 18 September</td>
+<td>13:00</td>
+<td>E1029 Stora Enso</td>
+</tr>
+<tr>
+<td>Final <a href="https://jukod.github.io/workshop">Practice
+Workshop</a></td>
+<td>Friday, 25 September</td>
+<td>13:00</td>
+<td>E1028 Husqvarna</td>
+</tr>
+<tr>
+<td><strong><a href="/ncpc2026">NCPC @ JTH</a></strong></td>
+<td><a href="/ncpc2026">Saturday, 3 October 2026</a></td>
+<td><a href="/ncpc2026">10:00</a></td>
+<td><a href="/ncpc2026">JTH</a></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Contact.</strong>   Contact Rudy Matela <a
+href="mailto:rudy.matela@ju.se">rudy.matela@ju.se</a> for any
+questions.</p>
+<p> </p>
+<h2 id="registration">Registration</h2>
+<p>You must register to participate in the <a
+href="https://nordic.icpc.io/">Nordic Collegiate Programming Contest</a>
+(<a href="https://nordic.icpc.io/">NCPC 2026</a>). Registration
+steps:</p>
+<ol type="1">
+<li>find a coach (usually a lecturer from your programme).
+<ul>
+<li>JTH’s Computing students: <a href="mailto:rudy.matela@ju.se">Rudy
+Matela</a> will gladly be your coach, just email him: &lt;<a
+href="mailto:rudy.matela@ju.se">rudy.matela@ju.se</a>&gt;.</li>
+</ul></li>
+<li>form a team of up to 3 team members, having 3 is recommended.</li>
+<li><strong>send your coach</strong> the required information for all
+(3) team members:
+<ul>
+<li><strong>full name</strong>;</li>
+<li><strong>university email address (e.g.:
+<code>@student.ju.se</code>)</strong>;</li>
+<li><strong>a team name</strong></li>
+</ul></li>
+<li>coaches must follow the <a
+href="https://nordic.icpc.io/ncpc2026/compete">registration instructions
+for NCPC 2026</a>:
+<ul>
+<li>See <a href="https://nordic.icpc.io/">nordic.icpc.io</a></li>
+<li>select Jönköping University as the site</li>
+</ul></li>
+<li>after the coach registers the team, team members get an email to
+complete their registration.</li>
+</ol>
+<p>Registration is already open!</p>
+<h3 id="preparingpracticing-for-the-ncpc">Preparing/practicing for the
+NCPC</h3>
+<p>The best problems for practicing leading up to the competition are
+the problems from past editions. These can be found in the NCPC website
+and the page for the local event:</p>
+<ul>
+<li><a href="https://nordic.icpc.io/">nordic.icpc.io</a> – global NCPC
+website</li>
+<li><a
+href="https://jukod.github.io/ncpc2026">jukod.github.io/ncpc2026</a> –
+local NCPC @ JTH event page</li>
+</ul>
+<h3 id="contact">Contact</h3>
+<p>Contact Rudy Matela <a
+href="mailto:rudy.matela@ju.se">rudy.matela@ju.se</a> to register for
+NCPC or for any questions.</p>
+</body>
+</html>
