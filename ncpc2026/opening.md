@@ -30,6 +30,8 @@ Here is some useful information.
 
 Many thanks to our local sponsor the __Department of Computing of JTH a.k.a. JAIL__.
 
+Many thanks to our food sponsor __Jane Street__.
+
 Also thanks to the central organization of NCPC for preparing and hosting the multi-site contest.
 
 A special thanks to __you__ for coming!  We appreciate that you are here to compete!

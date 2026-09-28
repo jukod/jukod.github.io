@@ -68,8 +68,8 @@ Organizers should arrive __at 09:00__ to prepare.
 * ✅ __Remind and invite runners__ a month before the event.
 	- All were invited on dist-jth-comp
 
-* ⭕ __Get 6 power strips__ (3m) from IT/Premises with adhesive tape too
-	- the adhesive tape is so that cables are not loose on the floor!
+* ✅ __Get 6 power strips__ (3m) from IT/Premises with adhesive tape too
+	- we have two short power strips, this should be enough in a pinch.
 
 * ⭕ __Review__ [opening/closing __presentations__](https://jukod.github.io/ncpc2026/opening)
 
