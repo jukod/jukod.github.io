@@ -59,14 +59,14 @@ Organizers should arrive __at 09:00__ to prepare.
 * ✅ __Invite nearby Högskola__ (Borås, Skövde, Linnaeus)
 	- Rudy has reached out to them
 
-* ⭕ __¿Prepare 2xRPIs for displaying the scoreboard?__
-	- Rudy prepared 1xRPI.  1 to go.
+* ✅ __¿Prepare 2xRPIs for displaying the scoreboard?__
+	- Rudy prepared 1xRPI.  We'll survive with just one.
 
 
 #### Month before the event
 
-* ⭕ __Remind and invite runners__ a month before the event.
-	 Maybe invite all on the distcomp list?
+* ✅ __Remind and invite runners__ a month before the event.
+	- All were invited on dist-jth-comp
 
 * ⭕ __Get 6 power strips__ (3m) from IT/Premises with adhesive tape too
 	- the adhesive tape is so that cables are not loose on the floor!
@@ -74,13 +74,13 @@ Organizers should arrive __at 09:00__ to prepare.
 * ⭕ __Review__ [opening/closing __presentations__](https://jukod.github.io/ncpc2026/opening)
 
 * ⭕ __Buy balloons and helium__ a week before the event.
-	- Rudy has leftovers from past year, we need to double-check if there's enough
-	- 5 balloons per team should be more than enough;
-	- with 10 teams, that's 50 balloons each.
-	- We need thin ribbons to tie each balloon;
+	- we need a tank of Helium;
+	- we need about 100 small balloons of 10+ colours;
+	- ~~we have ribbon~~;
 	- These materials should be available to buy in party stores, such as Partyland near JU/JTH.
 
-* ⭕ __Inform Dalucci the exact number of people__ a week before the event.
+* ✅ __Inform Dalucci the exact number of people__ a week before the event.
+	- Joel has completed this.
 
 
 ### __Tasks__ leading-up-to and __during the event__
