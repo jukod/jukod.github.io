@@ -81,24 +81,95 @@ Problems usually involve standard IO in the command line:
 Equipment:
 
 * __1 computer per team__ with 1 keyboard, 1 mouse and 1 screen;
-* no other electronic devices such as mobile phones;
-* printed material is allowed (e.g.: books).
+* 🚫 no other electronic devices such as mobile phones;
+
+-------
+
+* 🚫 You may __NOT__ use the internet for anything other than accessing the contest page and documentation.
+* 🚫 You may __NOT__ communicate with anyone other than the contest organizers and your own team members.
+
+-------
+
+Reference material:
+
+* ✅ printed material is freely allowed (e.g.: books).
+* 🚫 pre-written code or other digital material is __NOT__ allowed 
+* ✅ with the exception of official language documentation:
+    * https://docs.python.org/ for Python
+    * https://cppreference.com/ for C++
+    * https://devdocs.io/c/ for C
+    * https://docs.oracle.com/en/java/ for Java
+    * https://learn.microsoft.com/en-us/dotnet/csharp/ for C#
+    * or equivalent for your language of choice.
+
 
 ------
 
-What you may and may not use:
+Rationale: competitors should write their own code manually.
 
-* You may __NOT__ use the internet for anything other than accessing the contest page and documentation.
-* You may __NOT__ use a program using generative AI, such as Github Copilot or ChatGPT.
-* You may use prewritten code, and other software available on your computer that doesn’t break the previous two rules.
-* You may __NOT__ communicate with anyone other than the contest organizers and your own team members.
+* ✅ Basic code completion is allowed, but;
+* 🚫 __Generative AI / LLM tools are explicitly disallowed__;
 
 ------
 
 For instance:
 
 If you are using VS Code,
-please remember to disable Copilot or any extensions with Generative AI.
+please remember to __disable Copilot or any extensions with Generative AI__.
+
+------
+
+## Allowed/recommended software
+
+------
+
+Editors
+
+* vim / gvim / nvim
+* nano / emacs
+* gedit / geany / kate
+* … or similar
+* __with no GenAI or LLM plugins__
+
+------
+
+IDEs
+
+* Visual Studio Code, and the following plugins:
+	* C/C++ by Microsoft
+    * Deubgger for Java by Microsoft
+    * Python by Microsoft
+	* … or similar
+* Code::Blocks
+* PyCharm
+* … or similar
+* __with no GenAI or LLM plugins__
+
+------
+
+Language Environments, Compilers and Debuggers
+
+* `gcc` and `gdb`
+* `g++` and `gdb`
+* `javac`, `java` and `jdb`
+* `python` or `pypy` with `pdb`
+* `kotlinc`
+* … or similar for your programming language of choice
+
+------
+
+Other
+
+* A browser, such as Firefox or Chrome
+* Core command line utilities that do not break other rules:
+	* `perf` is okay, `wget` is not.
+
+------
+
+Rationale: competitors should write their own code manually.
+
+* ✅ Basic code completion is allowed, but;
+* 🚫 __Generative AI / LLM tools are explicitly DISallowed__;
 
 ------
 
