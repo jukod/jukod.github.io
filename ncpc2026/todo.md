@@ -85,7 +85,7 @@ Organizers should arrive __at 09:00__ to prepare.
 
 ### __Tasks__ leading-up-to and __during the event__
 
-* ⭕ (week before) __inform dalucci the exact number of people__
+* ✅ (week before) __inform dalucci the exact number of people__
 
 * ⭕ (evening before) print 3 problem sheets per team,
                       store them in a sealed envelope
