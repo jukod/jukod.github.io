@@ -73,11 +73,12 @@ Organizers should arrive __at 09:00__ to prepare.
 
 * ⭕ __Review__ [opening/closing __presentations__](https://jukod.github.io/ncpc2026/opening)
 
-* ⭕ __Buy balloons and helium__ a week before the event.
-	- we need a tank of Helium;
-	- we need about 100 small balloons of 10+ colours;
+* ✅ __Buy balloons and helium__ a week before the event.
+	- ~~we have tank of Helium~~;
+	- ~~we have 100 small balloons of 10+ colours~~;
 	- ~~we have ribbon~~;
-	- These materials should be available to buy in party stores, such as Partyland near JU/JTH.
+	- These materials should be available to buy in Kjell&Company near-ish JU
+	  or party stores
 
 * ✅ __Inform Dalucci the exact number of people__ a week before the event.
 	- Joel has completed this.
