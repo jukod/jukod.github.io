@@ -190,6 +190,7 @@ A regional.
 Equivalent to a sub-regional in Europe.
 This qualifies to one of the [regionals in North(ern) America].
 
+[NAQ 2026];
 [NAQ 2025];
 [NAQ 2024];
 [NAQ 2023];
@@ -395,6 +396,7 @@ This is equivalent to the [EUC], but in North(ern) America.
 [SEERC 2021]: http://acm.ro/2021/prob/problems-2021-2022.pdf
 [SEERC 2020]: http://acm.ro/2020/prob/problems2020-2021.pdf
 
+[NAQ 2026]: https://open.kattis.com/problem-sources/2026%20ICPC%20North%20America%20Qualifier?order=difficulty_data
 [NAQ 2025]: https://open.kattis.com/problem-sources/2025%20ICPC%20North%20America%20Qualifier?order=difficulty_data
 [NAQ 2024]: https://open.kattis.com/problem-sources/2024%20ICPC%20North%20America%20Qualifier?order=difficulty_data
 [NAQ 2023]: https://open.kattis.com/problem-sources/2023%20ICPC%20North%20America%20Qualifier%2030%20September?order=difficulty_data
