@@ -141,6 +141,12 @@ A sub-regional.
 
 Preliminaries for a sub-regional.
 
+[BAPC Preliminaries 2025];
+[BAPC Preliminaries 2024];
+[BAPC Preliminaries 2023];
+[BAPC Preliminaries 2022];
+[BAPC Preliminaries 2021];
+[BAPC Preliminaries 2020];
 [BAPC Preliminaries 2019];
 [BAPC Preliminaries 2018];
 [BAPC Preliminaries 2017];
@@ -359,6 +365,12 @@ This is equivalent to the [EUC], but in North(ern) America.
 [BAPC 2013]: https://open.kattis.com/problem-sources/Benelux%20Algorithm%20Programming%20Contest%20%28BAPC%29%202013?order=difficulty_data
 [BAPC 2012]: https://open.kattis.com/problem-sources/Benelux%20Algorithm%20Programming%20Contest%20%28BAPC%29%202012?order=difficulty_data
 
+[BAPC preliminaries 2025]: https://open.kattis.com/problem-sources/Benelux%20Algorithm%20Programming%20Contest%20%28BAPC%29%20preliminaries%202025?order=difficulty_data
+[BAPC preliminaries 2024]: https://open.kattis.com/problem-sources/Benelux%20Algorithm%20Programming%20Contest%20%28BAPC%29%20preliminaries%202024?order=difficulty_data
+[BAPC preliminaries 2023]: https://open.kattis.com/problem-sources/Benelux%20Algorithm%20Programming%20Contest%20%28BAPC%29%20preliminaries%202023?order=difficulty_data
+[BAPC preliminaries 2022]: https://open.kattis.com/problem-sources/Benelux%20Algorithm%20Programming%20Contest%20%28BAPC%29%20preliminaries%202022?order=difficulty_data
+[BAPC preliminaries 2021]: https://open.kattis.com/problem-sources/Benelux%20Algorithm%20Programming%20Contest%20%28BAPC%29%20preliminaries%202021?order=difficulty_data
+[BAPC preliminaries 2020]: https://open.kattis.com/problem-sources/Benelux%20Algorithm%20Programming%20Contest%20%28BAPC%29%20preliminaries%202020?order=difficulty_data
 [BAPC preliminaries 2019]: https://open.kattis.com/problem-sources/Benelux%20Algorithm%20Programming%20Contest%20%28BAPC%29%20preliminaries%202019?order=difficulty_data
 [BAPC preliminaries 2018]: https://open.kattis.com/problem-sources/Benelux%20Algorithm%20Programming%20Contest%20%28BAPC%29%20preliminaries%202018?order=difficulty_data
 [BAPC preliminaries 2017]: https://open.kattis.com/problem-sources/Benelux%20Algorithm%20Programming%20Contest%20%28BAPC%29%20preliminaries%202017?order=difficulty_data
