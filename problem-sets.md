@@ -185,10 +185,14 @@ A regional.
 [SEERC 2020].
 
 
-#### [NAQ] 🇺🇸 🇨🇦 ICPC North(ern) America Qualifier
+#### [NAQ] 🇺🇸 🇨🇦 ICPC North America Qualifier
 
-Equivalent to a sub-regional in Europe.
+Equivalent to a sub-regional in Europe such as NCPC, GCPC, UKIEPC and BAPC.
 This qualifies to one of the [regionals in North(ern) America].
+
+a.k.a. North(ern) America(n) Qualifier.
+Its name has shifted to including an n (American)
+and not including an n (America).
 
 [NAQ 2026];
 [NAQ 2025];
