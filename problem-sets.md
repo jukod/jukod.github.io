@@ -72,6 +72,7 @@ A macro-regional.
 
 The [world finals].
 
+[ICPC World Finals 2025];
 [ICPC World Finals 2024];
 [ICPC World Finals 2023];
 [ICPC World Finals 2022 and 2023];
@@ -92,6 +93,12 @@ The [world finals].
 
 A sub-regional.
 
+[GCPC 2026];
+[GCPC 2025];
+[GCPC 2024];
+[GCPC 2023];
+[GCPC 2022];
+[GCPC 2021];
 [GCPC 2020];
 [GCPC 2013];
 [GCPC 2012];
@@ -101,7 +108,12 @@ A sub-regional.
 
 A sub-regional.
 
+[UKIEPC 2024];
+[UKIEPC 2023];
 [UKIEPC 2020];
+[UKIEPC 2019];
+[UKIEPC 2018];
+[UKIEPC 2017];
 [UKIEPC 2016];
 [UKIEPC 2015];
 
@@ -110,6 +122,10 @@ A sub-regional.
 
 A sub-regional.
 
+[BAPC 2025];
+[BAPC 2024];
+[BAPC 2023];
+[BAPC 2022];
 [BAPC 2021];
 [BAPC 2020];
 [BAPC 2019];
@@ -293,6 +309,7 @@ This is equivalent to the [EUC], but in North(ern) America.
 
 [EUC 2024]: https://euc.icpc.global/wp-content/uploads/2024/03/EUC2024_ProblemSet.pdf
 
+[ICPC World Finals 2025]: https://open.kattis.com/problem-sources/ICPC%20World%20Finals%202025?order=difficulty_data
 [ICPC World Finals 2024]: https://open.kattis.com/problem-sources/ICPC%20World%20Finals%202024?order=difficulty_data
 [ICPC World Finals 2023]: https://open.kattis.com/problem-sources/ICPC%20World%20Finals%202023?order=difficulty_data
 [ICPC World Finals 2022 and 2023]: https://open.kattis.com/problem-sources/ICPC%20World%20Finals%202022%20and%202023?order=difficulty_data
@@ -308,14 +325,29 @@ This is equivalent to the [EUC], but in North(ern) America.
 [ICPC World Finals 2013]: https://open.kattis.com/problem-sources/International%20Collegiate%20Programming%20Contest%20%28ACM-ICPC%29%20World%20Finals%202013?order=difficulty_data
 [ICPC World Finals 2012]: https://open.kattis.com/problem-sources/International%20Collegiate%20Programming%20Contest%20%28ACM-ICPC%29%20World%20Finals%202012?order=difficulty_data
 
+[GCPC 2026]: https://open.kattis.com/problem-sources/German%20Collegiate%20Programming%20Contest%20%28GCPC%29%202026?order=difficulty_data
+[GCPC 2025]: https://open.kattis.com/problem-sources/German%20Collegiate%20Programming%20Contest%20%28GCPC%29%202025?order=difficulty_data
+[GCPC 2024]: https://open.kattis.com/problem-sources/German%20Collegiate%20Programming%20Contest%20%28GCPC%29%202024?order=difficulty_data
+[GCPC 2023]: https://open.kattis.com/problem-sources/German%20Collegiate%20Programming%20Contest%20%28GCPC%29%202023?order=difficulty_data
+[GCPC 2022]: https://open.kattis.com/problem-sources/German%20Collegiate%20Programming%20Contest%20%28GCPC%29%202022?order=difficulty_data
+[GCPC 2021]: https://open.kattis.com/problem-sources/German%20Collegiate%20Programming%20Contest%20%28GCPC%29%202021?order=difficulty_data
 [GCPC 2020]: https://open.kattis.com/problem-sources/German%20Collegiate%20Programming%20Contest%20%28GCPC%29%202020?order=difficulty_data
 [GCPC 2013]: https://open.kattis.com/problem-sources/German%20Collegiate%20Programming%20Contest%20%28GCPC%29%202013?order=difficulty_data
 [GCPC 2012]: https://open.kattis.com/problem-sources/German%20Collegiate%20Programming%20Contest%20%28GCPC%29%202012?order=difficulty_data
 
+[UKIEPC 2024]: https://open.kattis.com/problem-sources/United%20Kingdom%20and%20Ireland%20Programming%20Contest%20%28UKIEPC%29%202024?order=difficulty_data
+[UKIEPC 2023]: https://open.kattis.com/problem-sources/United%20Kingdom%20and%20Ireland%20Programming%20Contest%20%28UKIEPC%29%202023?order=difficulty_data
 [UKIEPC 2020]: https://open.kattis.com/problem-sources/United%20Kingdom%20and%20Ireland%20Programming%20Contest%20%28UKIEPC%29%202020?order=difficulty_data
+[UKIEPC 2019]: https://open.kattis.com/problem-sources/United%20Kingdom%20and%20Ireland%20Programming%20Contest%20%28UKIEPC%29%202019?order=difficulty_data
+[UKIEPC 2018]: https://open.kattis.com/problem-sources/United%20Kingdom%20and%20Ireland%20Programming%20Contest%20%28UKIEPC%29%202018?order=difficulty_data
+[UKIEPC 2017]: https://open.kattis.com/problem-sources/United%20Kingdom%20and%20Ireland%20Programming%20Contest%20%28UKIEPC%29%202017?order=difficulty_data
 [UKIEPC 2016]: https://open.kattis.com/problem-sources/United%20Kingdom%20and%20Ireland%20Programming%20Contest%20%28UKIEPC%29%202016?order=difficulty_data
 [UKIEPC 2015]: https://open.kattis.com/problem-sources/United%20Kingdom%20and%20Ireland%20Programming%20Contest%20%28UKIEPC%29%202015?order=difficulty_data
 
+[BAPC 2025]: https://open.kattis.com/problem-sources/Benelux%20Algorithm%20Programming%20Contest%20%28BAPC%29%202025?order=difficulty_data
+[BAPC 2024]: https://open.kattis.com/problem-sources/Benelux%20Algorithm%20Programming%20Contest%20%28BAPC%29%202024?order=difficulty_data
+[BAPC 2023]: https://open.kattis.com/problem-sources/Benelux%20Algorithm%20Programming%20Contest%20%28BAPC%29%202023?order=difficulty_data
+[BAPC 2022]: https://open.kattis.com/problem-sources/Benelux%20Algorithm%20Programming%20Contest%20%28BAPC%29%202022?order=difficulty_data
 [BAPC 2021]: https://open.kattis.com/problem-sources/Benelux%20Algorithm%20Programming%20Contest%20%28BAPC%29%202021?order=difficulty_data
 [BAPC 2020]: https://open.kattis.com/problem-sources/Benelux%20Algorithm%20Programming%20Contest%20%28BAPC%29%202020?order=difficulty_data
 [BAPC 2019]: https://open.kattis.com/problem-sources/Benelux%20Algorithm%20Programming%20Contest%20%28BAPC%29%202019?order=difficulty_data
