@@ -19,6 +19,8 @@ contain all problems from the actual contest held in the past.
 
 A sub-regional.
 
+[NCPC 2026];
+[NCPC 2025];
 [NCPC 2024];
 [NCPC 2023];
 [NCPC 2022];
@@ -45,6 +47,9 @@ A sub-regional.
 
 A regional.
 
+[NWERC 2025];
+[NWERC 2024];
+[NWERC 2023];
 [NWERC 2022];
 [NWERC 2021];
 [NWERC 2020];
@@ -250,6 +255,8 @@ This is equivalent to the [EUC], but in North(ern) America.
 
 [problem sets]: https://open.kattis.com/problem-sources/
 
+[NCPC 2026]: https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202026?order=difficulty_data
+[NCPC 2025]: https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202025?order=difficulty_data
 [NCPC 2024]: https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202024?order=difficulty_data
 [NCPC 2023]: https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202023?order=difficulty_data
 [NCPC 2022]: https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202022?order=difficulty_data
@@ -271,6 +278,9 @@ This is equivalent to the [EUC], but in North(ern) America.
 [NCPC 2006]: https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202006?order=difficulty_data
 [NCPC 2005]: https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202005?order=difficulty_data
 
+[NWERC 2025]: https://open.kattis.com/problem-sources/Northwestern%20Europe%20Regional%20Contest%20(NWERC)%202025?order=difficulty_data
+[NWERC 2024]: https://open.kattis.com/problem-sources/Northwestern%20Europe%20Regional%20Contest%20(NWERC)%202024?order=difficulty_data
+[NWERC 2023]: https://open.kattis.com/problem-sources/Northwestern%20Europe%20Regional%20Contest%20(NWERC)%202023?order=difficulty_data
 [NWERC 2022]: https://open.kattis.com/problem-sources/Northwestern%20Europe%20Regional%20Contest%20(NWERC)%202022?order=difficulty_data
 [NWERC 2021]: https://open.kattis.com/problem-sources/Northwestern%20Europe%20Regional%20Contest%20(NWERC)%202021?order=difficulty_data
 [NWERC 2020]: https://open.kattis.com/problem-sources/Northwestern%20Europe%20Regional%20Contest%20(NWERC)%202020?order=difficulty_data
