@@ -2,6 +2,56 @@ JU Kod's (b)log
 ---------------
 
 
+## NCPC 2026
+
+(Short announcement for the staff newsletter)
+
+On 3 October, JU was one of the hosts of the Nordic Collegiate Programming
+Contest (NCPC 2026).  We had 9 JU teams participating with a total of 24
+students.  Out best scoring team was of 4th year Civilingenjör i Datateknik
+students: Alfred Roos, Oliver Fiala and Maria Birtman.  They managed to solve
+[4 computer programming problems](https://ncpc26.kattis.com/contests/ncpc26/problems)
+and placed
+[14th in Sweden](https://ncpc26.kattis.com/contests/ncpc26/standings/sweden/icpc) 🇸🇪 and
+[75th within the Nordics](https://ncpc26.kattis.com/contests/ncpc26/standings/icpc)
+in their category.
+You can find all (JU) teams and participating students at
+[the scoreboard](https://ncpc26.kattis.com/contests/ncpc26/standings/sweden/icpc).
+
+NOTE: use ncpc2026b.jpg picture
+
+
+## NCPC 2026 Results
+
+Thanks to all of those participating in NCPC 2026 @ JU this Saturday 3 October.
+
+The official results are finally out.  The ICPC-qualifiable Swedish 🇸🇪 standings are here:
+
+https://ncpc26.kattis.com/contests/ncpc26/standings/sweden/icpc
+
+The JU standings are here, we had 9 JU teams total:
+
+https://ncpc26.kattis.com/contests/ncpc26/standings/sweden/jonkoping-university
+
+🎈🎈 Congratulations to the Object Disoriented team: Alfred, Maria and Oliver!  🎈🎈
+This year they are the best scoring team from JU, with 4 problems and
+14th in Sweden!  🇸🇪  An awesome result!  Hooray!
+
+Competition was tight: three other teams from JU also solved 4 problems: Lorem
+Ipsum, 1+1=3 and 404 Brain Not Found.  Congratulations to them as well.  It all
+came down to the time criterium for untying.  Other teams had nice scores too
+with several teams almost-there for +1 problem.
+
+I hope you enjoyed the competition and had fun.  I had fun hosting it.  I hope
+to see you again next year.
+
+Many thanks to team (co-)coaches, local organizers and runners: Joel (DV),
+Görkem (CSI), Zakariya (CID), Yoseph (CID) and Andreas (CSI).  Thanks also for
+the support from the Department of Computing (DV) and food sponsorship from
+Jane Street.  We hope you enjoy the t-shirts and keychains.  Many thanks to
+central NCPC organizers too.
+
+
 ## NCPC 2026 Practice Workshops
 
 Here are the results of our practice workshops that ran in Spring/Autumn 2026:
