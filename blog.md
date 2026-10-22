@@ -6,17 +6,19 @@ JU Kod's (b)log
 
 (Short announcement for the staff newsletter)
 
-On 3 October, JU was one of the hosts of the Nordic Collegiate Programming
-Contest (NCPC 2026).  We had 9 JU teams participating with a total of 24
-students.  Out best scoring team was of 4th year Civilingenjör i Datateknik
-students: Alfred Roos, Oliver Fiala and Maria Birtman.  They managed to solve
-[4 computer programming problems](https://ncpc26.kattis.com/contests/ncpc26/problems)
-and placed
+On 3 October, JU hosted the
+[Nordic Collegiate Programming Contest (NCPC 2026)](https://nordic.icpc.io/),
+alongside other participating universities. Nine JU teams took part, with 24
+students in total.
+JU’s top-scoring team comprised fourth-year Computer Science Engineering
+students Alfred Roos, Oliver Fiala and Maria Birtman. They solved
+[four computer programming problems](https://ncpc26.kattis.com/contests/ncpc26/problems),
+placing
 [14th in Sweden](https://ncpc26.kattis.com/contests/ncpc26/standings/sweden/icpc) 🇸🇪 and
-[75th within the Nordics](https://ncpc26.kattis.com/contests/ncpc26/standings/icpc)
+[75th across the Nordics](https://ncpc26.kattis.com/contests/ncpc26/standings/icpc)
 in their category.
-You can find all (JU) teams and participating students at
-[the scoreboard](https://ncpc26.kattis.com/contests/ncpc26/standings/sweden/icpc).
+See [the scoreboard](https://ncpc26.kattis.com/contests/ncpc26/standings/sweden/icpc)
+for the full list of JU teams, participating students and participating universities.
 
 NOTE: use ncpc2026b.jpg picture
 
