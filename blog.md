@@ -2,6 +2,11 @@ JU Kod's (b)log
 ---------------
 
 
+## NWERC practices 2026
+
+* https://open.kattis.com/contests/n7pk7i/standings
+
+
 ## NCPC 2026
 
 (Short announcement for the staff newsletter)
